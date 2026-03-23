@@ -1,0 +1,923 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>US–Iran Conflict | Live News Tracker</title>
+  <meta name="description" content="Live coverage of the US–Iran conflict. Aggregated from Reuters, BBC, Al Jazeera, NYT and more. Updated every 5 minutes." />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet" />
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --red:    #dc2626;
+      --red-d:  #991b1b;
+      --amber:  #f59e0b;
+      --bg:     #0a0a0f;
+      --bg2:    #111118;
+      --bg3:    #1a1a26;
+      --border: #2a2a3a;
+      --text:   #e8e8f0;
+      --muted:  #8888a0;
+      --white:  #ffffff;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: "Inter", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    /* ── TICKER ──────────────────────────────────────────── */
+    .ticker-bar {
+      background: var(--red);
+      overflow: hidden;
+      white-space: nowrap;
+      padding: 6px 0;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+    .ticker-label {
+      display: inline-block;
+      background: #fff;
+      color: var(--red);
+      padding: 2px 12px;
+      margin-right: 16px;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+    .ticker-inner {
+      display: inline-block;
+      animation: ticker 40s linear infinite;
+    }
+    @keyframes ticker {
+      0%   { transform: translateX(100vw); }
+      100% { transform: translateX(-100%); }
+    }
+
+    /* ── HEADER ──────────────────────────────────────────── */
+    header {
+      background: linear-gradient(180deg, #000 0%, var(--bg2) 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 20px 0 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .header-inner {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 20px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .site-title {
+      font-family: "Playfair Display", serif;
+      font-size: clamp(1.4rem, 4vw, 2rem);
+      font-weight: 900;
+      color: var(--white);
+      line-height: 1.1;
+    }
+    .site-title span { color: var(--red); }
+    .site-subtitle {
+      font-size: 0.72rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      margin-top: 4px;
+    }
+    .header-meta {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .live-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(220,38,38,.15);
+      border: 1px solid rgba(220,38,38,.4);
+      color: #fc8181;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      padding: 5px 12px;
+      border-radius: 4px;
+    }
+    .live-dot {
+      width: 7px; height: 7px;
+      background: var(--red);
+      border-radius: 50%;
+      animation: pulse 1.5s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: .3; }
+    }
+    .last-updated {
+      font-size: 0.72rem;
+      color: var(--muted);
+    }
+    .refresh-btn {
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-size: 0.72rem;
+      padding: 5px 14px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background .2s;
+    }
+    .refresh-btn:hover { background: var(--border); }
+
+    /* ── NAV TABS ────────────────────────────────────────── */
+    .nav-tabs {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 20px;
+      display: flex;
+      gap: 0;
+      border-top: 1px solid var(--border);
+    }
+    .nav-tab {
+      padding: 10px 20px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      transition: color .2s, border-color .2s;
+      user-select: none;
+    }
+    .nav-tab:hover   { color: var(--text); }
+    .nav-tab.active  { color: var(--white); border-bottom-color: var(--red); }
+
+    /* ── MAIN LAYOUT ─────────────────────────────────────── */
+    main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 32px 20px 60px;
+    }
+
+    /* ── SECTIONS ────────────────────────────────────────── */
+    .section { display: none; }
+    .section.active { display: block; }
+
+    .section-heading {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--muted);
+      border-left: 3px solid var(--red);
+      padding-left: 10px;
+      margin-bottom: 24px;
+    }
+
+    /* ── NEWS GRID ───────────────────────────────────────── */
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 24px;
+    }
+    .filter-chip {
+      padding: 5px 14px;
+      font-size: 0.73rem;
+      font-weight: 600;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .2s;
+      background: transparent;
+    }
+    .filter-chip:hover  { border-color: var(--red); color: var(--text); }
+    .filter-chip.active { background: var(--red); border-color: var(--red); color: #fff; }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      transition: transform .2s, border-color .2s;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+    }
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(220,38,38,.5);
+    }
+    .card-img {
+      width: 100%;
+      height: 185px;
+      object-fit: cover;
+      background: var(--bg3);
+      display: block;
+    }
+    .card-img-placeholder {
+      width: 100%;
+      height: 185px;
+      background: linear-gradient(135deg, var(--bg3) 0%, #1f1f30 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.5rem;
+      color: var(--border);
+    }
+    .card-body {
+      padding: 16px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+    .source-badge {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--red);
+      background: rgba(220,38,38,.12);
+      padding: 2px 8px;
+      border-radius: 3px;
+    }
+    .card-date {
+      font-size: 0.65rem;
+      color: var(--muted);
+    }
+    .card-title {
+      font-size: 0.95rem;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--white);
+    }
+    .card-summary {
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.5;
+      flex: 1;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-read-more {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--red);
+      margin-top: 4px;
+    }
+
+    /* ── FEATURED (first card) ───────────────────────────── */
+    .card-featured {
+      grid-column: 1 / -1;
+      flex-direction: row;
+    }
+    @media (max-width: 640px) { .card-featured { flex-direction: column; } }
+    .card-featured .card-img,
+    .card-featured .card-img-placeholder {
+      width: 400px;
+      min-width: 400px;
+      height: auto;
+      min-height: 240px;
+    }
+    @media (max-width: 640px) {
+      .card-featured .card-img,
+      .card-featured .card-img-placeholder { width: 100%; min-width: unset; height: 220px; }
+    }
+    .card-featured .card-title {
+      font-size: 1.25rem;
+      font-family: "Playfair Display", serif;
+    }
+    .card-featured .card-summary { -webkit-line-clamp: 4; }
+
+    /* ── VIDEO GRID ──────────────────────────────────────── */
+    .video-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+    }
+    .video-card {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+      transition: transform .2s, border-color .2s;
+    }
+    .video-card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(220,38,38,.5);
+    }
+    .video-thumb-wrap {
+      position: relative;
+      padding-top: 56.25%;
+      background: var(--bg3);
+      cursor: pointer;
+      overflow: hidden;
+    }
+    .video-thumb-wrap img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform .3s;
+    }
+    .video-thumb-wrap:hover img { transform: scale(1.04); }
+    .play-overlay {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(0,0,0,.35);
+      transition: background .2s;
+    }
+    .video-thumb-wrap:hover .play-overlay { background: rgba(220,38,38,.4); }
+    .play-btn {
+      width: 52px; height: 52px;
+      background: rgba(220,38,38,.9);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      color: #fff;
+      box-shadow: 0 4px 20px rgba(0,0,0,.5);
+      transition: transform .2s;
+    }
+    .video-thumb-wrap:hover .play-btn { transform: scale(1.1); }
+    .video-body { padding: 14px; }
+    .video-title {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: var(--white);
+      line-height: 1.35;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 8px;
+    }
+
+    /* ── VIDEO MODAL ─────────────────────────────────────── */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,.88);
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .2s;
+    }
+    .modal-overlay.open { opacity: 1; pointer-events: all; }
+    .modal-box {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      width: 100%;
+      max-width: 860px;
+      overflow: hidden;
+      transform: scale(.96);
+      transition: transform .2s;
+    }
+    .modal-overlay.open .modal-box { transform: scale(1); }
+    .modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--border);
+    }
+    .modal-title {
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--white);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      max-width: 85%;
+    }
+    .modal-close {
+      background: none;
+      border: none;
+      color: var(--muted);
+      font-size: 1.4rem;
+      cursor: pointer;
+      line-height: 1;
+      padding: 2px 6px;
+      border-radius: 4px;
+      transition: color .2s;
+    }
+    .modal-close:hover { color: var(--white); }
+    .modal-video {
+      position: relative;
+      padding-top: 56.25%;
+    }
+    .modal-video iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+
+    /* ── STATS BAR ───────────────────────────────────────── */
+    .stats-bar {
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+      margin-bottom: 28px;
+    }
+    .stat {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .stat-num {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--white);
+      line-height: 1;
+    }
+    .stat-label {
+      font-size: 0.65rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    /* ── EMPTY / LOADING ─────────────────────────────────── */
+    .loading-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+    }
+    .skeleton {
+      background: var(--bg2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .skeleton-img {
+      width: 100%;
+      height: 185px;
+      background: linear-gradient(90deg, var(--bg3) 25%, #22223a 50%, var(--bg3) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+    }
+    .skeleton-body { padding: 16px; display: flex; flex-direction: column; gap: 10px; }
+    .skeleton-line {
+      height: 12px;
+      border-radius: 4px;
+      background: linear-gradient(90deg, var(--bg3) 25%, #22223a 50%, var(--bg3) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+    }
+    @keyframes shimmer {
+      0%   { background-position: -200% 0; }
+      100% { background-position: 200% 0; }
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+    }
+    .empty-state .icon { font-size: 3rem; margin-bottom: 16px; }
+    .empty-state h3 { font-size: 1.1rem; color: var(--text); margin-bottom: 8px; }
+    .empty-state p  { font-size: 0.85rem; }
+
+    /* ── FOOTER ──────────────────────────────────────────── */
+    footer {
+      background: var(--bg2);
+      border-top: 1px solid var(--border);
+      padding: 32px 20px;
+      text-align: center;
+    }
+    .footer-inner { max-width: 1280px; margin: 0 auto; }
+    .footer-sources {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-bottom: 16px;
+    }
+    .footer-source {
+      font-size: 0.65rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      background: var(--bg3);
+      padding: 3px 10px;
+      border-radius: 4px;
+    }
+    .footer-note {
+      font-size: 0.72rem;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+    .footer-note a { color: var(--red); text-decoration: none; }
+
+    /* ── PROGRESS BAR ────────────────────────────────────── */
+    .refresh-progress {
+      height: 2px;
+      background: var(--border);
+      position: relative;
+      overflow: hidden;
+    }
+    .refresh-fill {
+      height: 100%;
+      background: var(--red);
+      width: 0%;
+      transition: width 1s linear;
+    }
+
+    /* ── MOBILE ──────────────────────────────────────────── */
+    @media (max-width: 768px) {
+      .news-grid { grid-template-columns: 1fr; }
+      .video-grid { grid-template-columns: 1fr; }
+      .stats-bar { gap: 16px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- BREAKING NEWS TICKER -->
+<div class="ticker-bar">
+  <span class="ticker-label">Breaking</span>
+  <span class="ticker-inner" id="ticker-text">
+    Loading latest headlines... &nbsp;&nbsp;&nbsp;
+  </span>
+</div>
+
+<!-- HEADER -->
+<header>
+  <div class="header-inner">
+    <div>
+      <div class="site-title">US–<span>Iran</span> Conflict</div>
+      <div class="site-subtitle">Live news tracker &mdash; updated every 5 minutes</div>
+    </div>
+    <div class="header-meta">
+      <div class="live-badge"><span class="live-dot"></span> Live</div>
+      <div class="last-updated" id="last-updated">Loading&hellip;</div>
+      <button class="refresh-btn" onclick="loadData(true)">&#8635; Refresh</button>
+    </div>
+  </div>
+  <div class="refresh-progress"><div class="refresh-fill" id="refresh-fill"></div></div>
+  <nav class="nav-tabs">
+    <div class="nav-tab active" data-tab="news">News</div>
+    <div class="nav-tab" data-tab="videos">Videos</div>
+    <div class="nav-tab" data-tab="sources">Sources</div>
+  </nav>
+</header>
+
+<!-- MODAL -->
+<div class="modal-overlay" id="video-modal" onclick="closeModal(event)">
+  <div class="modal-box">
+    <div class="modal-header">
+      <div class="modal-title" id="modal-title"></div>
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+    </div>
+    <div class="modal-video">
+      <iframe id="modal-iframe" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<main>
+
+  <!-- NEWS SECTION -->
+  <section class="section active" id="tab-news">
+    <div class="stats-bar" id="stats-bar">
+      <div class="stat"><div class="stat-num" id="stat-articles">–</div><div class="stat-label">Articles</div></div>
+      <div class="stat"><div class="stat-num" id="stat-sources">–</div><div class="stat-label">Sources</div></div>
+      <div class="stat"><div class="stat-num" id="stat-videos-count">–</div><div class="stat-label">Videos</div></div>
+    </div>
+
+    <div class="filter-bar" id="filter-bar">
+      <button class="filter-chip active" data-filter="all" onclick="filterNews(this)">All</button>
+    </div>
+
+    <div class="section-heading">Latest Coverage</div>
+    <div id="news-container">
+      <!-- skeletons -->
+      <div class="loading-grid">
+        ${Array(6).fill(`<div class="skeleton"><div class="skeleton-img"></div><div class="skeleton-body"><div class="skeleton-line" style="width:40%"></div><div class="skeleton-line"></div><div class="skeleton-line" style="width:80%"></div><div class="skeleton-line" style="width:60%"></div></div></div>`).join("")}
+      </div>
+    </div>
+  </section>
+
+  <!-- VIDEOS SECTION -->
+  <section class="section" id="tab-videos">
+    <div class="section-heading">Video Coverage</div>
+    <div id="videos-container">
+      <div class="empty-state">
+        <div class="icon">&#9654;</div>
+        <h3>Loading videos&hellip;</h3>
+        <p>Fetching from YouTube news channels.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SOURCES SECTION -->
+  <section class="section" id="tab-sources">
+    <div class="section-heading">News Sources</div>
+    <p style="color:var(--muted);font-size:.85rem;margin-bottom:24px;">
+      This tracker aggregates content from the following internationally trusted news organizations via their public RSS feeds.
+      No API keys or paid subscriptions are used.
+    </p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;" id="sources-list"></div>
+  </section>
+
+</main>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-sources" id="footer-sources"></div>
+    <div class="footer-note">
+      Content aggregated from public RSS feeds of trusted news organizations.<br/>
+      All articles link to their original sources. This site does not host or modify any news content.<br/>
+      Auto-refreshes every 5 minutes via <a href="https://github.com/features/actions" target="_blank" rel="noopener">GitHub Actions</a>.
+    </div>
+  </div>
+</footer>
+
+<script>
+  const DATA_URL = "./data/news.json";
+  const REFRESH_MS = 5 * 60 * 1000; // 5 min
+
+  let allArticles = [];
+  let allVideos   = [];
+  let activeFilter = "all";
+  let refreshTimer, progressTimer, progressStart;
+
+  // ── TABS ──────────────────────────────────────────────────
+  document.querySelectorAll(".nav-tab").forEach(tab => {
+    tab.addEventListener("click", () => {
+      document.querySelectorAll(".nav-tab").forEach(t => t.classList.remove("active"));
+      document.querySelectorAll(".section").forEach(s => s.classList.remove("active"));
+      tab.classList.add("active");
+      document.getElementById("tab-" + tab.dataset.tab).classList.add("active");
+    });
+  });
+
+  // ── LOAD DATA ─────────────────────────────────────────────
+  async function loadData(manual = false) {
+    try {
+      const res = await fetch(DATA_URL + "?t=" + Date.now());
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+
+      allArticles = data.articles || [];
+      allVideos   = data.videos   || [];
+
+      renderStats(data);
+      renderTicker(allArticles);
+      renderFilters(allArticles);
+      renderNews(allArticles);
+      renderVideos(allVideos);
+      renderSources(allArticles);
+
+      const d = new Date(data.last_updated);
+      document.getElementById("last-updated").textContent =
+        "Updated " + (isNaN(d) ? data.last_updated : d.toLocaleTimeString([], { hour:"2-digit", minute:"2-digit" }));
+
+    } catch (err) {
+      console.error("Failed to load news.json:", err);
+      document.getElementById("news-container").innerHTML = `
+        <div class="empty-state">
+          <div class="icon">&#9888;</div>
+          <h3>Could not load news</h3>
+          <p>${err.message}. The scraper may still be running for the first time — try again in a moment.</p>
+        </div>`;
+    }
+    startProgress();
+  }
+
+  // ── STATS ─────────────────────────────────────────────────
+  function renderStats(data) {
+    document.getElementById("stat-articles").textContent = data.total_articles || allArticles.length;
+    const sources = [...new Set(allArticles.map(a => a.source))].length;
+    document.getElementById("stat-sources").textContent = sources;
+    document.getElementById("stat-videos-count").textContent = data.total_videos || allVideos.length;
+  }
+
+  // ── TICKER ────────────────────────────────────────────────
+  function renderTicker(articles) {
+    if (!articles.length) return;
+    const headlines = articles.slice(0, 10).map(a => a.title).join("  •  ");
+    document.getElementById("ticker-text").textContent = headlines + "  ";
+  }
+
+  // ── FILTERS ───────────────────────────────────────────────
+  function renderFilters(articles) {
+    const sources = [...new Set(articles.map(a => a.source))].sort();
+    const bar = document.getElementById("filter-bar");
+    bar.innerHTML = `<button class="filter-chip ${activeFilter === "all" ? "active" : ""}" data-filter="all" onclick="filterNews(this)">All</button>`;
+    sources.forEach(s => {
+      bar.innerHTML += `<button class="filter-chip ${activeFilter === s ? "active" : ""}" data-filter="${s}" onclick="filterNews(this)">${s}</button>`;
+    });
+  }
+
+  function filterNews(btn) {
+    document.querySelectorAll(".filter-chip").forEach(c => c.classList.remove("active"));
+    btn.classList.add("active");
+    activeFilter = btn.dataset.filter;
+    const filtered = activeFilter === "all" ? allArticles : allArticles.filter(a => a.source === activeFilter);
+    renderNews(filtered);
+  }
+
+  // ── NEWS CARDS ────────────────────────────────────────────
+  function formatDate(iso) {
+    if (!iso) return "";
+    try {
+      const d = new Date(iso);
+      const diff = Date.now() - d;
+      if (diff < 60000)      return "Just now";
+      if (diff < 3600000)    return Math.floor(diff / 60000) + "m ago";
+      if (diff < 86400000)   return Math.floor(diff / 3600000) + "h ago";
+      return d.toLocaleDateString([], { month:"short", day:"numeric" });
+    } catch { return iso; }
+  }
+
+  function cardHTML(article, featured = false) {
+    const img = article.image
+      ? `<img class="card-img" src="${escHtml(article.image)}" alt="" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+      : "";
+    const placeholder = `<div class="card-img-placeholder" ${article.image ? 'style="display:none"' : ""}>&#128240;</div>`;
+
+    return `
+      <a class="card ${featured ? "card-featured" : ""}" href="${escHtml(article.link)}" target="_blank" rel="noopener noreferrer">
+        ${img}${placeholder}
+        <div class="card-body">
+          <div class="card-meta">
+            <span class="source-badge">${escHtml(article.source)}</span>
+            <span class="card-date">${formatDate(article.published)}</span>
+          </div>
+          <div class="card-title">${escHtml(article.title)}</div>
+          ${article.summary ? `<div class="card-summary">${escHtml(article.summary)}</div>` : ""}
+          <div class="card-read-more">Read full article &rarr;</div>
+        </div>
+      </a>`;
+  }
+
+  function renderNews(articles) {
+    const container = document.getElementById("news-container");
+    if (!articles.length) {
+      container.innerHTML = `<div class="empty-state">
+        <div class="icon">&#128240;</div>
+        <h3>No articles yet</h3>
+        <p>The GitHub Actions scraper runs every 5 minutes. Check back shortly after your first push.</p>
+      </div>`;
+      return;
+    }
+    const [first, ...rest] = articles;
+    container.innerHTML = `<div class="news-grid">
+      ${cardHTML(first, true)}
+      ${rest.map(a => cardHTML(a, false)).join("")}
+    </div>`;
+  }
+
+  // ── VIDEOS ────────────────────────────────────────────────
+  function renderVideos(videos) {
+    const container = document.getElementById("videos-container");
+    if (!videos.length) {
+      container.innerHTML = `<div class="empty-state">
+        <div class="icon">&#128250;</div>
+        <h3>No videos yet</h3>
+        <p>YouTube video coverage will appear here once the scraper finds relevant clips from news channels.</p>
+      </div>`;
+      return;
+    }
+    container.innerHTML = `<div class="video-grid">
+      ${videos.map(v => `
+        <div class="video-card">
+          <div class="video-thumb-wrap" onclick="openVideo('${escHtml(v.embed_url)}', '${escHtml(v.title).replace(/'/g, "&#39;")}')">
+            <img src="${escHtml(v.image)}" alt="${escHtml(v.title)}" loading="lazy" />
+            <div class="play-overlay"><div class="play-btn">&#9654;</div></div>
+          </div>
+          <div class="video-body">
+            <div class="card-meta" style="margin-bottom:6px">
+              <span class="source-badge">${escHtml(v.source)}</span>
+              <span class="card-date">${formatDate(v.published)}</span>
+            </div>
+            <div class="video-title">${escHtml(v.title)}</div>
+          </div>
+        </div>`).join("")}
+    </div>`;
+  }
+
+  function openVideo(embedUrl, title) {
+    document.getElementById("modal-title").textContent = title;
+    document.getElementById("modal-iframe").src = embedUrl + "?autoplay=1&rel=0";
+    document.getElementById("video-modal").classList.add("open");
+  }
+
+  function closeModal(event) {
+    if (event && event.target !== document.getElementById("video-modal") && !event.target.classList.contains("modal-close")) return;
+    document.getElementById("video-modal").classList.remove("open");
+    document.getElementById("modal-iframe").src = "";
+  }
+
+  document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+
+  // ── SOURCES ───────────────────────────────────────────────
+  const SOURCE_DESCS = {
+    "Reuters":          "Global wire service. Politically neutral, factual reporting.",
+    "BBC News":         "UK public broadcaster. Trusted international coverage.",
+    "Al Jazeera":       "Qatar-based international news network. Strong Middle East bureau.",
+    "NPR":              "US public radio. In-depth analysis and reporting.",
+    "The Guardian":     "UK daily. Investigative and long-form journalism.",
+    "NY Times":         "US newspaper of record. Comprehensive world coverage.",
+    "Washington Post":  "US newspaper. Strong national security reporting.",
+    "Voice of America": "US government-funded international broadcaster.",
+    "Foreign Policy":   "Specialist publication on international affairs.",
+    "Atlantic Council": "Think-tank analysis on geopolitics and security.",
+    "Axios":            "Smart-brevity news outlet. Fast, factual summaries.",
+    "The Hill":         "US political news. Congress and policy coverage.",
+    "AP News":          "Associated Press global wire service.",
+  };
+
+  function renderSources(articles) {
+    const sources = [...new Set(articles.map(a => a.source))].sort();
+    const list = document.getElementById("sources-list");
+    const footer = document.getElementById("footer-sources");
+    list.innerHTML = sources.map(s => `
+      <div style="background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:16px;">
+        <div style="font-weight:700;color:var(--white);margin-bottom:6px;">${escHtml(s)}</div>
+        <div style="font-size:.77rem;color:var(--muted);line-height:1.5;">${SOURCE_DESCS[s] || "Trusted international news source."}</div>
+      </div>`).join("");
+    footer.innerHTML = sources.map(s => `<span class="footer-source">${escHtml(s)}</span>`).join("");
+  }
+
+  // ── PROGRESS BAR ─────────────────────────────────────────
+  function startProgress() {
+    clearInterval(progressTimer);
+    progressStart = Date.now();
+    const fill = document.getElementById("refresh-fill");
+    fill.style.transition = "none";
+    fill.style.width = "0%";
+    setTimeout(() => {
+      fill.style.transition = `width ${REFRESH_MS / 1000}s linear`;
+      fill.style.width = "100%";
+    }, 50);
+  }
+
+  // ── AUTO-REFRESH ──────────────────────────────────────────
+  function scheduleRefresh() {
+    clearTimeout(refreshTimer);
+    refreshTimer = setTimeout(() => { loadData(); scheduleRefresh(); }, REFRESH_MS);
+  }
+
+  // ── UTIL ─────────────────────────────────────────────────
+  function escHtml(str) {
+    return String(str || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+
+  // ── INIT ──────────────────────────────────────────────────
+  loadData();
+  scheduleRefresh();
+</script>
+</body>
+</html>
