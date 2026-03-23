@@ -1,7 +1,917 @@
 {
-  "articles": [],
-  "videos": [],
-  "last_updated": "2026-01-01T00:00:00+00:00",
-  "total_articles": 0,
-  "total_videos": 0
+  "articles": [
+    {
+      "type": "article",
+      "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
+      "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
+      "link": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-03-23T18:31:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e0/live/5181ce60-26df-11f1-934f-036468834728.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+      "summary": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
+      "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-03-22T20:23:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d43/live/a0b7c9f0-2629-11f1-aad6-2d605a562384.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+      "summary": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-03-22T17:35:19+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg"
+    },
+    {
+      "type": "article",
+      "title": "US' and Iran's options for ending war narrow the longer it goes on",
+      "summary": "Iran shows no sign of climbdown, while air power alone cannot achieve the US' main goal.",
+      "link": "https://www.bbc.com/news/articles/cn53zvlglg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "2026-03-23T15:34:38+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e1a/live/3e3304a0-26d0-11f1-934f-036468834728.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Have Israel, the US and Iran violated international law?",
+      "summary": "Civilian targets have been struck by all three warring parties.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/23/have-israel-the-us-and-iran-violated-international-law?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T21:34:08+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Iranian officials dismiss claims of US talks",
+      "summary": "Senior Iranian officials deny that Iran held talks with the US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/iranian-officials-dismiss-claims-of-us-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T21:14:07+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "What Trump said about Iran after postponing military strikes",
+      "summary": "After announcing the US will postpone strikes on Iran\u2019s power plants, Donald Trump said Iran called him to make a deal.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/what-trump-said-about-iran-after-postponing-military-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T20:34:33+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Tehran residents express distrust over Trump\u2019s war diplomacy",
+      "summary": "\u201cIf we trust him, we lose.\u201d",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/tehran-residents-express-distrust-over-trumps-war-diplomacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T19:43:27+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Iran denies any talks with US after Trump claims \u2018productive\u2019 discussions",
+      "summary": "Iran parliament speaker says US president using idea of talks to &#039;escape quagmire in which US and Israel are trapped&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/3/23/iran-denies-any-talks-with-us-after-trump-claims-productive-discussions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T18:21:54+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Why the oil and gas price shock from the Iran war won\u2019t just fade away",
+      "summary": "Rerouting and diversification cannot help when a significant chunk of oil and gas have been taken off the market.",
+      "link": "https://www.aljazeera.com/opinions/2026/3/23/why-the-oil-and-gas-price-shock-from-the-iran-war-wont-just-fade-away?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T18:06:18+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "How the Iran war is about to hit your wallet",
+      "summary": "Strikes on gas sites in the Iran war are driving up energy costs, pushing up prices for power, food and more worldwide.",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/23/aje-onl-tt_irn_gasfields_av_v2-230326?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T17:56:35+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Trump can declare victory in Iran \u2013 and he should",
+      "summary": "The US president has proven that hitting hard and fast rather than engaging in endless negotiations guarantees victory.",
+      "link": "https://www.aljazeera.com/opinions/2026/3/23/trump-can-declare-victory-in-iran-and-he?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T17:42:04+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "How Israel is reacting to Trump\u2019s  \u2018de-escalation\u2019 with Iran",
+      "summary": "There is expected to be pushback from Israel following President Donald Trump\u2019s move towards de-escalation with Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/how-israel-is-reacting-to-trumps-de-escalation-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T17:09:05+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Energy, water, bonds: What are Iran\u2019s targets if Trump hits power plants?",
+      "summary": "Donald Trump&#039;s Strait of Hormuz deadline for Iran raises concerns about attacks on energy in the Middle East.",
+      "link": "https://www.aljazeera.com/news/2026/3/23/energy-water-bonds-what-are-irans-targets-if-trump-hits-power-plants?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T15:13:50+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Trump signals off-ramp in Iran war despite no \u2018regime change\u2019",
+      "summary": "President Donald Trump has ordered the US military to postpone strikes against Iranian power plants and energy.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-signals-off-ramp-in-iran-war-despite-no-regime?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T15:09:18+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Trump speaks after announcing delay on Iran attacks",
+      "summary": "President Donald Trump has spoken to reporters after announcing the US was postponing attacks targeting Iran\u2019s energy.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-speaks-after-announcing-delay-on-iran-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T14:58:34+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "\u2018False flag attack\u2019: Iran denies claims it fired missiles at Diego Garcia",
+      "summary": "Esmaeil Baghaei denies the long-range missile attack on the base, which could change the war&#039;s calculus for US allies.",
+      "link": "https://www.aljazeera.com/news/2026/3/23/iran-denies-targeting-us-uk-diego-garcia-airbase-claims-false-flag-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-03-23T13:00:11+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Trump delays strikes on Iran's power plants for 5 days. And, ICE deploys to airports",
+      "summary": "Trump says he will deploy ICE agents to U.S. airports to help address delays. And, the president said he would delay strikes on Iranian power plants for five days.",
+      "link": "https://www.npr.org/2026/03/23/g-s1-114792/up-first-newsletter-trump-iran-strait-of-hormuz-dhs-funding-tsa-ice-agents-immigration",
+      "source": "NPR",
+      "published": "2026-03-23T08:02:59-04:00",
+      "image": "https://feeds.npr.org/1001/undefined"
+    },
+    {
+      "type": "article",
+      "title": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies",
+      "summary": "Trump said the U.S. will postpone any strikes on Iranian energy infrastructure for five days, even as Israel continued hitting Tehran and Iran warned it could retaliate across the Gulf.",
+      "link": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
+      "source": "NPR",
+      "published": "2026-03-23T06:37:23-04:00",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fda%2F790eae8d4d16ac5125228906d4a8%2Fgettyimages-2267820939.jpg"
+    },
+    {
+      "type": "article",
+      "title": "BTS release new album Arirang ahead of comeback concert",
+      "summary": "Boyband drops album that speaks to its Korean roots ahead of Seoul comeback concert, with more than a quarter of a million fans expected to attendK-pop stars BTS released a new album on Friday billed as reflecting the maturing boy band\u2019s Korean roots and identity, as buzz built ahead of their open-air comeback concert in the heart of Seoul.The Saturday night gig, which is expected to draw around 260,000 people, will be BTS\u2019s first after a hiatus of almost four years while all seven members served compulsory military service. It comes ahead of an 82-date world tour. Continue reading...",
+      "link": "https://www.theguardian.com/music/2026/mar/20/bts-arirang-new-album-comeback-concert-kpop",
+      "source": "The Guardian",
+      "published": "2026-03-20T05:33:59+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Reliant on imported fuel, Pacific islands appeal for help as oil prices surge",
+      "summary": "Samoa and Tonga raise supply concerns with foreign partners as businesses and residents in Papua New Guinea grapple with higher fuel prices amid the Iran warThe leaders of some Pacific countries have appealed for help with oil supplies while others urge against \u201cpanic buying\u201d as the import-reliant nations grapple with fears over possible fuel shortages and escalating costs caused by war in the Middle East.Oil prices have surged to nearly $110 a barrel after strikes against energy infrastructure in Iran and the Gulf states. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/mar/20/reliant-on-imported-fuel-pacific-islands-appeal-for-help-as-oil-prices-surge",
+      "source": "The Guardian",
+      "published": "2026-03-20T02:52:28+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "China has been preparing for a global energy crisis for years. It is paying off now",
+      "summary": "As other Asian economies race to conserve energy, China has huge reserves of oil and gas as well as alternative energy sources like wind and solarMiddle East crisis \u2013 live updatesXi Jinping has been preparing for a crisis like this for years. China must secure its energy supply \u201cin its own hands\u201d, its president was reported to have said during a visit to one of its vast oilfields in 2021.The US-Israel war on Iran plunged the Middle East into a deep conflict, with the strait of Hormuz \u2013 one of the most important waterways in global trade \u2013 all but closed and key energy facilities across the reg",
+      "link": "https://www.theguardian.com/world/2026/mar/20/china-oil-reserves-global-energy-crisis",
+      "source": "The Guardian",
+      "published": "2026-03-20T01:14:34+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Viktor Orb\u00e1n celebrated by Europe\u2019s far right before Hungary election",
+      "summary": "France\u2019s Marine Le Pen and the Netherlands\u2019 Geert Wilders among speakers praising prime minister at Budapest eventMarine Le Pen has called Viktor Orb\u00e1n \u201can exceptional leader\u201d and Geert Wilders hailed \u201ca lion on a continent led by sheep\u201d as Europe\u2019s far-right figureheads rallied round Hungary\u2019s prime minister before an election that polls suggest he may lose.\u201cHungary has become a symbol in Europe of a proud and sovereign people\u2019s resistance against oppression,\u201d Le Pen, the parliamentary leader of France\u2019s National Rally (RN), told a gathering of EU-sceptical leaders in Budapest on Monday. Cont",
+      "link": "https://www.theguardian.com/world/2026/mar/23/viktor-orban-celebrated-europe-far-right-hungary-election",
+      "source": "The Guardian",
+      "published": "2026-03-23T17:56:59+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Iran War Live Updates: U.S. and Iran Send Conflicting Signals on Peace Prospects",
+      "summary": "President Trump said talks were underway. A top Iranian official denied that, while other Iranians said messages were being traded through intermediaries.",
+      "link": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
+      "source": "NY Times",
+      "published": "2026-03-23T22:56:28+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-promo6p-lchv/23israel-iran-promo6p-lchv-mediumSquareAt3X.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Sidelined by War With Iran, Gaza Residents Remain in Limbo",
+      "summary": "The new war has led to panic buying and a surge in food prices for Gazans as they try to recover from Israel\u2019s two-year offensive against Hamas.",
+      "link": "https://www.nytimes.com/2026/03/23/world/middleeast/gaza-israel-mood.html",
+      "source": "NY Times",
+      "published": "2026-03-23T09:59:24+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/23/world/23int-iran-israel-gaza-hp-promo/23int-iran-israel-gaza-hp-promo-mediumSquareAt3X-v2.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Caught Between Two Conflicts, Afghans Flee Iran",
+      "summary": "The war in Iran is choking off Afghanistan\u2019s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.",
+      "link": "https://www.nytimes.com/2026/03/23/world/asia/iran-afghanistan-border-refugees.html",
+      "source": "NY Times",
+      "published": "2026-03-23T18:52:15+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-afghanistan-iran-bzkl/23int-afghanistan-iran-bzkl-mediumSquareAt3X.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Trump Says U.S. Is Negotiating With Iran, Which Publicly Denies His Claim",
+      "summary": "\u201cVery, very strong talks,\u201d President Trump claimed. Fake news, replied an Iranian parliamentary leader.",
+      "link": "https://www.nytimes.com/2026/03/23/world/middleeast/iran-war-trump.html",
+      "source": "NY Times",
+      "published": "2026-03-23T22:02:02+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/23/multimedia/23int-iran-ledeall-1-tzwf/23int-iran-ledeall-1-tzwf-mediumSquareAt3X.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Iran Negotiations \u2014 or Not?",
+      "summary": "President Trump\u2019s shifting statements don\u2019t necessarily signal an end in sight to the war, but they do buy him some time.",
+      "link": "https://www.nytimes.com/2026/03/23/world/us-iran-talks-denmark-election.html",
+      "source": "NY Times",
+      "published": "2026-03-23T21:05:48+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/24/multimedia/24int-theworld-iran-trump-top-bjmv-promo/24int-theworld-iran-trump-top-bjmv-mediumSquareAt3X.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Trump Delays Energy Strikes, but Iran\u2019s Infrastructure Is Already Battered",
+      "summary": "U.S. and Israeli attacks on power plants and other civilian infrastructure risk escalating the conflict across the region, and angering Iranians who oppose the government.",
+      "link": "https://www.nytimes.com/2026/03/23/world/middleeast/trump-iran-battered-infrastructure.html",
+      "source": "NY Times",
+      "published": "2026-03-23T20:25:19+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-infrastructure-01-vwzc/23israel-iran-infrastructure-01-vwzc-mediumSquareAt3X.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Energy Crisis Will Not Be Resolved Quickly if War Ends, I.E.A. Chief Warns",
+      "summary": "Fatih Birol, the leader of the International Energy Agency, said the Iran war was a bigger crisis than the two oil shocks in the 1970s combined.",
+      "link": "https://www.nytimes.com/2026/03/23/world/middleeast/energy-crisis-iea-warning.html",
+      "source": "NY Times",
+      "published": "2026-03-23T19:36:19+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/23/multimedia/23israel-iran-IEA-warning-1-qcjm/23israel-iran-IEA-warning-1-qcjm-mediumSquareAt3X.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Israel Says Its Own Artillery Killed a Farmer, Not a Hezbollah Rocket",
+      "summary": "Ofer Moskovitz, 60, an avocado farmer in a kibbutz on Israel\u2019s border with Lebanon, was killed Sunday when the car he was riding in was hit.",
+      "link": "https://www.nytimes.com/2026/03/23/world/middleeast/israel-says-its-own-artillery-killed-a-farmer-not-a-hezbollah-rocket.html",
+      "source": "NY Times",
+      "published": "2026-03-23T16:47:09+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/23/world/23israel-iran-friendly-fire-001a/23israel-iran-friendly-fire-001a-mediumSquareAt3X.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Iran attempted to attack a far-off military base.",
+      "summary": "",
+      "link": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps/iran-attempted-to-attack-a-far-off-military-base",
+      "source": "NY Times",
+      "published": "2026-03-23T14:33:47+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Energy Attacks in War on Iran Could Turn Economic Shock Into Long-Term Damage",
+      "summary": "A new phase targeting oil and gas infrastructure in the Persian Gulf threatens to hurt businesses and customers around the world for months or even years.",
+      "link": "https://www.nytimes.com/2026/03/23/business/economy/iran-war-oil-gas-global-economy.html",
+      "source": "NY Times",
+      "published": "2026-03-23T14:39:51+00:00",
+      "image": "https://static01.nyt.com/images/2026/03/20/multimedia/Biz-Iran-Global-Econ-01-hkmb/Biz-Iran-Global-Econ-01-hkmb-mediumSquareAt3X.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Trump says U.S. is postponing some strikes as it negotiates end to war with Iran",
+      "summary": "The president\u2019s announcement sent markets up and energy prices diving, as investors bet Iran\u2019s blockade of a key shipping chokepoint could soon end.",
+      "link": "https://www.washingtonpost.com/politics/2026/03/23/trump-iran-talks-strikes/",
+      "source": "Washington Post",
+      "published": "2026-03-23T19:47:08+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "At least one winner emerges from Iran war: U.S. natural gas exporters",
+      "summary": "President Donald Trump\u2019s \u201cenergy dominance\u201d agenda gets a boost as governments in Asia scramble to substitute Middle East fuel.",
+      "link": "https://www.washingtonpost.com/world/2026/03/23/iran-war-us-lng-exports-taiwan-trump-asia-natural-gas/",
+      "source": "Washington Post",
+      "published": "2026-03-23T09:00:50+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Trump threats, U.S. troop build-up raise specter of battle for Hormuz",
+      "summary": "Israelis said securing the strait for energy shipments could become the war\u2019s main goal now that regime change and ending Iran\u2019s ability to obtain a nuclear weapon seem out of reach.",
+      "link": "https://www.washingtonpost.com/world/2026/03/22/marines-hormuz-strait-decisive-battle-iran-trump/",
+      "source": "Washington Post",
+      "published": "2026-03-22T21:41:12+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Joe Kent says he wants Trump to hear MAGA opposition to Iran war",
+      "summary": "In an interview with The Post after resigning from the administration in protest, the veteran said he is taking his message to the president\u2019s supporters.",
+      "link": "https://www.washingtonpost.com/national-security/2026/03/22/joe-kent-iran-war-trump/",
+      "source": "Washington Post",
+      "published": "2026-03-22T17:51:18+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Trump threatens to \u2018obliterate\u2019 Iran\u2019s power plants if Strait of Hormuz does not open",
+      "summary": "Iran\u2019s military said it would respond to strikes on Iranian energy infrasturcture with counterattacks against U.S.-linked energy facilities in the region.",
+      "link": "https://www.washingtonpost.com/world/2026/03/21/iran-us-war-israel-nuclear-executions/",
+      "source": "Washington Post",
+      "published": "2026-03-22T10:06:06+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Why Iran does not appear ready to give in, despite heavy losses",
+      "summary": "Tehran\u2019s unwillingness to capitulate as the war enters its fourth week is wrapped up in the power it exerts over the Strait of Hormuz, officials in the region say.",
+      "link": "https://www.washingtonpost.com/world/2026/03/22/iran-war-talks-trump-strikes-hormuz/",
+      "source": "Washington Post",
+      "published": "2026-03-22T09:00:13+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Trump Claims U.S., Iran Engaged in \u2018Very Strong Talks\u2019",
+      "summary": "But Tehran continues to deny that any such dialogue has occurred.",
+      "link": "https://foreignpolicy.com/2026/03/23/trump-us-iran-talks-war-strikes-power-plants-energy-infrastructure-oil/",
+      "source": "Foreign Policy",
+      "published": "2026-03-23T20:37:15+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/TrumpIranTalks-GettyImages-2267561800.jpg"
+    },
+    {
+      "type": "article",
+      "title": "The Iran War\u2019s Impact on Gas Markets May Be Felt for Years",
+      "summary": "Even once the war ends, it will take time to get back to normal energy flows.",
+      "link": "https://foreignpolicy.com/2026/03/23/iran-war-natural-gas-lng-prices-markets-impact-qatar-asia/",
+      "source": "Foreign Policy",
+      "published": "2026-03-23T18:01:20+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/Ras-Laffan-GettyImages-2264602912.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Trapped in the Gulf",
+      "summary": "Tens of thousands of seafarers wait with fear and boredom as the Strait of Hormuz remains closed.",
+      "link": "https://foreignpolicy.com/2026/03/23/persian-gulf-strait-of-hormuz-ships-cargo-oil-iran/",
+      "source": "Foreign Policy",
+      "published": "2026-03-23T14:35:39+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/persian-gulf-strait-of-hormuz-ships-cargo-oil-iran-2265405294.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Iran Is Becoming America\u2019s Ukraine",
+      "summary": "The shift to an attritional war focused on energy infrastructure risks becoming a quagmire.",
+      "link": "https://foreignpolicy.com/2026/03/23/iran-war-ukraine-trump-araghchi-long/",
+      "source": "Foreign Policy",
+      "published": "2026-03-23T13:51:52+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/GettyImages-2239433151.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Iran\u2019s Biggest Wartime Advantage Is Geography",
+      "summary": "The shape of the war is being determined by the country\u2019s rugged terrain and vast coastline.",
+      "link": "https://foreignpolicy.com/2026/03/23/iran-war-geography-hormuz-mountains-territory/",
+      "source": "Foreign Policy",
+      "published": "2026-03-23T13:49:15+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/iran-geography-GettyImages-129381434.jpg"
+    },
+    {
+      "type": "article",
+      "title": "George H.W. Bush Won His Middle East War and Still Lost At Home",
+      "summary": "When voters sense the president is more focused abroad than on the economy, they punish him for it.",
+      "link": "https://foreignpolicy.com/2026/03/23/george-h-w-bush-operation-desert-storm-1992-election/",
+      "source": "Foreign Policy",
+      "published": "2026-03-23T04:01:52+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/bush-Schwarzkopf-GettyImages-97202134.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Iran Intensifies Strikes on Gulf Energy Facilities",
+      "summary": "The White House has convinced Israel not to attack South Pars gas field again\u2014so long as Tehran does not target Qatar.",
+      "link": "https://foreignpolicy.com/2026/03/20/iran-oil-gas-strikes-gulf-israel-south-pars-us-military-trump-qatar/",
+      "source": "Foreign Policy",
+      "published": "2026-03-20T21:33:56+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/oil-attack-iran-uae-AP26078807353872.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Investors Are in Denial About the Economic Impact of the Iran War",
+      "summary": "The damage to energy infrastructure in the Gulf will have enduring impact.",
+      "link": "https://foreignpolicy.com/2026/03/20/iran-war-economy-oil-infrastructure-damage-trump-gulf/",
+      "source": "Foreign Policy",
+      "published": "2026-03-20T19:15:59+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/oil-strait-of-hormuz-GettyImages-2266524953-site.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Why U.S. Victory in Iran Would Be Bad for Washington\u2014and the World",
+      "summary": "The possibility of Trump imposing his personal whims on another nation is even more frightening than U.S. failure.",
+      "link": "https://foreignpolicy.com/2026/03/20/us-trump-victory-iran-war-dangers/",
+      "source": "Foreign Policy",
+      "published": "2026-03-20T18:59:40+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/Iran-US-war-GettyImages-2263048436.jpg"
+    },
+    {
+      "type": "article",
+      "title": "What Trump May Do if He Loses in Iran",
+      "summary": "The president\u2019s go-to playbook in the face of defeat would be especially dangerous in the context of war.",
+      "link": "https://foreignpolicy.com/2026/03/20/trump-iran-war-outcome-failure/",
+      "source": "Foreign Policy",
+      "published": "2026-03-20T18:53:38+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/Trump-Iran-outcome-GettyImages-2265658559.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Starlink Has Privatized Geopolitics",
+      "summary": "From Ukraine to Iran, Elon Musk\u2019s service has become an arbiter of foreign policy.",
+      "link": "https://foreignpolicy.com/2026/03/20/starlink-spacex-musk-geopolitics-war-ukraine-russia-iran/",
+      "source": "Foreign Policy",
+      "published": "2026-03-20T18:40:34+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/starlink-ukraine-GettyImages-2204907858.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Italy\u2019s Referendum Could Be Meloni\u2019s Biggest Test Yet",
+      "summary": "The Iran war has raised the stakes of the vote for the prime minister.",
+      "link": "https://foreignpolicy.com/2026/03/20/italy-referendum-meloni-constitution-judicial-reform-trump-iran/",
+      "source": "Foreign Policy",
+      "published": "2026-03-20T14:00:12+00:00",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/03/Meloni_GettyImages-2265416580-1.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Trump is fighting two wars with Iran. He needs to win both.",
+      "summary": "Nothing could be more short-sighted than leaving a vengeful and still formidable Iranian regime in place.\nThe post Trump is fighting two wars with Iran. He needs to win both. appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/content-series/inflection-points/trump-is-fighting-two-wars-with-iran-he-needs-to-win-both/",
+      "source": "Atlantic Council",
+      "published": "2026-03-23T21:33:00+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "The Iran conflict exposes the new cost curve of war",
+      "summary": "The Pentagon must rapidly field innovative, lower-cost technologies alongside its exquisite capabilities, ensuring each is used where it delivers the greatest advantage.\nThe post The Iran conflict exposes the new cost curve of war appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/blogs/menasource/the-iran-conflict-exposes-the-new-cost-curve-of-war/",
+      "source": "Atlantic Council",
+      "published": "2026-03-23T21:06:41+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "What Romania\u2019s role in the Iran war reveals about its diplomatic positioning",
+      "summary": "Amid transatlantic differences over the Iran war, Romania\u2019s ability to maintain a balance between Washington and its European partners is a valuable strategic contribution to NATO.\nThe post What Romania&#8217;s role in the Iran war reveals about its diplomatic positioning appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/dispatches/what-romanias-role-in-the-iran-war-reveals-about-its-diplomatic-positioning/",
+      "source": "Atlantic Council",
+      "published": "2026-03-23T18:55:38+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "The Strait of Hormuz crisis will ripple across plastics and food supply chains, helping Beijing and Moscow, hurting Americans",
+      "summary": "The oil and gas blockade in the Strait of Hormuz will tighten petrochemical and fertilizer markets, with geopolitical and economic implications for the United States.\nThe post The Strait of Hormuz crisis will ripple across plastics and food supply chains, helping Beijing and Moscow, hurting Americans appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/blogs/energysource/the-strait-of-hormuz-crisis-will-ripple-across-plastics-and-food-supply-chains-helping-beijing-and-moscow-hurting-americans/",
+      "source": "Atlantic Council",
+      "published": "2026-03-23T15:12:26+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Kroenig quoted in The Economist on war in Iran",
+      "summary": "On March 19, Atlantic Council vice president and\u00a0Scowcroft Center\u00a0senior director\u00a0Matthew Kroenig\u00a0was\u00a0quoted in The Economist on US action in Iran, arguing that President Trump is weakening a regime hostile to the United States.\nThe post Kroenig quoted in The Economist on war in Iran appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-quoted-in-the-economist-on-war-in-iran/",
+      "source": "Atlantic Council",
+      "published": "2026-03-20T19:27:03+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "In the Iran crisis, the IMF\u2019s voice is urgently needed",
+      "summary": "As the Iran crisis chokes the Strait of Hormuz and rattles global energy markets, the IMF has offered little more than cautious statements. The institution must develop real-time, scenario-driven analysis.\nThe post In the Iran crisis, the IMF\u2019s voice is urgently needed appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/blogs/econographics/imf-iran-crisis-economic-response/",
+      "source": "Atlantic Council",
+      "published": "2026-03-20T19:19:21+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Oil waivers risk sustaining Russia\u2019s war effort amid the Iran war",
+      "summary": "Relieving US sanctions on Russian oil would give Moscow a reprieve just as financial pressure was beginning to constrain its room for maneuver in its war against Ukraine. \nThe post Oil waivers risk sustaining Russia\u2019s war effort amid the Iran war appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/dispatches/oil-waivers-risk-sustaining-russias-war-effort-amid-the-iran-war/",
+      "source": "Atlantic Council",
+      "published": "2026-03-20T18:21:39+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Demand destruction has begun: What Sri Lanka reveals about the global energy crisis",
+      "summary": "The disruption to oil and gas flows through the Strait of Hormuz has triggered a systemic shock to energy markets, and Sri Lanka is on the front line.\nThe post Demand destruction has begun: What Sri Lanka reveals about the global energy crisis appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/dispatches/demand-destruction-has-begun-what-sri-lanka-reveals-about-the-global-energy-crisis/",
+      "source": "Atlantic Council",
+      "published": "2026-03-20T16:04:40+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Temnycky in the Hill: Congress can boost US trade and strike a blow to Iran with Azerbaijan\u2019s help",
+      "summary": "The post Temnycky in the Hill: Congress can boost US trade and strike a blow to Iran with Azerbaijan\u2019s help appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/insight-impact/temnycky-in-the-hill-congress-can-boost-us-trade-and-strike-a-blow-to-iran-with-azerbaijans-help/",
+      "source": "Atlantic Council",
+      "published": "2026-03-20T14:59:07+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "Cohen in Forbes: Russia and Iran are reshaping regional power in crisis and confrontation",
+      "summary": "The post Cohen in Forbes: Russia and Iran are reshaping regional power in crisis and confrontation appeared first on Atlantic Council.",
+      "link": "https://www.atlanticcouncil.org/insight-impact/cohen-in-forbes-russia-and-iran-are-reshaping-regional-power-in-crisis-and-confrontation/",
+      "source": "Atlantic Council",
+      "published": "2026-03-20T14:26:58+00:00",
+      "image": null
+    },
+    {
+      "type": "article",
+      "title": "U.S. negotiating with senior Iranian official: Trump",
+      "summary": "President Trump told reporters his envoys had been negotiating with a senior Iranian official and claimed the parties agreed on many points. Why it matters: Regional leaders and global markets were bracing for major escalation on Monday, but Trump walked back his threat to strike Iran's power plants, citing productive negotiations. Iran denied any such talks had taken place and claimed Trump was just trying to calm the energy markets.An Israeli official told Axios that U.S. envoys Steve Witkoff and Jared Kushner had been in touch with the speaker of the Iranian parliament, Mohammad Bagher Ghal",
+      "link": "https://www.axios.com/2026/03/23/trump-suspends-iran-strikes-hormuz-negotiations",
+      "source": "Axios",
+      "published": "2026-03-23T14:55:17+00:00",
+      "image": "https://images.axios.com/kCxcjqFiJ3FgDCH-8Yz79o9PYBg=/1448x0:4338x2890/320x320/2026/03/23/1774265785309.jpeg"
+    },
+    {
+      "type": "article",
+      "title": "Welcome to the spring of travel hell",
+      "summary": "Skyrocketing prices. Hours-long security lines. Safety worries after another fatal incident.Driving the news: A partial government shutdown plus an oil price spike from President Trump's Iran war are fueling a spring of hell for air travelers.Airline executives are warning of higher fares as Iran effectively blocks the Strait of Hormuz, a vital shipping lane for oil and other global commodities.\"The reality is, jet fuel prices have more than doubled in the last three weeks,\" United Airlines CEO Scott Kirby said in a Friday statement.\"Our plans assume oil goes to $175/barrel and doesn't get bac",
+      "link": "https://www.axios.com/2026/03/23/travel-delays-shutdown-security-airfare-prices",
+      "source": "Axios",
+      "published": "2026-03-23T14:27:50+00:00",
+      "image": "https://images.axios.com/_j7do3npaktv2I9n0tEtX6lpfvc=/320x320/smart/2023/10/24/162426-1698164666863.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Oil prices volatile after Trump's Strait of Hormuz threat",
+      "summary": "Oil prices remained well north of $100 per barrel after markets opened Sunday, with the Iran war moving into its fourth week.Why it matters: The price suggests that traders don't see a near-term end to the conflict, or risks to oil transit in the Strait of Hormuz that's throttling supplies on an unprecedented scale.It's the first major trading since President Trump said Saturday night that Iran has 48 hours to reopen the Strait of Hormuz or else the U.S. will start destroying the nation's power plants.The latest: The global benchmark Brent crude initially rose into the $113 range before dippin",
+      "link": "https://www.axios.com/2026/03/22/iran-war-oil-trump-hormuz-strait-threat",
+      "source": "Axios",
+      "published": "2026-03-23T00:51:30+00:00",
+      "image": "https://images.axios.com/NRXl71sCM1fwFq2_wkBxAz353Pk=/128x128/smart/2026/03/22/1774220364439.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Washington ignores America's fiscal cliff",
+      "summary": "The United States faces a dire and unsustainable fiscal outlook. You'd never know it from the action in Washington.Across parties and policy areas, you'd never guess that the U.S. faces fiscal constraints created by its high-and-rising public debt, ballooning deficits without precedent in times of prosperity, and a looming entitlement spending crisis when the Social Security trust fund runs out.State of play: Consider, instead, recent policy developments that will meaningfully affect the fiscal picture for the worse.The Trump administration is seeking $200 billion to fund the Iran war and repl",
+      "link": "https://www.axios.com/2026/03/22/washington-ignores-americas-fiscal-cliff",
+      "source": "Axios",
+      "published": "2026-03-22T13:53:58+00:00",
+      "image": "https://images.axios.com/rtTIqHpxpUMuSCKb7fY0OmkkbDk=/320x320/smart/2025/05/20/193002-1747769402955.jpg"
+    },
+    {
+      "type": "article",
+      "title": "Trump to Iran: Open Hormuz in 48 hours or U.S. bombs power plants",
+      "summary": "President Trump on Saturday night gave Iran a 48-hour deadline to reopen the Strait of Hormuz or else the U.S. will start destroying Iranian power plants. Why it matters: The threat marks a dramatic reversal from just a day earlier when Trump floated ending the war without reopening the strait, signaling the Hormuz crisis has become the issue he can't walk away from, even as he looks for an exit.Friction point: On Friday afternoon, a little more than 24 hours before Trump's new threat, the president said he was considering \"winding down\" the war without resolving the closure of the Strait of H",
+      "link": "https://www.axios.com/2026/03/22/trump-iran-48-hour-ultimatum-strait-of-hormuz",
+      "source": "Axios",
+      "published": "2026-03-22T13:21:42+00:00",
+      "image": "https://images.axios.com/GAoif6SbVzWJUE662-vA0NrQepg=/1679x0:6612x4933/320x320/2026/03/22/1774184372521.jpeg"
+    },
+    {
+      "type": "article",
+      "title": "Trump's team game planning for potential Iran peace talks",
+      "summary": "After three weeks of war, the Trump administration has begun initial discussions on the next phase and what peace talks with Iran might look like, according to a U.S. official and a source with knowledge.Why it matters: President Trump said Friday that he was considering \"winding down\" the war, though U.S. officials said the expectation was there would still be two to three additional weeks of fighting. In the meantime, Trump's advisers want to start laying groundwork for diplomacy.Behind the scenes: Trump's envoys Jared Kushner and Steve Witkoff are involved in the discussions around potentia",
+      "link": "https://www.axios.com/2026/03/21/trump-peace-deal-iran-kushner-witkoff",
+      "source": "Axios",
+      "published": "2026-03-21T18:33:30+00:00",
+      "image": "https://images.axios.com/0jWwGpfzXzzvzHmSqsIrJaanHRI=/1321x0:5321x4000/320x320/2026/03/21/1774117982186.jpeg"
+    },
+    {
+      "type": "article",
+      "title": "Iran war's economic shocks could reverberate for a while",
+      "summary": "The Iran war's economic consequences risk outlasting the conflict itself.Why it matters: Any swift ceasefire or arrangement allowing safe passage through the Strait of Hormuz won't undo supply shocks that could linger for months \u2014 and in some cases, years.What they're saying: Oil markets \"have so far faced logistics disruptions, not true supply destruction,\" Matt Bauer, a commodity strategist at Ned Davis Research, wrote in a client note on Friday.\"But attacks on South Pars and Iran's retaliation raise the risk that the conflict is shifting toward physical damage of production capacity.\"\"The d",
+      "link": "https://www.axios.com/2026/03/21/iran-war-food-oil-shocks",
+      "source": "Axios",
+      "published": "2026-03-21T12:04:55+00:00",
+      "image": "https://images.axios.com/5-qqPU4LQitKD5V4Mb0m6Pk2kHo=/107x0:1187x1080/320x320/2019/10/02/1570030513822.jpg"
+    },
+    {
+      "type": "article",
+      "title": "The Mojtaba mystery: CIA searches for signs of Iran's new leader",
+      "summary": "The CIA, Mossad and other intelligence agencies around the world were watching during Nowruz on Friday to see whether Iran's new supreme leader Mojtaba Khamenei would follow his father's tradition and give a new year's address.The intrigue: When the holiday passed with only a written statement from Mojtaba, the mystery around his physical condition, whereabouts and role in Iran's war effort deepened.It's hardly surprising that Mojtaba has remained in the shadows. Since killing his father, Israel has made clear Mojtaba is now at the top of its target list. Defense Secretary Pete Hegseth has als",
+      "link": "https://www.axios.com/2026/03/21/mojtaba-khamenei-iran-leader-where",
+      "source": "Axios",
+      "published": "2026-03-21T11:30:04+00:00",
+      "image": "https://images.axios.com/At9GMxKYaPjL68OqCs740Q1sJTg=/1633x0:5633x4000/320x320/2026/03/21/1774057031852.jpeg"
+    },
+    {
+      "type": "article",
+      "title": "Trump considers \"winding down\" Iran war without opening Hormuz Strait",
+      "summary": "President Trump said on Friday he is considering \"winding down\" the war with Iran without solving the crisis over the closure of the Strait of Hormuz.Why it matters: Trump has said for several days that the war could end soon, but this is the strongest signal yet that he's actively moving in that direction. If he does walk away without reopening the strait, the U.S. would be leaving other countries to clean up a hugely consequential economic quagmire. What he's saying: \"We are getting very close to meeting our objectives as we consider winding down our great Military efforts in the Middle East",
+      "link": "https://www.axios.com/2026/03/20/trump-winding-down-iran-war-hormuz-strait",
+      "source": "Axios",
+      "published": "2026-03-20T21:53:49+00:00",
+      "image": "https://images.axios.com/SVMLXvqxucIIgx0NrgAutDYahzk=/0x0:2667x2667/320x320/2026/03/20/1774041784844.jpeg"
+    },
+    {
+      "type": "article",
+      "title": "4 pivotal questions that could define the Iran war's next phase",
+      "summary": "Nearly a month into the Iran war, there are signs the conflict is poised to expand rather than conclude.The big picture: Potential future events in the war \u2014 like escalation in the Strait of Hormuz or major changes Iran's leadership \u2014 could determine when the conflict ends.The U.S. and Israel also have contrasting visions of the endgame, with Israel willing to endure more chaos to destabilize the regime, officials told Axios.\"Our objectives are our objectives,\" Secretary of Defense Pete Hegseth said last week. \"We'll set the tempo of when those are met.\"Here are four pivotal questions that cou",
+      "link": "https://www.axios.com/2026/03/20/iran-war-end-trump-strait-hormuz",
+      "source": "Axios",
+      "published": "2026-03-20T18:56:52+00:00",
+      "image": "https://images.axios.com/Kx0LHyxhaPH4CRcpNiQY-nbxByY=/1298x0:6098x4800/320x320/2026/03/18/1773863826682.jpeg"
+    },
+    {
+      "type": "article",
+      "title": "Trump mulls risky Kharg Island takeover to force Iran to open strait",
+      "summary": "The Trump administration is considering plans to occupy or blockade Iran's Kharg Island to pressure Iran to reopen the Strait of Hormuz, four sources with knowledge of the issue tell Axios.Why it matters: President Trump can't end the war, at least on his terms, until he breaks Iran's chokehold on shipping through the strait. In the meantime, global energy prices are surging.But an operation to take over Kharg Island, which sits 15 miles offshore and processes 90% of Iran's crude oil exports, could put U.S. troops more directly in the line of fire.Thus, such an operation would only be launched",
+      "link": "https://www.axios.com/2026/03/20/iran-invasion-kharg-island-strait-hormuz",
+      "source": "Axios",
+      "published": "2026-03-20T09:44:44+00:00",
+      "image": "https://images.axios.com/ZBQdUojLaDUsjrZdsEq28p72E2Y=/230x0:1430x1200/320x320/2026/03/20/1773969430017.jpeg"
+    },
+    {
+      "type": "article",
+      "title": "The Memo: Trump looks for the off-ramp on Iran",
+      "summary": "President Trump seemed to begin a de-escalation of the war on Iran on Monday, sparking a relief rally in financial markets and sending the price of oil tumbling.&#160; But Trump did not dispel confusion over exactly what\u2019s going on, nor did he erase deeper doubts about what comes next. It seems clear that Trump is&#8230;",
+      "link": "https://thehill.com/homenews/5797090-trump-iran-war-oil-prices-negotiations/",
+      "source": "The Hill",
+      "published": "2026-03-23T22:33:46+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26082658821935-e1774302608156.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Van Hollen: Trump is \u2018lying\u2019 about talks with Iranians",
+      "summary": "Sen. Chris Van Hollen (D-Md.) said Monday that President Trump is \u201clying\u201d about holding talks with Iranian officials.\u00a0 \u201cWe know he&#8217;s lying when he says that the Iranians are talking with us and they&#8217;re about to give Donald Trump everything he wants. Yes, that&#8217;s a lie,\u201d Van Hollen told host Kasie Hunt on CNN\u2019s \u201cThe&#8230;",
+      "link": "https://thehill.com/homenews/senate/5797061-trump-iran-war-crime/",
+      "source": "The Hill",
+      "published": "2026-03-23T22:24:36+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/02/1__7049.jpeg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "US issues \u2018worldwide caution\u2019 alert to travelers",
+      "summary": "The U.S. government has issued a \u201cworldwide caution\u201d alert for American travelers, with the conflict against Iran nearing the one-month mark. \u201cThe Department of State advises Americans worldwide, and especially in the Middle East, to exercise increased caution. Americans abroad should follow the guidance in security alerts issued by the nearest U.S. embassy or consulate,\u201d&#8230;",
+      "link": "https://thehill.com/homenews/administration/5797170-state-department-us-travelers-security-alert-iran/",
+      "source": "The Hill",
+      "published": "2026-03-23T22:08:15+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/01/AP25233730230172-e1768928860236.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Signs emerge Trump ready to end Iran war as pressure mounts over Hormuz",
+      "summary": "Early signs emerged Monday that the Trump administration is signaling it wants to wind down the war with Iran, as pressure from the closure of the Strait of Hormuz tightens its grip on the global economy. But conflicting accounts over whether any talks are taking place between the U.S. and Iran to reach any kind&#8230;",
+      "link": "https://thehill.com/homenews/administration/5797035-trump-administration-iran-war/",
+      "source": "The Hill",
+      "published": "2026-03-23T21:59:45+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Trump_Memphis_03232026.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Iran war takes mounting toll on America\u2019s military",
+      "summary": "The U.S. war in Iran is taking a mounting toll on America&#8217;s military, with rising casualties, dwindling munitions stockpiles, a sidelined aircraft carrier and numerous downed aircraft just three weeks into the conflict. At least 13 U.S. service members have been killed, while another 232 have been injured since the U.S.-Israeli war against Tehran began&#8230;",
+      "link": "https://thehill.com/policy/defense/5797004-war-iran-impact-us-military/",
+      "source": "The Hill",
+      "published": "2026-03-23T21:39:29+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/02/navy_uss-abraham-lincoln_01212026_AP26044442824977-1.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Iran targeting buyers of US Treasury bonds: Parliament speaker",
+      "summary": "Mohammad Bagher Ghalibaf, the speaker of the Iranian parliament, on Sunday warned that his country will target buyers of U.S. Treasury bonds.&#160; \u201cIn addition to military bases, those financial institutions that fund the U.S. military budget are considered legitimate targets,\u201d he wrote on the social platform X. \u201cU.S. Treasury bonds are tainted with the blood&#8230;",
+      "link": "https://thehill.com/policy/international/5796980-ghalibaf-warns-treasury-buyers/",
+      "source": "The Hill",
+      "published": "2026-03-23T21:39:06+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/01/AP25155593897700-e1767365326638.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "TSA crisis grows, raising pressure on lawmakers to end DHS shutdown",
+      "summary": "Congress is facing mounting pressure to fund the Department of Homeland Security (DHS) and end the partial government shutdown as flight delays and long security lines are worsening at airports nationwide. President Trump said this past weekend he would deploy Immigration and Customs Enforcement (ICE) officers to airports to help manage the strain, a move&#8230;",
+      "link": "https://thehill.com/policy/transportation/5797023-tsa-airports-dhs-funding-ice/",
+      "source": "The Hill",
+      "published": "2026-03-23T21:24:15+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26077681385847-e1773926415582.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Candidates for Greene\u2019s seat clash over Iran war, economy in runoff election debate",
+      "summary": "ATLANTA &#8211; The two candidates running to replace former Rep. Marjorie Taylor Greene (R) in Georgia\u2019s 14th Congressional District faced off in a debate Sunday, offering a contrast in both tone and policy ahead of the April 7 runoff election. Democrat Shawn Harris and Republican Clay Fuller, President Trump\u2019s endorsed candidate, used the stage to&#8230;",
+      "link": "https://thehill.com/homenews/campaign/5796957-shawn-harris-clay-fuller-debate-georgia-runoff/",
+      "source": "The Hill",
+      "published": "2026-03-23T20:50:07+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/clay-fuller-shawn-harris-ap.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Who is Mohammad-Bagher Ghalibaf, Iranian figure reportedly leading talks with US",
+      "summary": "Mohammad-Bagher Ghalibaf is the speaker of Iran&#8217;s Parliament, and has spent decades inside the political circles of Tehran that wield power and influence in the country. On Monday, sources told multiple outlets that Ghalibaf is leading talks with President Trump on behalf of Iran as both sides contemplate their strategies and the potential for de-escalation&#8230;",
+      "link": "https://thehill.com/policy/international/5796830-mohammad-bagher-ghalibaf-iran-negotiator/",
+      "source": "The Hill",
+      "published": "2026-03-23T20:33:23+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/01/AP25155593897700-e1767365326638.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Netanyahu says Trump sees opportunity for deal with Iran",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said Monday that President Trump sees an opportunity for a deal with Iran as the U.S.-Israeli conflict with the Middle Eastern country rages on. \u201cEarlier today I spoke with our friend President Trump. President Trump believes there is an opportunity to leverage the tremendous achievements we have reached alongside the&#8230;",
+      "link": "https://thehill.com/policy/defense/5796913-trump-netanyahu-iran-deal/",
+      "source": "The Hill",
+      "published": "2026-03-23T20:16:59+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26078689952333-e1774006813277.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Live updates: Trump pauses some attacks, says Iran has \u2018one more opportunity to end its threats\u2019",
+      "summary": "President Trump on Monday said Iran &#8220;has one more opportunity to end its threats&#8221; to the U.S. and its allies. He added that Iran wants peace. The remarks, made at a Memphis, Tenn., crime task force roundtable, came hours after he said attacks on Iran&#8217;s energy infrastructure would be put on hold for five days&#8230;",
+      "link": "https://thehill.com/homenews/administration/5795410-live-updates-donald-trump-iran/",
+      "source": "The Hill",
+      "published": "2026-03-23T19:48:07+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26082604295221-e1774285048467.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Senate Republican defends spending $200B on Iran war as an \u2018America First\u2019 priority",
+      "summary": "Sen. Jim Banks (R-Ind.) on Sunday defended a $200 billion funding request price tag for the U.S. conflict against Iran, calling it \u201cAmerica First.\u201d \u201cWell, it&#8217;s a lot of money, but it&#8217;s going right into rebuilding our stockpiles, our own munitions. It&#8217;s in America&#8217;s best interest that we reshore all of these defense manufacturing jobs&#8230;",
+      "link": "https://thehill.com/homenews/senate/5796721-america-first-iran-conflict/",
+      "source": "The Hill",
+      "published": "2026-03-23T18:07:59+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/01/banksjim_010826gn02_w.jpg?w=900"
+    },
+    {
+      "type": "article",
+      "title": "Trump says Hegseth \u2018first one to speak up\u2019 in support of Iran war",
+      "summary": "President Trump indicated on Monday that Defense Secretary Pete Hegseth was the first top administration official to back the U.S. military attacks against Iran.&#160; &#8220;Pete, I think you were the first one to speak up and you said let&#8217;s do it because you can&#8217;t let them have a nuclear weapon,\u201d the president said at a&#8230;",
+      "link": "https://thehill.com/policy/defense/5796691-trump-hegseth-iran-war-support/",
+      "source": "The Hill",
+      "published": "2026-03-23T18:02:46+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26077666570817-e1773921064451.jpg?w=900"
+    }
+  ],
+  "videos": [
+    {
+      "type": "video",
+      "title": "Meet the Press NOW \u2014 March 23",
+      "summary": "President Trump walks back his threats to \u201cobliterate\u201d Iran's power plants. New video of the deadly collision at LaGuardia Airport shows the moment of impact between an Air Canada plane and a firetruck which killed two pilots. A former TSA administrator joins Meet the Press NOW to discuss ICE agents being deployed as security lines continue to grow at airports nationwide and President Trump declin",
+      "video_id": "VcFEz3WDd-g",
+      "link": "https://www.youtube.com/watch?v=VcFEz3WDd-g",
+      "embed_url": "https://www.youtube-nocookie.com/embed/VcFEz3WDd-g",
+      "source": "NBC News",
+      "published": "2026-03-23T22:21:12+00:00",
+      "image": "https://img.youtube.com/vi/VcFEz3WDd-g/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump administration engaged in \u2018preliminary conversations\u2019 with Iran to end war",
+      "summary": "President Trump backs down from his ultimatum to strike Iran\u2019s power plants after what he says were \u201cproductive\u201d talks with Tehran. NBC News correspondent Monica Alba, Raf Sanchez, Courtney Kube and Brian Cheung report on the latest in the war and the market\u2019s reaction to the president\u2019s comments that the Strait of Hormuz could open \u201cvery soon.\u201d\n\nFor more context and news coverage of the most impo",
+      "video_id": "tw-ePIdnuH8",
+      "link": "https://www.youtube.com/watch?v=tw-ePIdnuH8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/tw-ePIdnuH8",
+      "source": "NBC News",
+      "published": "2026-03-23T20:59:23+00:00",
+      "image": "https://img.youtube.com/vi/tw-ePIdnuH8/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Did Tehran aim to hit Israel's nuke research site? | DW News",
+      "summary": "Iranian strikes on Israel caused injuries and significant damage in several cities over the weekend. Israel says Iran fired ballistic missiles at the southern cities of Dimona and Arad. No deaths were reported, \nbut more than a hundred people were injured. Iranian state media said the attacks were aimed at an Israeli nuclear research facility around 10 kilometers south of Dimona. Israeli Prime Min",
+      "video_id": "hpKIkArdKlU",
+      "link": "https://www.youtube.com/watch?v=hpKIkArdKlU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/hpKIkArdKlU",
+      "source": "DW News",
+      "published": "2026-03-23T20:30:11+00:00",
+      "image": "https://img.youtube.com/vi/hpKIkArdKlU/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "International Energy Agency boss warns of historic energy shock | DW News",
+      "summary": "Around the world, people are already feeling the economic impact of the Iran war. Gas pumps are first place global consumers are feeling the pinch. Motorists are especially hard hit by higher fuel prices. The increase varies from country to country, with knock-on effects feeding through to the rest of the economy. In an interview on Australian television, the head of the International Energy Agenc",
+      "video_id": "8SflDzqeE2g",
+      "link": "https://www.youtube.com/watch?v=8SflDzqeE2g",
+      "embed_url": "https://www.youtube-nocookie.com/embed/8SflDzqeE2g",
+      "source": "DW News",
+      "published": "2026-03-23T17:13:18+00:00",
+      "image": "https://img.youtube.com/vi/8SflDzqeE2g/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Iran bombing postponed: Can German Chancellor Merz help mediate in the Gulf? | DW News",
+      "summary": "German Chancellor Friedrich Merz has spoken about his call with US President Donald Trump about the Iran war and the possibility that Germany could help with diplomatic measures.\n\n#dwgermanpolitics #iranwar #energycrisis \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://ww",
+      "video_id": "IZVjiwFB1UI",
+      "link": "https://www.youtube.com/watch?v=IZVjiwFB1UI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/IZVjiwFB1UI",
+      "source": "DW News",
+      "published": "2026-03-23T16:29:43+00:00",
+      "image": "https://img.youtube.com/vi/IZVjiwFB1UI/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "What are Israel's Lebanon plans & how is the Strait of Hormuz impacting Asian economies? | DW News",
+      "summary": "In the fourth week of the Iran War, fears are growing in Lebanon that Israel is preparing a large-scale ground invasion of the country. This, as the US and Iran threaten to escalate the war, rattling Asia's economies.\n#dwnews \nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https:",
+      "video_id": "ZExJra9G_Ec",
+      "link": "https://www.youtube.com/watch?v=ZExJra9G_Ec",
+      "embed_url": "https://www.youtube-nocookie.com/embed/ZExJra9G_Ec",
+      "source": "DW News",
+      "published": "2026-03-23T11:52:00+00:00",
+      "image": "https://img.youtube.com/vi/ZExJra9G_Ec/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Iran calls Trump\u2019s claim of peace talks \u201cfake news\u201d to manipulate markets  | BBC News",
+      "summary": "Donald Trump\u00a0has announced that his threat to attack Iranian power plants has been put on hold, after what he called \u201cvery productive\u201d talks with Iran about \u201ca complete and total resolution of hostilities\u201d.  \n\nHowever Iran said no such talks had taken place.  The speaker of Iran\u2019s parliament said Trump\u2019s comments were \u201cfake news\u201d and were being used to manipulate the energy markets.  The price of ",
+      "video_id": "GlN1qi6oxgU",
+      "link": "https://www.youtube.com/watch?v=GlN1qi6oxgU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/GlN1qi6oxgU",
+      "source": "BBC News",
+      "published": "2026-03-23T22:53:09+00:00",
+      "image": "https://img.youtube.com/vi/GlN1qi6oxgU/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Why has US President Trump postponed his ultimatum on the Strait of Hormuz? | BBC News",
+      "summary": "US President Trump has extended his initial 48-hour ultimatum to Iran to unblock the Strait of Hormuz to five days. The president said Iran has \"one more chance at peace\", following what he called \u201cgood and productive conversations\u201d.  \n\nBut, while Sir Keir Starmer said he was aware the talks had taken place, Iran has denied speaking to the US and has called Trump\u2019s claims of talks \"fake news\".   \n",
+      "video_id": "J-7gjvxf_j8",
+      "link": "https://www.youtube.com/watch?v=J-7gjvxf_j8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/J-7gjvxf_j8",
+      "source": "BBC News",
+      "published": "2026-03-23T22:45:04+00:00",
+      "image": "https://img.youtube.com/vi/J-7gjvxf_j8/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "How the Iran war could raise food prices | Global News Podcast",
+      "summary": "The US-Israel war with Iran continues to create turbulence for the global economy. The head of the International Energy Agency has said the world is facing a worse crisis than the oil shock of the 1970s and the fallout from the Ukraine war combined. \n \nIt's not just a problem of fuel supply \u2014 it's the uncertainty of what will happen to the cargos of ships that can't make the journey through the St",
+      "video_id": "OMsTBoMNeHg",
+      "link": "https://www.youtube.com/watch?v=OMsTBoMNeHg",
+      "embed_url": "https://www.youtube-nocookie.com/embed/OMsTBoMNeHg",
+      "source": "BBC News",
+      "published": "2026-03-23T20:30:05+00:00",
+      "image": "https://img.youtube.com/vi/OMsTBoMNeHg/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump says US and Tehran have held talks on day 24 of Iran war | BBC News",
+      "summary": "US President Donald Trump said the US and Iran have held talks on the \"complete and total resolution of hostilities\" in the Middle East.\n \nHowever, Iran's parliament speaker denies discussions have taken place, saying \"fake news\" is being used to \"manipulate\" the oil markets.\n \nNewly released figures show the number of people killed in Lebanon since Israel began its operations in the country has r",
+      "video_id": "EX4sLXdeSlM",
+      "link": "https://www.youtube.com/watch?v=EX4sLXdeSlM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/EX4sLXdeSlM",
+      "source": "BBC News",
+      "published": "2026-03-23T19:23:20+00:00",
+      "image": "https://img.youtube.com/vi/EX4sLXdeSlM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump's options: how could the Iran war end? | The Global Story",
+      "summary": "Donald Trump says the United States and Iran have held talks on the \"complete and total resolution of hostilities\" in the Middle East.\n\nHe says that, as a result of the talks, he has postponed threatened strikes on Iranian power plants for five days. \n\nHowever, Iran's foreign ministry denies such talks have taken place, according to the BBC's US partner CBS. \n\nAs the US and Israel war with Iran en",
+      "video_id": "CNq9Nj8J0O0",
+      "link": "https://www.youtube.com/watch?v=CNq9Nj8J0O0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/CNq9Nj8J0O0",
+      "source": "BBC News",
+      "published": "2026-03-23T18:00:20+00:00",
+      "image": "https://img.youtube.com/vi/CNq9Nj8J0O0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Oil prices haven\u2019t destroyed demand, US energy secretary says",
+      "summary": "US Energy Secretary Chris Wright said global oil prices have not climbed enough to cause demand destruction, where sustained high prices force consumers to permanently change behavior rather than temporarily cut back.\n#news #News #Reuters #Newsfeed #oil #iranisraelwar #energy \n\nRead the story here: https://reut.rs/3NG2xkI\n\n\ud83d\udc49  Subscribe: https://reut.rs/4b8fRGn\n\nKeep up with the latest news from ar",
+      "video_id": "eZ-Lt9bvwpU",
+      "link": "https://www.youtube.com/watch?v=eZ-Lt9bvwpU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/eZ-Lt9bvwpU",
+      "source": "Reuters",
+      "published": "2026-03-23T21:15:44+00:00",
+      "image": "https://img.youtube.com/vi/eZ-Lt9bvwpU/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump says Iran wants to settle; Tehran denies talks",
+      "summary": "President Trump said preliminary conversations between the United States and Iran had been \"really good,\" adding Tehran wanted to settle. However, Iran's Parliamentary Speaker Mohammad Baqer Qalibaf posted on social media that no talks had been held with the U.S.\n \n#iranwar #iran #trump #donaldtrump #israel",
+      "video_id": "uUwa5Q9eYvU",
+      "link": "https://www.youtube.com/watch?v=uUwa5Q9eYvU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/uUwa5Q9eYvU",
+      "source": "Reuters",
+      "published": "2026-03-23T19:06:38+00:00",
+      "image": "https://img.youtube.com/vi/uUwa5Q9eYvU/hqdefault.jpg"
+    }
+  ],
+  "last_updated": "2026-03-23T23:01:23.135101+00:00",
+  "total_articles": 85,
+  "total_videos": 13
 }
