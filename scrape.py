@@ -203,8 +203,8 @@ def main():
 
     # Merge — new content first, deduplicate by link / video_id
     def merge(existing, fresh, key="link"):
-        seen = {item[key] for item in existing}
-        added = [i for i in fresh if i.get(key) not in seen]
+        seen = {item.get(key) for item in existing if item.get(key)}
+        added = [i for i in fresh if i.get(key) and i.get(key) not in seen]
         return (added + existing)[:200]
 
     all_articles = merge(existing_articles, new_articles, key="link")
