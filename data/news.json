@@ -2,6 +2,15 @@
   "articles": [
     {
       "type": "article",
+      "title": "More than 300 children killed in Iran, Lebanon since war started: UNICEF",
+      "summary": "Ted Chaiban, the deputy executive director of the United Nations Children\u2019s Fund (UNICEF), said Monday that 324 children have been killed in Iran and Lebanon since the U.S.-Israeli war with Iran started. At a press briefing in New York City, Chaiban said that 206 children in Iran and 118 children in Lebanon have been killed&#8230;",
+      "link": "https://thehill.com/policy/international/5797207-unicef-reports-324-children-killed/",
+      "source": "The Hill",
+      "published": "2026-03-23T23:30:46+00:00",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/Time_Timotija_AP_BilalHussein.jpg?w=900"
+    },
+    {
+      "type": "article",
       "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
       "summary": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
       "link": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
@@ -769,6 +778,50 @@
   "videos": [
     {
       "type": "video",
+      "title": "Trump touts progress in talks with Iran",
+      "summary": "President Trump cited \u2018major points of agreement\u2019 in direct talks with the Iranian regime to end the war. But Iran denied there were any direct talks. NBC News\u2019 Gabe Gutierrez reports.\n\nFor more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n\u00bb Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC\n\u00bb Subscribe to Here's the Scoop podcast: h",
+      "video_id": "XvtusuJ_-1k",
+      "link": "https://www.youtube.com/watch?v=XvtusuJ_-1k",
+      "embed_url": "https://www.youtube-nocookie.com/embed/XvtusuJ_-1k",
+      "source": "NBC News",
+      "published": "2026-03-23T23:37:51+00:00",
+      "image": "https://img.youtube.com/vi/XvtusuJ_-1k/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "DoorDash says it will help some drivers with gas costs as prices soar over Iran war",
+      "summary": "The war with Iran is affecting the markets and the economy, with gas prices over $1 more than they were one month ago. NBC News\u2019 Allie Canal details Trump\u2019s reaction and what companies are doing to accommodate the rising costs.\n\nFor more context and news coverage of the most important stories of our day, click here: https://www.nbcnews.com\n\n\u00bb Subscribe to NBC News: http://nbcnews.to/SubscribeToNBC",
+      "video_id": "1CZUD7at4mQ",
+      "link": "https://www.youtube.com/watch?v=1CZUD7at4mQ",
+      "embed_url": "https://www.youtube-nocookie.com/embed/1CZUD7at4mQ",
+      "source": "NBC News",
+      "published": "2026-03-23T23:07:24+00:00",
+      "image": "https://img.youtube.com/vi/1CZUD7at4mQ/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Degraded but still dangerous: Iran\u2019s evolving threat | DW News",
+      "summary": "Iran\u2019s capabilities may be damaged \u2014 but they\u2019re far from gone.\nWe break down what this new phase of the war really means.\n\n#dwcurrentaffairs \nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.facebook.com/deutschewellenews/\n\u25baTwitter: https://twitter.com/dwnews\n\nF\u00fcr Vide",
+      "video_id": "F1sVxa4thO4",
+      "link": "https://www.youtube.com/watch?v=F1sVxa4thO4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/F1sVxa4thO4",
+      "source": "DW News",
+      "published": "2026-03-23T23:09:43+00:00",
+      "image": "https://img.youtube.com/vi/F1sVxa4thO4/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump announces five-day postponement of Iran energy strikes | DW News",
+      "summary": "US President Donald Trump says he is holding off bombing Iran\u2019s energy infrastructure after he held \u2018productive talks\u2019 with unidentified Iranian officials. Tehran says however there were no such negotiations and claims that Trump \u2018backed down\u2019 from his threat. So who was Trump talking to if Iran\u2019s government says it wasn\u2019t involved?\n\n#dwnews \nFor more news go to: http://www.dw.com/en/\n\nFollow DW o",
+      "video_id": "emRJAwxdA5g",
+      "link": "https://www.youtube.com/watch?v=emRJAwxdA5g",
+      "embed_url": "https://www.youtube-nocookie.com/embed/emRJAwxdA5g",
+      "source": "DW News",
+      "published": "2026-03-23T22:43:29+00:00",
+      "image": "https://img.youtube.com/vi/emRJAwxdA5g/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Meet the Press NOW \u2014 March 23",
       "summary": "President Trump walks back his threats to \u201cobliterate\u201d Iran's power plants. New video of the deadly collision at LaGuardia Airport shows the moment of impact between an Air Canada plane and a firetruck which killed two pilots. A former TSA administrator joins Meet the Press NOW to discuss ICE agents being deployed as security lines continue to grow at airports nationwide and President Trump declin",
       "video_id": "VcFEz3WDd-g",
@@ -911,7 +964,7 @@
       "image": "https://img.youtube.com/vi/uUwa5Q9eYvU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-03-23T23:01:23.135101+00:00",
-  "total_articles": 85,
-  "total_videos": 13
+  "last_updated": "2026-03-23T23:53:42.701686+00:00",
+  "total_articles": 86,
+  "total_videos": 17
 }
