@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>US–Iran Conflict | Live News Tracker</title>
-  <meta name="description" content="Live coverage of the US–Iran conflict. Aggregated from Reuters, BBC, Al Jazeera, NYT and more. Updated every 5 minutes." />
+  <meta name="description" content="Live coverage of the US–Iran conflict from citizen journalists, OSINT accounts, X.com, Telegram, and Reddit. Updated every 5 minutes." />
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -268,11 +268,26 @@
       font-size: 0.65rem;
       font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: var(--red);
-      background: rgba(220,38,38,.12);
+      letter-spacing: 0.06em;
       padding: 2px 8px;
       border-radius: 3px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .source-badge.platform-reddit   { color: #ff6314; background: rgba(255,99,20,.13); }
+    .source-badge.platform-telegram { color: #2aabee; background: rgba(42,171,238,.13); }
+    .source-badge.platform-twitter  { color: #e7e7e7; background: rgba(255,255,255,.1); }
+    .source-badge.platform-youtube  { color: #ff0000; background: rgba(255,0,0,.12); }
+    .source-badge.platform-default  { color: var(--red); background: rgba(220,38,38,.12); }
+    .card-author {
+      font-size: 0.7rem;
+      color: var(--muted);
+      font-style: italic;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      max-width: 130px;
     }
     .card-date {
       font-size: 0.65rem;
@@ -594,7 +609,7 @@
   <div class="header-inner">
     <div>
       <div class="site-title">US–<span>Iran</span> Conflict</div>
-      <div class="site-subtitle">Live news tracker &mdash; updated every 5 minutes</div>
+      <div class="site-subtitle">Citizen journalism &bull; OSINT &bull; X &bull; Telegram &bull; Reddit &mdash; updated every 5 minutes</div>
     </div>
     <div class="header-meta">
       <div class="live-badge"><span class="live-dot"></span> Live</div>
@@ -668,8 +683,9 @@
   <section class="section" id="tab-sources">
     <div class="section-heading">News Sources</div>
     <p style="color:var(--muted);font-size:.85rem;margin-bottom:24px;">
-      This tracker aggregates content from the following internationally trusted news organizations via their public RSS feeds.
-      No API keys or paid subscriptions are used.
+      This tracker pulls from citizen journalists, OSINT analysts, and independent accounts —
+      no mainstream or state-controlled media. Sources include X.com searches, public Telegram channels,
+      Reddit communities, and independent YouTube channels.
     </p>
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px;" id="sources-list"></div>
   </section>
@@ -681,9 +697,9 @@
   <div class="footer-inner">
     <div class="footer-sources" id="footer-sources"></div>
     <div class="footer-note">
-      Content aggregated from public RSS feeds of trusted news organizations.<br/>
-      All articles link to their original sources. This site does not host or modify any news content.<br/>
-      Auto-refreshes every 5 minutes via <a href="https://github.com/features/actions" target="_blank" rel="noopener">GitHub Actions</a>.
+      Aggregated from citizen journalists, OSINT analysts, and independent accounts on X.com, Telegram, and Reddit.<br/>
+      No mainstream or state-affiliated media. All posts link directly to their original source.<br/>
+      Auto-scrapes every 5 minutes via <a href="https://github.com/features/actions" target="_blank" rel="noopener">GitHub Actions</a>.
     </div>
   </div>
 </footer>
@@ -757,11 +773,14 @@
 
   // ── FILTERS ───────────────────────────────────────────────
   function renderFilters(articles) {
-    const sources = [...new Set(articles.map(a => a.source))].sort();
+    const platforms = [...new Set(articles.map(a => a.platform).filter(Boolean))].sort();
     const bar = document.getElementById("filter-bar");
-    bar.innerHTML = `<button class="filter-chip ${activeFilter === "all" ? "active" : ""}" data-filter="all" onclick="filterNews(this)">All</button>`;
-    sources.forEach(s => {
-      bar.innerHTML += `<button class="filter-chip ${activeFilter === s ? "active" : ""}" data-filter="${s}" onclick="filterNews(this)">${s}</button>`;
+    bar.innerHTML = `<button class="filter-chip active" data-filter="all" onclick="filterNews(this)">All</button>`;
+    const pLabels = { reddit:"Reddit", telegram:"Telegram", twitter:"X.com", youtube:"YouTube" };
+    platforms.forEach(p => {
+      const lbl = pLabels[p] || p;
+      const cls = activeFilter === p ? "active" : "";
+      bar.innerHTML += `<button class="filter-chip platform-chip-${p} ${cls}" data-filter="${p}" onclick="filterNews(this)">${lbl}</button>`;
     });
   }
 
@@ -769,7 +788,7 @@
     document.querySelectorAll(".filter-chip").forEach(c => c.classList.remove("active"));
     btn.classList.add("active");
     activeFilter = btn.dataset.filter;
-    const filtered = activeFilter === "all" ? allArticles : allArticles.filter(a => a.source === activeFilter);
+    const filtered = activeFilter === "all" ? allArticles : allArticles.filter(a => a.platform === activeFilter);
     renderNews(filtered);
   }
 
@@ -786,23 +805,38 @@
     } catch { return iso; }
   }
 
+  const PLATFORM_ICONS  = { reddit:"&#129olean;", telegram:"&#9992;", twitter:"&#120143;", youtube:"&#9654;" };
+  const PLATFORM_LABELS = { reddit:"Reddit", telegram:"Telegram", twitter:"X.com", youtube:"YouTube" };
+  const READ_LABELS     = { reddit:"View thread", telegram:"Open in Telegram", twitter:"View on X", youtube:"Watch video" };
+
+  function platformIcon(p) {
+    return p === "reddit" ? "🟠" : p === "telegram" ? "✈" : p === "twitter" ? "𝕏" : p === "youtube" ? "▶" : "📰";
+  }
+
   function cardHTML(article, featured = false) {
+    const platform = article.platform || "default";
+    const label    = PLATFORM_LABELS[platform] || escHtml(article.source);
+    const readLbl  = READ_LABELS[platform] || "Read more";
+
     const img = article.image
       ? `<img class="card-img" src="${escHtml(article.image)}" alt="" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
       : "";
     const placeholder = `<div class="card-img-placeholder" ${article.image ? 'style="display:none"' : ""}>&#128240;</div>`;
+    const authorHtml  = article.author
+      ? `<div class="card-author">${escHtml(article.author)}</div>` : "";
 
     return `
       <a class="card ${featured ? "card-featured" : ""}" href="${escHtml(article.link)}" target="_blank" rel="noopener noreferrer">
         ${img}${placeholder}
         <div class="card-body">
           <div class="card-meta">
-            <span class="source-badge">${escHtml(article.source)}</span>
+            <span class="source-badge platform-${platform}">${label} &middot; ${escHtml(article.source)}</span>
             <span class="card-date">${formatDate(article.published)}</span>
           </div>
+          ${authorHtml}
           <div class="card-title">${escHtml(article.title)}</div>
-          ${article.summary ? `<div class="card-summary">${escHtml(article.summary)}</div>` : ""}
-          <div class="card-read-more">Read full article &rarr;</div>
+          ${article.summary && article.summary !== article.title ? `<div class="card-summary">${escHtml(article.summary)}</div>` : ""}
+          <div class="card-read-more">${readLbl} &rarr;</div>
         </div>
       </a>`;
   }
@@ -868,32 +902,34 @@
   document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
 
   // ── SOURCES ───────────────────────────────────────────────
-  const SOURCE_DESCS = {
-    "Reuters":          "Global wire service. Politically neutral, factual reporting.",
-    "BBC News":         "UK public broadcaster. Trusted international coverage.",
-    "Al Jazeera":       "Qatar-based international news network. Strong Middle East bureau.",
-    "NPR":              "US public radio. In-depth analysis and reporting.",
-    "The Guardian":     "UK daily. Investigative and long-form journalism.",
-    "NY Times":         "US newspaper of record. Comprehensive world coverage.",
-    "Washington Post":  "US newspaper. Strong national security reporting.",
-    "Voice of America": "US government-funded international broadcaster.",
-    "Foreign Policy":   "Specialist publication on international affairs.",
-    "Atlantic Council": "Think-tank analysis on geopolitics and security.",
-    "Axios":            "Smart-brevity news outlet. Fast, factual summaries.",
-    "The Hill":         "US political news. Congress and policy coverage.",
-    "AP News":          "Associated Press global wire service.",
+  const PLATFORM_DESCS = {
+    reddit:   "User-generated threads and discussions from Reddit communities.",
+    telegram: "Independent OSINT analysts and citizen journalists posting on Telegram.",
+    twitter:  "Real-time posts from independent reporters and OSINT accounts on X.com.",
+    youtube:  "Video coverage from independent and field-reporting YouTube channels.",
   };
 
   function renderSources(articles) {
-    const sources = [...new Set(articles.map(a => a.source))].sort();
-    const list = document.getElementById("sources-list");
+    const byPlatform = {};
+    articles.forEach(a => {
+      const p = a.platform || "other";
+      if (!byPlatform[p]) byPlatform[p] = new Set();
+      byPlatform[p].add(a.source);
+    });
+
+    const list   = document.getElementById("sources-list");
     const footer = document.getElementById("footer-sources");
-    list.innerHTML = sources.map(s => `
+    const pLabels = { reddit:"Reddit", telegram:"Telegram", twitter:"X.com", youtube:"YouTube" };
+
+    list.innerHTML = Object.entries(byPlatform).map(([p, srcs]) => `
       <div style="background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:16px;">
-        <div style="font-weight:700;color:var(--white);margin-bottom:6px;">${escHtml(s)}</div>
-        <div style="font-size:.77rem;color:var(--muted);line-height:1.5;">${SOURCE_DESCS[s] || "Trusted international news source."}</div>
+        <div style="font-weight:700;color:var(--white);margin-bottom:6px;">${pLabels[p] || p}</div>
+        <div style="font-size:.77rem;color:var(--muted);line-height:1.6;margin-bottom:10px;">${PLATFORM_DESCS[p] || ""}</div>
+        <div style="font-size:.7rem;color:var(--muted);">${[...srcs].map(s => `<span style="display:inline-block;background:var(--bg3);border-radius:3px;padding:1px 7px;margin:2px;">${escHtml(s)}</span>`).join("")}</div>
       </div>`).join("");
-    footer.innerHTML = sources.map(s => `<span class="footer-source">${escHtml(s)}</span>`).join("");
+
+    footer.innerHTML = Object.keys(byPlatform).map(p =>
+      `<span class="footer-source">${pLabels[p] || p}</span>`).join("");
   }
 
   // ── PROGRESS BAR ─────────────────────────────────────────
