@@ -2188,6 +2188,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "German Defense Minister on Iran war: 'The bombings must stop'  | DW News",
+      "summary": "German President Frank-Walter Steinmeier has called the US-Israel war on Iran a \"violation of international law.\" Asked about Steinmeier's remarks, Defense Minister Boris Pistorius called it \"a question for academic circles.\"\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https:",
+      "video_id": "oGpP9byzzK0",
+      "link": "https://www.youtube.com/watch?v=oGpP9byzzK0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/oGpP9byzzK0",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-03-24T18:52:13+00:00",
+      "image": "https://img.youtube.com/vi/oGpP9byzzK0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Israel says it will occupy southern Lebanon and create a buffer zone",
+      "summary": "Israeli army has carried out a new wave of attacks across southern Lebanon, killing several people, including two paramedics. The Lebanese Health Ministry has said more than 1,000 people have been killed in Israeli strikes so far. Meanwhile, Israel is accusing Hezbollah of threatening its security, trading warnings with Iran\u2019s Revolutionary Guard. But Beirut wants none of it, as Lebanese leaders w",
+      "video_id": "LtwwRb1nptM",
+      "link": "https://www.youtube.com/watch?v=LtwwRb1nptM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/LtwwRb1nptM",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-03-24T18:05:39+00:00",
+      "image": "https://img.youtube.com/vi/LtwwRb1nptM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Iran war widens rift between US and Germany | DW News",
       "summary": "The Iran war is putting further strain on transatlantic relations. German President Frank-Walter Steinmeier has now spoken of a 'deep rift' with the United States. In unusually strong comments, he said that 'there will be no going back to before January 20, 2025', when Donald Trump began his second presidential term. And President Steimeier slammed the US administration for starting the war agains",
       "video_id": "zX_4-HT7NQk",
@@ -2830,7 +2854,7 @@
       "image": "https://img.youtube.com/vi/uUwa5Q9eYvU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-03-24T18:08:29.548664+00:00",
+  "last_updated": "2026-03-24T20:03:23.257669+00:00",
   "total_articles": 227,
-  "total_videos": 55
+  "total_videos": 57
 }
