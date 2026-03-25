@@ -2975,6 +2975,42 @@
   "videos": [
     {
       "type": "video",
+      "title": "US sends Iran 15-point plan to end war in Middle East",
+      "summary": "The White House has reportedly sent Iran a 15-point plan to negotiate a peace deal, as the US president appears to focus on ending a conflict which hasn't gone the way he planned. While Donald Trump says the war is already won, Iran now seems to have more leverage. Andy Roesgen reports.",
+      "video_id": "rezB1EW8ioY",
+      "link": "https://www.youtube.com/watch?v=rezB1EW8ioY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/rezB1EW8ioY",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-03-25T08:14:48+00:00",
+      "image": "https://img.youtube.com/vi/rezB1EW8ioY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Iranian Red Crescent video shows aftermath of US-Israeli strikes in Isfahan market",
+      "summary": "The Iranian Red Crescent shared video showing heavy destruction following US-Israeli strikes on a commercial market and neighbourhood in Isfahan, central Iran. Many civilians were reportedly lined up in front of a bakery at the time of the attack. The strikes destroyed shops and caused severe damage to businesses in the market area, now left in ruins.\n\nSubscribe: http://trt.world/subscribe\nLivestr",
+      "video_id": "lBUOI8GDRTA",
+      "link": "https://www.youtube.com/watch?v=lBUOI8GDRTA",
+      "embed_url": "https://www.youtube-nocookie.com/embed/lBUOI8GDRTA",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-03-25T08:02:18+00:00",
+      "image": "https://img.youtube.com/vi/lBUOI8GDRTA/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump says Iran gave US 'very big present'. #Iran #US #BBCNews",
+      "summary": "",
+      "video_id": "nkNgHirXuQw",
+      "link": "https://www.youtube.com/watch?v=nkNgHirXuQw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/nkNgHirXuQw",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-03-25T10:02:34+00:00",
+      "image": "https://img.youtube.com/vi/nkNgHirXuQw/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump says talks underway to end Iran war, Iran denies negotiations | DW News",
       "summary": "President Donald Trump says negotiations with Iran are underway to end the conflict he launched with Israel\u2019s Prime Minister Benjamin Netanyahu nearly a month ago. Iranian leaders, however, have repeatedly denied any such negotiations. Critics argue that Trump\u2019s claims are aimed at steadying the markets.\n\n#dwnews\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: ht",
       "video_id": "Ko9Fij6LXPM",
@@ -3857,7 +3893,7 @@
       "image": "https://img.youtube.com/vi/uUwa5Q9eYvU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-03-25T08:03:32.963719+00:00",
+  "last_updated": "2026-03-25T10:35:39.482114+00:00",
   "total_articles": 300,
-  "total_videos": 75
+  "total_videos": 78
 }
