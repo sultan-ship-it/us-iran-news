@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Iranian missile strikes strain Israel's Iron Dome | DW News",
+      "summary": "Iran has launched a fresh wave of missiles at Israel. Tel Aviv was heavily targeted, with falling missile fragments causing fires across the city. Elsewhere in Israel, authorities say six people were injured in the central town of Kafr Qasim. And further north, the city of Haifa saw damage to a residential building following a missile attack. The strikes have been largely repelled by Israel's miss",
+      "video_id": "xX0ls4b0uz4",
+      "link": "https://www.youtube.com/watch?v=xX0ls4b0uz4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/xX0ls4b0uz4",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-03-26T22:34:25+00:00",
+      "image": "https://img.youtube.com/vi/xX0ls4b0uz4/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Is the Iran war making a case for renewables? | DW News",
       "summary": "The Iran war has exposed the global energy system to be fragile as countries remain dependent on fossil fuels. Could renewables like wind, solar, hydropower and photovoltaic shield people from the shock?\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.facebook.com/deu",
       "video_id": "YLUaiXT-gbs",
@@ -4798,7 +4810,7 @@
       "image": "https://img.youtube.com/vi/uUwa5Q9eYvU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-03-26T21:58:54.913834+00:00",
+  "last_updated": "2026-03-26T23:01:18.376323+00:00",
   "total_articles": 300,
-  "total_videos": 151
+  "total_videos": 152
 }
