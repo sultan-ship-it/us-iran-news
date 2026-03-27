@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Pres. Trump extends deadline for Iran to reopen Strait of Hormuz",
+      "summary": "Pres. Trump announced he is extending the deadline he gave Iran to open the Strait of Hormuz by 10 days. It comes as lawmakers fear Trump will put troops on the ground.",
+      "video_id": "XRlyrdfBDB0",
+      "link": "https://www.youtube.com/watch?v=XRlyrdfBDB0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/XRlyrdfBDB0",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-03-26T23:43:19+00:00",
+      "image": "https://img.youtube.com/vi/XRlyrdfBDB0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump extends deadline for Iran to re-open Strait of Hormuz as stock markets fall | BBC News",
+      "summary": "President Trump has claimed that talks with Iran are \u201cgoing very well\u201d and he\u2019s said he\u2019s giving its leaders a further 10 days to re-open the Strait of Hormuz, before launching threatened attacks on the country\u2019s energy sites. \n\nIn a post on his Truth Social media platform Trump wrote: \"As per Iranian Government request... I am pausing the period of Energy Plant destruction by 10 Days.\u201d\n\nEarlier, ",
+      "video_id": "fJuiYfW6sC0",
+      "link": "https://www.youtube.com/watch?v=fJuiYfW6sC0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/fJuiYfW6sC0",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-03-26T23:16:12+00:00",
+      "image": "https://img.youtube.com/vi/fJuiYfW6sC0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Iranian missile strikes strain Israel's Iron Dome | DW News",
       "summary": "Iran has launched a fresh wave of missiles at Israel. Tel Aviv was heavily targeted, with falling missile fragments causing fires across the city. Elsewhere in Israel, authorities say six people were injured in the central town of Kafr Qasim. And further north, the city of Haifa saw damage to a residential building following a missile attack. The strikes have been largely repelled by Israel's miss",
       "video_id": "xX0ls4b0uz4",
@@ -4810,7 +4834,7 @@
       "image": "https://img.youtube.com/vi/uUwa5Q9eYvU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-03-26T23:01:18.376323+00:00",
+  "last_updated": "2026-03-27T00:02:55.608999+00:00",
   "total_articles": 300,
-  "total_videos": 152
+  "total_videos": 154
 }
