@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Fear, fatigue shape daily life in Tel Aviv amid Iran war | DW News",
+      "summary": "In Tel Aviv, missile sirens and nightly runs to shelters have become the \u2018new normal\u2019. Yet as Israel\u2019s war with Iran grinds into its fifth week, public support for the offensive remains high, as DW\u2019s Tania Kr\u00e4mer reports.\n\n#dwcurrentaffairs \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25ba",
+      "video_id": "SKKkfZGDn6g",
+      "link": "https://www.youtube.com/watch?v=SKKkfZGDn6g",
+      "embed_url": "https://www.youtube-nocookie.com/embed/SKKkfZGDn6g",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-03-28T17:01:21+00:00",
+      "image": "https://img.youtube.com/vi/SKKkfZGDn6g/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "China's Big Brother offer to Taiwan: Energy security in exchange for 'reunification'? | DW News",
+      "summary": "Amid the global energy crisis over the US-Israel war with Iran, China offered energy stability to Taiwan if it agreed to \"peaceful reunification\", meaning Chinese rule. The war has further strained longstanding historical disputes over sovereignty between China and Taiwan and thrown Washington's delicate relationships with Taipei and Beijing in hot water.\n\n#taiwan #China #iranwar #ccp #dwgeopoliti",
+      "video_id": "tQo6Om_G-k0",
+      "link": "https://www.youtube.com/watch?v=tQo6Om_G-k0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/tQo6Om_G-k0",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-03-28T16:18:41+00:00",
+      "image": "https://img.youtube.com/vi/tQo6Om_G-k0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Millions expected to participate in 'No Kings' protests in the US and worldwide",
       "summary": "The number of protesters are expected to be greater than \"No Kings\" rallies last October.  Organizers say these protests are to voice opposition to Donald Trump's policies and the war in Iran.",
       "video_id": "Goge29fbD0g",
@@ -5770,7 +5794,7 @@
       "image": "https://img.youtube.com/vi/uUwa5Q9eYvU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-03-28T16:03:14.474214+00:00",
+  "last_updated": "2026-03-28T17:50:49.858408+00:00",
   "total_articles": 300,
-  "total_videos": 232
+  "total_videos": 234
 }
