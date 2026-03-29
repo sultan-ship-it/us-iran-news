@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "War Translated",
+      "author": "@wartranslated",
+      "title": "Iran\u2019s Fars claims it struck a \u201cstorage site for Ukrainian systems\u201d in Dubai, supposedly killing 20+ Ukrainian specialis\u2026",
+      "summary": "Iran\u2019s Fars claims it struck a \u201cstorage site for Ukrainian systems\u201d in Dubai, supposedly killing 20+ Ukrainian specialists inside.",
+      "link": "https://t.me/s/wartranslated",
+      "published": "2026-03-28T14:35:25+00:00",
+      "image": null
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/BusinessToday",
@@ -2989,19 +2999,33 @@
       "link": "https://www.reddit.com/r/iran/comments/1s4mar7/iran_on_the_edge_of_war_plan_b_documentary_the/",
       "published": "2026-03-26T22:38:42+00:00",
       "image": "https://external-preview.redd.it/RIJk9g5IgmR9UT6X14C6a1I2oUwFB78Wtf61dwEDN8U.jpeg?width=320&crop=smart&auto=webp&s=bf8308ec6bd28cabcaa5d4d8981e5ac3f5e170a2"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/AutoNewspaperAdmin",
-      "title": "[World] - Iran footballers pay tribute to victims of school strike | France24",
-      "summary": "&#32; submitted by &#32;  /u/AutoNewspaperAdmin  &#32; to &#32;  r/AutoNewspaper   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/AutoNewspaper/comments/1s5y1pj/world_iran_footballers_pay_tribute_to_victims_of/",
-      "published": "2026-03-28T11:39:13+00:00",
-      "image": null
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "The miscalculation of the US and Israel regarding Iran | To the Point",
+      "summary": "Trump signals a willingness to negotiate while simultaneously issuing Iran another ultimatum. He is deploying additional special forces to the region. However, the regime has no intention of backing down and is threatening retaliation. Will the war escalate further?\n\nYou can watch the entire episode here: https://youtu.be/wB3zA_h6ELk\n\n#dwcurrentaffairs \n\nFor more news go to: http://www.dw.com/en/\n",
+      "video_id": "sy83zvbA7VM",
+      "link": "https://www.youtube.com/watch?v=sy83zvbA7VM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/sy83zvbA7VM",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-03-29T05:00:39+00:00",
+      "image": "https://img.youtube.com/vi/sy83zvbA7VM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Iran war escalates as Houthis launch first strikes on Israel | DW News",
+      "summary": "Yemen's Houthis have joined the Iran war \u2013 a serious escalation in the hostilities. The militant group, which is allied with the regime in Tehran, had been sitting on the sidelines for the first four weeks of the conflict. That has now changed with an attack targeting Israel.\n\nThe Houthis have threatened targeting vessels in the narrow Bab el-Mandeb Strait, the fourth busiest global shipping route",
+      "video_id": "RhZYAjEIoOQ",
+      "link": "https://www.youtube.com/watch?v=RhZYAjEIoOQ",
+      "embed_url": "https://www.youtube-nocookie.com/embed/RhZYAjEIoOQ",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-03-29T03:53:31+00:00",
+      "image": "https://img.youtube.com/vi/RhZYAjEIoOQ/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "\"No Kings\": Massive crowds protest Trump | DW News",
@@ -5890,7 +5914,7 @@
       "image": "https://img.youtube.com/vi/uUwa5Q9eYvU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-03-29T05:56:43.218246+00:00",
+  "last_updated": "2026-03-29T08:03:42.659976+00:00",
   "total_articles": 300,
-  "total_videos": 242
+  "total_videos": 244
 }
