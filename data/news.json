@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "War Translated",
+      "author": "@wartranslated",
+      "title": "Trump threatens Iran with the destruction of all power stations, oil fields, and Kharg Island, through which about 90% o\u2026",
+      "summary": "Trump threatens Iran with the destruction of all power stations, oil fields, and Kharg Island, through which about 90% of the country's oil exports pass, if the Strait of Hormuz is not \"immediately opened\".",
+      "link": "https://t.me/s/wartranslated",
+      "published": "2026-03-30T14:31:24+00:00",
+      "image": "https://cdn4.telesco.pe/file/Cs0pIBwkwqm8RxDK95_Hv9EyMuxrjNpKSffybqvmTZB5ZfQSIfb9GsKwvoBR0v-uRpUHG5hzPNild2CgiHFeh9dr7c2yb4gAi39b4xa8SKcE78yH_WSrY0_0mQ7OrorNXzXndB45O_2dOSRokwgc24_S4K83WUvb4z004L1LCcA1bGs41BF8GWkivItjKhNL_SxpY_C4PtXqcbbSwLw9a6DJs0nGmf8rAXbPDUirvCL-_fLqV8Q295_riZ9_QXH3HnLdanyyMjFimvQxzI1ryjhcql7kA7N6e-6xKqm3uX7cfEzXxHA4nbJj0lb03i3NwzS6aYK8OHZJdhm3W7ho7g.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/Capable_Stomach_8229",
@@ -2989,19 +2999,45 @@
       "link": "https://www.reddit.com/r/conspiracy/comments/1s6sme1/americans_you_need_to_rein_in_your_terrorist/",
       "published": "2026-03-29T11:29:08+00:00",
       "image": null
-    },
-    {
-      "platform": "reddit",
-      "source": "r/geopolitics",
-      "author": "u/violentviolinz",
-      "title": "Israeli media report images of damaged E-3 AWACS from Iranian attack (hit was extremely accurate, right on the rotodome...in definitely unrelated news, Iran switched from GPS to Beidou in 12 Day War, Israeli electronic warfare jamming was 'neutralized' with reliability rate 98%, allegedly)",
-      "summary": "Images circulating online show the E-3 Sentry\u2019s radar dome collapsed as 15 US troops were wounded in the strike, which also reportedly damaged refueling aircraft and involved ballistic missiles and drones targeting a key Saudi base  https://www.ynetnews.com/article/bjxchu8jwx  Iran strike on Prince Sultan airbase destroys key US Air Force platforms The Friday strike not only injured troops, but it destroyed refuelers and an E-3 Sentry aircraft  https://www.jpost.com/defense-and-tech/article-8915",
-      "link": "https://www.reddit.com/r/Sino/comments/1s6sm4h/israeli_media_report_images_of_damaged_e3_awacs/",
-      "published": "2026-03-29T11:28:43+00:00",
-      "image": "https://preview.redd.it/e1rn8vb5vyrg1.jpg?width=140&height=67&auto=webp&s=3f719bd4d3dfe9c173c03a92b55a862ef3ca145a"
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "What reaction is to be expected from Iran if this were in fact attempted? | DW News",
+      "summary": "President Trump is reportedly considering a military operation in Iran to seize around 400 kilograms (or 880 pounds) of uranium. This information comes from the Wall Street Journal, who are quoting US officials.\nLast June, the US and Israel bombed three nuclear sites in Iran. Trump initially claimed that they had been completely destroyed, but a later Pentagon assessment contradicted this. Experts",
+      "video_id": "8u7kQpRcjUo",
+      "link": "https://www.youtube.com/watch?v=8u7kQpRcjUo",
+      "embed_url": "https://www.youtube-nocookie.com/embed/8u7kQpRcjUo",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-03-30T23:15:00+00:00",
+      "image": "https://img.youtube.com/vi/8u7kQpRcjUo/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Michigan synagogue attacker committed 'Hezbollah-inspired act of terrorism': FBI",
+      "summary": "The man armed with fireworks who rammed his truck into a West Bloomfield, Michigan, synagogue was carrying out \"a Hezbollah-inspired act of terrorism purposely targeting the Jewish community and the largest Jewish temple in Michigan,\" the FBI said Monday.",
+      "video_id": "nMhj6dO7NdM",
+      "link": "https://www.youtube.com/watch?v=nMhj6dO7NdM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/nMhj6dO7NdM",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-03-30T23:30:59+00:00",
+      "image": "https://img.youtube.com/vi/nMhj6dO7NdM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Could the U.S. use ground troops in Iran?",
+      "summary": "There is growing speculation the Trump administration could use ground troops in the war with Iran, as the president threatens he could seize Iran\u2019s Kharg Island that exports 90% of the country\u2019s oil.\n\nABC News' Patrick Reevell explores how realistic it is that such an operation could happen and its chances of success.\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC",
+      "video_id": "3ErB20WRImw",
+      "link": "https://www.youtube.com/watch?v=3ErB20WRImw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/3ErB20WRImw",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-03-30T22:13:38+00:00",
+      "image": "https://img.youtube.com/vi/3ErB20WRImw/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "Trump 'would be quite interested' in calling Middle East allies to pay for war, Leavitt says",
@@ -6555,42 +6591,9 @@
       "source": "DW News",
       "published": "2026-03-23T11:52:00+00:00",
       "image": "https://img.youtube.com/vi/ZExJra9G_Ec/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Iran calls Trump\u2019s claim of peace talks \u201cfake news\u201d to manipulate markets  | BBC News",
-      "summary": "Donald Trump\u00a0has announced that his threat to attack Iranian power plants has been put on hold, after what he called \u201cvery productive\u201d talks with Iran about \u201ca complete and total resolution of hostilities\u201d.  \n\nHowever Iran said no such talks had taken place.  The speaker of Iran\u2019s parliament said Trump\u2019s comments were \u201cfake news\u201d and were being used to manipulate the energy markets.  The price of ",
-      "video_id": "GlN1qi6oxgU",
-      "link": "https://www.youtube.com/watch?v=GlN1qi6oxgU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/GlN1qi6oxgU",
-      "source": "BBC News",
-      "published": "2026-03-23T22:53:09+00:00",
-      "image": "https://img.youtube.com/vi/GlN1qi6oxgU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Why has US President Trump postponed his ultimatum on the Strait of Hormuz? | BBC News",
-      "summary": "US President Trump has extended his initial 48-hour ultimatum to Iran to unblock the Strait of Hormuz to five days. The president said Iran has \"one more chance at peace\", following what he called \u201cgood and productive conversations\u201d.  \n\nBut, while Sir Keir Starmer said he was aware the talks had taken place, Iran has denied speaking to the US and has called Trump\u2019s claims of talks \"fake news\".   \n",
-      "video_id": "J-7gjvxf_j8",
-      "link": "https://www.youtube.com/watch?v=J-7gjvxf_j8",
-      "embed_url": "https://www.youtube-nocookie.com/embed/J-7gjvxf_j8",
-      "source": "BBC News",
-      "published": "2026-03-23T22:45:04+00:00",
-      "image": "https://img.youtube.com/vi/J-7gjvxf_j8/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "How the Iran war could raise food prices | Global News Podcast",
-      "summary": "The US-Israel war with Iran continues to create turbulence for the global economy. The head of the International Energy Agency has said the world is facing a worse crisis than the oil shock of the 1970s and the fallout from the Ukraine war combined. \n \nIt's not just a problem of fuel supply \u2014 it's the uncertainty of what will happen to the cargos of ships that can't make the journey through the St",
-      "video_id": "OMsTBoMNeHg",
-      "link": "https://www.youtube.com/watch?v=OMsTBoMNeHg",
-      "embed_url": "https://www.youtube-nocookie.com/embed/OMsTBoMNeHg",
-      "source": "BBC News",
-      "published": "2026-03-23T20:30:05+00:00",
-      "image": "https://img.youtube.com/vi/OMsTBoMNeHg/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-03-30T22:06:26.234488+00:00",
+  "last_updated": "2026-03-30T23:55:30.872501+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
