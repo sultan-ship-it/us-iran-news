@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "OSINT Defender",
+      "author": "@OSINTdefender",
+      "title": "#USA #EU #ME #Ukraine Trump has pressured European allies to join a coalition to secure the Strait of Hormuz, suggesting\u2026",
+      "summary": "#USA #EU #ME #Ukraine Trump has pressured European allies to join a coalition to secure the Strait of Hormuz, suggesting that failure to do so could jeopardize U.S. military support for Ukraine. This tactic aims to leverage European involvement in the Middle East conflict while addressing the ongoing war in Ukraine. Subscribe to @OSINTdefender Chat room",
+      "link": "https://t.me/s/OSINTdefender",
+      "published": "2026-04-01T18:46:38+00:00",
+      "image": null
+    },
+    {
+      "platform": "telegram",
+      "source": "Fars News (EN)",
+      "author": "@FarsNews_EN",
+      "title": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and\u2026",
+      "summary": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and cultural and sports gathering of the people of Bagshahr \"Teft\" was held at the same time as the first show \"Ziba Saware\" of the noble horses of Yazd province on the occasion of the half of Sha'ban and Deha Fajr today along with the flight of kites in the sky of the desert. Photo: Alireza Rajabzadegan @GalleryAksIran",
+      "link": "https://t.me/s/FarsNews_EN",
+      "published": "2026-02-05T15:47:06+00:00",
+      "image": "https://cdn4.telesco.pe/file/svBg7hiDa0tCjOPJxr_bE8l3xDNviv-7vlBejRwreT6Rev6VPe-4qxTKbUSG291rnJCrMqECMvzYi3HDAUa0toiKIWPNwOAqqhAFUX3drtLLIJtcgmMsuq3xBJwGP2u0Bg5pqDJ-uRNKDJKyapWT3jYTpMIqWZiJZJRKGIPNTdcq3v61k8hvgn4Oe8lEs52uM4yOEEBiLVdcKI4stpsAb23xLvwr6wJfsmPo8XKUgOf7o38rtCmU91df6X8HTBkBttjFpIP1aSen-Akhqk3NazGVpk9YwCuqQLBWMKjAbqm2pAvic9DmxhwkfwSEmL6CNMwmaTc5CcLywkv1xKGu5g.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/AutoNewspaperAdmin",
@@ -2979,26 +2999,6 @@
       "link": "https://www.reddit.com/r/AmericanPolitics/comments/1s9mck0/america_first/",
       "published": "2026-04-01T14:35:49+00:00",
       "image": null
-    },
-    {
-      "platform": "reddit",
-      "source": "r/geopolitics",
-      "author": "u/ConspiracyTorrents",
-      "title": "How many times has the EU screwed itself over in the past year?",
-      "summary": "From selling out to the US to admitting green-power failures to aiding the war on Iran, the bloc is wearing out its knee pads at a record pace https://preview.redd.it/i10jv290blsg1.png?width=1706&amp;format=png&amp;auto=webp&amp;s=72d6ac23c64af9caf1ae95fcb6c4ee9dedbdf34a  &#32; submitted by &#32;  /u/ConspiracyTorrents  &#32; to &#32;  u/ConspiracyTorrents   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/u_ConspiracyTorrents/comments/1s9mbih/how_many_times_has_the_eu_screwed_itself_over_in/",
-      "published": "2026-04-01T14:34:44+00:00",
-      "image": "https://preview.redd.it/i10jv290blsg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=50c9e1acfa61825732142bbca09473549a21f736"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/geopolitics",
-      "author": "u/oaf357",
-      "title": "Iran Threatens to Start Attacking Major US Tech Firms on April 1",
-      "summary": "&#32; submitted by &#32;  /u/oaf357  &#32; to &#32;  r/devopsish   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/devopsish/comments/1s9maed/iran_threatens_to_start_attacking_major_us_tech/",
-      "published": "2026-04-01T14:33:30+00:00",
-      "image": "https://external-preview.redd.it/VlFCLB7WGKp6Bv3iTjl96tQ3Qnl4URhJsnBfaCK7BFQ.jpeg?width=640&crop=smart&auto=webp&s=123ef7629584478c4d226911fbc89134c1d9d118"
     }
   ],
   "videos": [
@@ -6603,7 +6603,7 @@
       "image": "https://img.youtube.com/vi/2aiadoBReMU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-02T21:56:44.858750+00:00",
+  "last_updated": "2026-04-02T23:06:12.175007+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
