@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Nightline Full Broadcast \u2014 Friday, April 3, 2026",
+      "summary": "00:00  Intro\n01:19  Dangerous rescue mission underway after US fighter jet shot down over Iran\n04:27  'The Scream Murder': Inside the mind of two teen killers, Part 1\n12:32  'The Scream Murder': Inside the mind of two teen killers, Part 2\n18:11  Outro\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world new",
+      "video_id": "6p9m_7128hM",
+      "link": "https://www.youtube.com/watch?v=6p9m_7128hM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/6p9m_7128hM",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-04T15:00:10+00:00",
+      "image": "https://img.youtube.com/vi/6p9m_7128hM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Military analysis as search for missing crew continues",
+      "summary": "Retired Gen. Douglas Lute, a former national security official, analyzes the downing of U.S. jets by Iran.",
+      "video_id": "HmizwAn50fI",
+      "link": "https://www.youtube.com/watch?v=HmizwAn50fI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/HmizwAn50fI",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-04T14:00:02+00:00",
+      "image": "https://img.youtube.com/vi/HmizwAn50fI/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Energy crisis: Germany's dependency vs. climate debate | Berlin Briefing Podcast",
       "summary": "The energy shock from the Iran war is felt around the world, and in Germany, too. As rising prices for oil and gas hit consumers, the German government is struggling to find a quick response to remedy the impact on voters. Critics say more renewables could have mitigated fossil risk. But can they help short-term? How should Europe's largest economy fuel itself in a world where fossils can become a",
       "video_id": "x1wbLFEfFdI",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-03-28T02:29:36+00:00",
       "image": "https://img.youtube.com/vi/C4aq7ywcf1g/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump postpones his Strait of Hormuz deadline for Iran | DW News",
-      "summary": "US President Donald Trump's Monday deadline for Iran to reopen the Strait of Hormuz has passed \u2014 but instead of launching strikes, Washington is holding off and opening indirect talks with Iran. \n\nAs the US warns Tehran it has ten days to capitulate or face thousands more troops, Iran vows to resist any foreign incursion and hints it could escalate by threatening key global shipping routes. With t",
-      "video_id": "TYPnWg01iHw",
-      "link": "https://www.youtube.com/watch?v=TYPnWg01iHw",
-      "embed_url": "https://www.youtube-nocookie.com/embed/TYPnWg01iHw",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-03-28T05:00:31+00:00",
-      "image": "https://img.youtube.com/vi/TYPnWg01iHw/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Strait of Hormuz: Is it insurance blocking the strait? | DW News",
-      "summary": "Responding to US and Israeli attacks, Iran has effectively blocked the strait\u2014allowing some \u201cnon-hostile\u201d ships through while blocking vessels linked to its enemies. But Iran\u2019s foreign minister says ships aren\u2019t moving mainly for another reason entirely: insurance.   \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https",
-      "video_id": "PymTlC_hfc4",
-      "link": "https://www.youtube.com/watch?v=PymTlC_hfc4",
-      "embed_url": "https://www.youtube-nocookie.com/embed/PymTlC_hfc4",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-03-28T04:00:30+00:00",
-      "image": "https://img.youtube.com/vi/PymTlC_hfc4/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-04T14:06:15.660791+00:00",
+  "last_updated": "2026-04-04T15:49:36.167114+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
