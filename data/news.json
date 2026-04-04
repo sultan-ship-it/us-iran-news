@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Easter restrictions in occupied East Jerusalem spark status quo concerns",
+      "summary": "In occupied East Jerusalem\u2019s Old City, Easter celebrations have been largely subdued, with key ceremonies scaled back or cancelled under strict security measures linked to the ongoing war on Iran. Amid the restrictions, there are growing concerns that Israel is gradually eroding the city\u2019s long-standing status quo governing access to its sacred sites. Rahul Radhakrishnan reports from occupied East",
+      "video_id": "kMyMul2ivxw",
+      "link": "https://www.youtube.com/watch?v=kMyMul2ivxw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/kMyMul2ivxw",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-04-04T20:59:11+00:00",
+      "image": "https://img.youtube.com/vi/kMyMul2ivxw/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "What's the common thread in Israel's wars in Iran and Lebanon? | DW News",
       "summary": "Israel's military has launched a series of strikes in Lebanon. The Israel Defense Forces say they have begun targeting Hezbollah infrastructure sites in Beirut, in a statement posted on Telegram. Lebanon\u2019s state news agency reports that an Israeli drone strike in the south of the country has killed two people. The Lebanese Health Ministry says at least eleven others were injured in overnight air a",
       "video_id": "JASlsbtfO2Y",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-03-28T09:57:42+00:00",
       "image": "https://img.youtube.com/vi/nN8cXPId3Sc/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Is the US at war with Iran because of Israel?",
-      "summary": "A month into the war in Iran, what lessons\u2014if any\u2014have been learned from Iraq? We ask former US ambassador to Iraq, John Negroponte, why the public should trust the case for war today, given the false justifications of 2003\n\nFull episode: https://trt.world/c1rn",
-      "video_id": "1KpVaQzcxCc",
-      "link": "https://www.youtube.com/watch?v=1KpVaQzcxCc",
-      "embed_url": "https://www.youtube-nocookie.com/embed/1KpVaQzcxCc",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-03-28T10:26:12+00:00",
-      "image": "https://img.youtube.com/vi/1KpVaQzcxCc/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-04T21:02:30.939010+00:00",
+  "last_updated": "2026-04-04T21:59:33.151773+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
