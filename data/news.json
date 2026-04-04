@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Search for US pilot after fighter jet shot down in Iran",
+      "summary": "An American military search and rescue operation is under way in Iran where a US fighter pilot is missing after his F-15 was shot down. Two American jets have been downed, while two search-and-rescue helicopters have also come under fire. Craig Boswell reports.",
+      "video_id": "REtLbKKD9kk",
+      "link": "https://www.youtube.com/watch?v=REtLbKKD9kk",
+      "embed_url": "https://www.youtube-nocookie.com/embed/REtLbKKD9kk",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-04-04T10:41:33+00:00",
+      "image": "https://img.youtube.com/vi/REtLbKKD9kk/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Energy shock from Iran war hits India's glass industry",
+      "summary": "The Iran war is hitting energy-dependent countries hard, especially emerging economies. India's centuries-old glassmaking tradition is now under pressure from rising costs and supply disruptions. Rumeysa Codar reports.",
+      "video_id": "oXQ9R_bkQZY",
+      "link": "https://www.youtube.com/watch?v=oXQ9R_bkQZY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/oXQ9R_bkQZY",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-04-04T10:24:23+00:00",
+      "image": "https://img.youtube.com/vi/oXQ9R_bkQZY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "US fighter jets down \u2014 what will the US do now? | DW News",
       "summary": "As Washington races to find a missing crew member after a US fighter jet is shot down over Iran, a former Air Force Special Operations commander reveals the high\u2011risk rescue tactics, the threats lurking behind enemy lines, and what could unfold if Iran captures the American aviator.\n\n#dwnews \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.",
       "video_id": "tI0ZuQiPaQs",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-03-27T22:20:32+00:00",
       "image": "https://img.youtube.com/vi/zp3ndYSKFug/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Top German soldier warns Russia threat is more urgent than ever | BBC News",
-      "summary": "Germany\u2019s most senior soldier has told the BBC that western leaders must \u201cjoin the dots\u201d on the war in Iran and the Russian invasion of Ukraine, because they can no longer be seen \"in separate boxes\".\n \nGeneral Carsten Breuer, the head of the Armed Forces also warned that the threat from Russia had never been more urgent.\n \nThe General is overseeing a rapid expansion of Germany military might, whi",
-      "video_id": "jhETzh0LRqA",
-      "link": "https://www.youtube.com/watch?v=jhETzh0LRqA",
-      "embed_url": "https://www.youtube-nocookie.com/embed/jhETzh0LRqA",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-03-27T22:15:01+00:00",
-      "image": "https://img.youtube.com/vi/jhETzh0LRqA/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "How the Iran war is impacting Israeli citizens | DW News",
-      "summary": "Iran has fired hundreds of missiles at Israel since the war began, killing 18 civilians there. The Iron Dome air defense system has managed to destroy most of them before reaching their targets. And that ability to fend off missiles has helped keep support for the war high among the majority of Israelis. But as DW's Tania Kr\u00e4mer reports, with the war in its fourth week, some Israelis are no longer",
-      "video_id": "0ntz5dSQVnU",
-      "link": "https://www.youtube.com/watch?v=0ntz5dSQVnU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/0ntz5dSQVnU",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-03-27T21:00:01+00:00",
-      "image": "https://img.youtube.com/vi/0ntz5dSQVnU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-04T09:58:08.991572+00:00",
+  "last_updated": "2026-04-04T11:05:51.054540+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
