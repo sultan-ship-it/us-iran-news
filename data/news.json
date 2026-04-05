@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "Military Maps",
+      "author": "@MilitaryMaps",
+      "title": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c \u26a0\ufe0f \u0418\u0440\u0430\u043d\u0441\u043a\u0430\u044f \u0440\u0430\u043a\u0435\u0442\u0430 \u043f\u043e\u0440\u0430\u0437\u0438\u043b\u0430 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0443\u044e \u0437\u043e\u043d\u0443 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u0432\u043e\u0434\u0430 \"Adama Agricultural Solutions\" \u0432 \u041d\u0435\u043e\u0442-\u0425\u043e\u0432\u0430\u0432\u0435 \u044e\u0436\u2026",
+      "summary": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c \u26a0\ufe0f \u0418\u0440\u0430\u043d\u0441\u043a\u0430\u044f \u0440\u0430\u043a\u0435\u0442\u0430 \u043f\u043e\u0440\u0430\u0437\u0438\u043b\u0430 \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0443\u044e \u0437\u043e\u043d\u0443 \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0437\u0430\u0432\u043e\u0434\u0430 \"Adama Agricultural Solutions\" \u0432 \u041d\u0435\u043e\u0442-\u0425\u043e\u0432\u0430\u0432\u0435 \u044e\u0436\u043d\u0435\u0435 \u0411\u0435\u044d\u0440-\u0428\u0435\u0432\u0430 (\u0412\u0418\u0414\u0415\u041e) https://t.me/voiceofiran_ru/16976 \u0433\u0435\u043e\u043b\u043e\u043a\u0430\u0446\u0438\u044f \u2708\ufe0f @militarymaps .info \ud83d\udccc militaryMaps.info/mark/id792193 \ud83c\udf10 https://militaryMaps.info?lat=31.1376795&lng=34.7849904&z=12&t=3 \ud83d\udc4b MAX \u21e2 max.ru/militarymaps",
+      "link": "https://t.me/s/MilitaryMaps",
+      "published": "2026-04-05T11:26:52+00:00",
+      "image": null
+    },
+    {
+      "platform": "telegram",
+      "source": "War Translated",
+      "author": "@wartranslated",
+      "title": "Zelensky says Ukraine can help with the Strait of Hormuz but no request has come yet. \"We already pushed Russia's Black\u2026",
+      "summary": "Zelensky says Ukraine can help with the Strait of Hormuz but no request has come yet. \"We already pushed Russia's Black Sea Fleet back, destroyed part of it, and ran civilian convoys with maritime drones,\" he added.",
+      "link": "https://t.me/s/wartranslated",
+      "published": "2026-04-05T10:16:43+00:00",
+      "image": null
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/permanentE",
@@ -2979,29 +2999,21 @@
       "link": "https://www.reddit.com/r/SnapshotHistory/comments/1sb7gwc/a_kurd_wearing_a_black_and_white_keffiyeh_islamic/",
       "published": "2026-04-03T08:05:39+00:00",
       "image": "https://preview.redd.it/0ujr3szdnxsg1.png?width=640&crop=smart&auto=webp&s=a0c7a7ab430da278dd609eaedadcbc43cc3536aa"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/AutoNewsAdmin",
-      "title": "[World] - Bridge for bridge: Iran lists 7 Gulf targets after Karaj strike",
-      "summary": "&#32; submitted by &#32;  /u/AutoNewsAdmin  &#32; to &#32;  r/TIMESINDIAauto   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/TIMESINDIAauto/comments/1sb7gt7/world_bridge_for_bridge_iran_lists_7_gulf_targets/",
-      "published": "2026-04-03T08:05:30+00:00",
-      "image": "https://external-preview.redd.it/Pner_NcQQBJ5XAo9EyYmkP6TqzmmTjiebSYkLjx_boY.png?width=640&crop=smart&auto=webp&s=4d77834279c02f9bb30618e33680e6b3cf99c4a4"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/brunohdf",
-      "title": "En pleine guerre contre l'Iran, le chef d\u2019\u00e9tat-major de l\u2019arm\u00e9e de terre am\u00e9ricaine Randy George forc\u00e9 \u00e0 la d\u00e9mission. Bizarre pourtant Trump disait \u00eatre content des objectifs atteints ?",
-      "summary": "&#32; submitted by &#32;  /u/brunohdf  &#32; to &#32;  r/YahooQR   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/YahooQR/comments/1sb7fxv/en_pleine_guerre_contre_liran_le_chef_d\u00e9tatmajor/",
-      "published": "2026-04-03T08:03:58+00:00",
-      "image": "https://external-preview.redd.it/9o6iN2OjbLa9aW4GsMIvKQPXPRjMciI0YaS40lwe_Lk.jpeg?width=640&crop=smart&auto=webp&s=5000c224b01842661a604b132d153758b106a857"
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "Iran\u2019s Minister of Sport and Youth at the 8th Ethnosport Forum",
+      "summary": "\u201cThis double standard has angered people worldwide and the international sporting community\u201d\n\nIran\u2019s Sports and Youth Minister expressed concern over the country\u2019s participation in the World Cup due to recent Israeli and US attacks, questioning the host\u2019s ability to ensure team safety and criticising perceived double standards by FIFA and the international community. He also thanked T\u00fcrkiye for th",
+      "video_id": "CsS5JlzQhdg",
+      "link": "https://www.youtube.com/watch?v=CsS5JlzQhdg",
+      "embed_url": "https://www.youtube-nocookie.com/embed/CsS5JlzQhdg",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-04-05T11:29:08+00:00",
+      "image": "https://img.youtube.com/vi/CsS5JlzQhdg/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "US jet pilot rescued in Iran: High-stakes mission & Iran war impact explained | DW News",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-03-28T15:41:37+00:00",
       "image": "https://img.youtube.com/vi/Goge29fbD0g/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Nightline Full Broadcast \u2014 Friday, March 27, 2026",
-      "summary": "00:00  Intro\n01:06  Tiger Woods arrested for DUI\n05:27  12 U.S. service members injured in Iranian attack on base in Saudi Arabia\n07:05  New docuseries tells story of pregnancy and alleged deceit\n14:28  Bob Iger & The Disney Legends\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interv",
-      "video_id": "_5Zkorj3JV8",
-      "link": "https://www.youtube.com/watch?v=_5Zkorj3JV8",
-      "embed_url": "https://www.youtube-nocookie.com/embed/_5Zkorj3JV8",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-03-28T15:00:29+00:00",
-      "image": "https://img.youtube.com/vi/_5Zkorj3JV8/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-05T10:03:53.018769+00:00",
+  "last_updated": "2026-04-05T11:46:56.622661+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
