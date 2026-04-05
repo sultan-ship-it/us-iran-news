@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Trump says 'we're blowing up the whole country' if no Iran deal is reached in 48 hours",
+      "summary": "President Trump said Sunday that if no peace deal is reached with Iran in the next 48 hours, \"we're blowing up the entire country.\" ABC News' Selina Wang reports from the White House.",
+      "video_id": "G8A2BWrvf4s",
+      "link": "https://www.youtube.com/watch?v=G8A2BWrvf4s",
+      "embed_url": "https://www.youtube-nocookie.com/embed/G8A2BWrvf4s",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-05T22:26:10+00:00",
+      "image": "https://img.youtube.com/vi/G8A2BWrvf4s/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump\u2019s foul-mouthed tirade warning Iran of coming deadline | BBC News",
+      "summary": "US President Donald Trump has issued an expletive filled threat against Iran if the Strait of Hormuz is not re-opened to shipping.  \n\nHe is threatening to destroy Iran\u2019s infrastructure, including power stations and bridges, acts that human rights organisations are warning would amount to war crimes.  Trump reiterated his previous threat to unleash \u201chell\u201d on Iran if it did not meet his deadline. \n\n",
+      "video_id": "7NdSnwDkPYs",
+      "link": "https://www.youtube.com/watch?v=7NdSnwDkPYs",
+      "embed_url": "https://www.youtube-nocookie.com/embed/7NdSnwDkPYs",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-04-05T21:55:22+00:00",
+      "image": "https://img.youtube.com/vi/7NdSnwDkPYs/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "24 hours behind enemy lines: How downed US airman was rescued inside Iran | DW News",
       "summary": "US forces have rescued a second service member who had been missing since Iran downed an F\u201115 fighter jet on Friday. The airman\u2019s extraction followed a major mission, which US President Donald Trump described as \"one of the most daring search\u2011and\u2011rescue operations in US history.\" Trump said the weapons systems officer was injured but in stable condition.\n\n#iranwar #us #pilot #dwnews \n\n00:00 US for",
       "video_id": "BhFlKr-JaQE",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-03-29T10:30:18+00:00",
       "image": "https://img.youtube.com/vi/oM0PNA47UhI/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters | BBC News",
-      "summary": "Three Lebanese journalists were killed in a targeted Israeli strike in southern Lebanon on Saturday, their employers have said.\n \nAli Shoeib, a reporter for the Hezbollah-affiliated Al Manar TV, was killed in the town of Jezzine alongside reporter Fatima Ftouni and her brother, cameraman Mohamed Ftouni, both from the channel Al Mayadeen, according to the stations.\n \nThe strike reportedly hit the j",
-      "video_id": "-nJg9MWM0IU",
-      "link": "https://www.youtube.com/watch?v=-nJg9MWM0IU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/-nJg9MWM0IU",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-03-29T10:00:00+00:00",
-      "image": "https://img.youtube.com/vi/-nJg9MWM0IU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "The Middle East situation is increasingly complex | To the Point",
-      "summary": "Trump signals a willingness to negotiate while simultaneously issuing Iran another ultimatum. He is deploying additional special forces to the region. However, the regime has no intention of backing down and is threatening retaliation. Will the war escalate further?\n\nYou can watch the entire episode here: https://youtu.be/wB3zA_h6ELk\n\n#dwcurrentaffairs \n\nFor more news go to: http://www.dw.com/en/\n",
-      "video_id": "-DlAxY1Y4sI",
-      "link": "https://www.youtube.com/watch?v=-DlAxY1Y4sI",
-      "embed_url": "https://www.youtube-nocookie.com/embed/-DlAxY1Y4sI",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-03-29T09:00:00+00:00",
-      "image": "https://img.youtube.com/vi/-DlAxY1Y4sI/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-05T22:00:54.112900+00:00",
+  "last_updated": "2026-04-05T23:51:48.802271+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
