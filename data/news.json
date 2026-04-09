@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "War Translated",
+      "author": "@wartranslated",
+      "title": "U.S. President Donald Trump has agreed to suspend the bombing of Iran for two ages. In turn, Iran's Ambassador to Pakist\u2026",
+      "summary": "U.S. President Donald Trump has agreed to suspend the bombing of Iran for two ages. In turn, Iran's Ambassador to Pakistan, Reza Amiri Moghaddam, stated that \"the parties have moved away from the critical phase\" and a peace agreement could be concluded in the near future.",
+      "link": "https://t.me/s/wartranslated",
+      "published": "2026-04-08T08:38:47+00:00",
+      "image": "https://cdn4.telesco.pe/file/ochUTPfphBMkoYswYrmMH8KnlLPmau-TVhLq6pVCwm8YSU4gnu5z9tX38i89jQkB90-YT2pOFdvKYwo9UmHt1gAXd9GL9NPjFNEPCj-2BisIhkeU6u_gGTVsqBUlMIgeTHOxaywahERYTT-juiT2Z_lIHqn2oYVK0pT_vq371haORBd8WfsNv36aQU1fWTajW0ANGIcCLyGyoB4HXiVmaH3jPTOpJuHPukHt-ooxHq9mjZgwZk2vflm1Sp1L0jB-wfTP36kZwrsPSGCHhrIj_FLcaIeToXT2wG72QLv8fRXP5yVeC0EF0UXI4N5hiN_mSgCrwGCgIXO121iEStz1lA.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/lithdoc",
@@ -2989,19 +2999,117 @@
       "link": "https://www.reddit.com/r/LiveFromNewYork/comments/1sdd0go/weekend_update_trump_criticisms_the_iran_war_and/",
       "published": "2026-04-05T19:42:58+00:00",
       "image": "https://external-preview.redd.it/06Gi7aW8rDrq6AAGA010o3efm1PTO1h5rW4Kuz7DlCc.jpeg?width=320&crop=smart&auto=webp&s=1564f5135237f56ae4d083a292e9fd894a8ea095"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/conspiracy",
-      "author": "u/BusinessToday",
-      "title": "Iran has stepped up its public messaging against the United States, rejecting fresh warnings from Donald Trump and using official channels to mock Washington as the conflict stretches into weeks without a decisive outcome.",
-      "summary": "&#32; submitted by &#32;  /u/BusinessToday  &#32; to &#32;  r/BusinessTodayNews   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/BusinessTodayNews/comments/1sdczbc/iran_has_stepped_up_its_public_messaging_against/",
-      "published": "2026-04-05T19:41:42+00:00",
-      "image": "https://preview.redd.it/k9j1vk9edftg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=2fd7fa3fa83ac50484e12baed723036a6d404291"
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "India resumes energy trade with Iran | DW News",
+      "summary": "India has welcomed the two-week ceasefire in the Iran war and called for the \"unimpeded\" flow of trade through the Strait of Hormuz. The country was hit particularly hard by Iran's blockade - about 50 percent of India's crude oil and most of its liquified gas passes through the waterway, and its closure sent Delhi scrambling to expand its energy base. \n\n00:00 India resumes energy trade with Iran\n0",
+      "video_id": "2IkSYMDMHcg",
+      "link": "https://www.youtube.com/watch?v=2IkSYMDMHcg",
+      "embed_url": "https://www.youtube-nocookie.com/embed/2IkSYMDMHcg",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-09T02:59:24+00:00",
+      "image": "https://img.youtube.com/vi/2IkSYMDMHcg/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Iran war: Israel says ceasefire is 'not end of campaign' | DW News",
+      "summary": "It only took a few hours, but the long-awaited ceasefire in Iran is already on shaky ground. Last night, the United States, Israel and Iran agreed to a two-week halt in the fighting - less than 90 minutes before Donald Trump's 8pm deadline to reopen the Strait of Hormuz. All sides hailed the agreement as a victory, but it appears to be unravelling. Iran has now reportedly closed the vital shipping",
+      "video_id": "8Rrm6ij2FE8",
+      "link": "https://www.youtube.com/watch?v=8Rrm6ij2FE8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/8Rrm6ij2FE8",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-09T01:33:26+00:00",
+      "image": "https://img.youtube.com/vi/8Rrm6ij2FE8/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Israel bombards Beirut after Iran ceasefire | DW News",
+      "summary": "Israel carried out a massive wave of strikes across Lebanon on Wednesday, killing more than 100 people, according to Lebanese health officials. Israel said it was targeting Hezbollah militants, and denied Lebanon was included in the two week US-Iran ceasefire agreed late on Tuesday.\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews",
+      "video_id": "QYwsGviB-5s",
+      "link": "https://www.youtube.com/watch?v=QYwsGviB-5s",
+      "embed_url": "https://www.youtube-nocookie.com/embed/QYwsGviB-5s",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-09T00:37:32+00:00",
+      "image": "https://img.youtube.com/vi/QYwsGviB-5s/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Is the Iran truce already unraveling? | DW News",
+      "summary": "Confusion reigns over the status of the ceasefire between the US and Iran. Contradictions and mixed messaging have sparked questions and concern over the viability of the truce. The Iranians and mediator Pakistan have been clear - Lebanon is part of the agreement. The US and Israel disagree.\n\nGuest:\nNatasha Hall, Associate Fellow with the Middle East and North Africa Programme at Chatham House in ",
+      "video_id": "BwMVNEmkr0s",
+      "link": "https://www.youtube.com/watch?v=BwMVNEmkr0s",
+      "embed_url": "https://www.youtube-nocookie.com/embed/BwMVNEmkr0s",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-09T00:23:57+00:00",
+      "image": "https://img.youtube.com/vi/BwMVNEmkr0s/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Nightline special edition: War with Iran Day 40",
+      "summary": "President Trump told ABC News' Jon Karl on Wednesday morning that the U.S. may seek a \"joint venture\" with Iran to safeguard the Strait of Hormuz, following his Tuesday announcement of a two-week ceasefire.\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming cover",
+      "video_id": "hQ6eDUzC3oQ",
+      "link": "https://www.youtube.com/watch?v=hQ6eDUzC3oQ",
+      "embed_url": "https://www.youtube-nocookie.com/embed/hQ6eDUzC3oQ",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-09T05:35:51+00:00",
+      "image": "https://img.youtube.com/vi/hQ6eDUzC3oQ/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "ABC News Live Prime: Wed, Apr 8, 2026",
+      "summary": "Fragile ceasefire between U.S. and Iran put to test; Israel strikes pummel Lebanon; suspect in Gilgo Beach murders pleads guilty; Mark Ballas discusses new role in \"Chicago\" on Broadway.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload t",
+      "video_id": "6sCWZcPGs7g",
+      "link": "https://www.youtube.com/watch?v=6sCWZcPGs7g",
+      "embed_url": "https://www.youtube-nocookie.com/embed/6sCWZcPGs7g",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-09T05:23:25+00:00",
+      "image": "https://img.youtube.com/vi/6sCWZcPGs7g/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "War With Iran Full Episode: Wed, Apr 8, 2026",
+      "summary": "Oil tankers halted in Hormuz after Israeli strikes on Lebanon, Israeli attacks kill 254 across Lebanon Wednesday, Lebanese Civil Defense says, Pakistan's prime minister urging 'restraint' amid reports of ceasefire 'violations'\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 2",
+      "video_id": "vKoVIq7S2Gk",
+      "link": "https://www.youtube.com/watch?v=vKoVIq7S2Gk",
+      "embed_url": "https://www.youtube-nocookie.com/embed/vKoVIq7S2Gk",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-09T05:17:56+00:00",
+      "image": "https://img.youtube.com/vi/vKoVIq7S2Gk/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Former Iran prisoner reacts to ceasefire deal: 'This is a very serious situation'",
+      "summary": "ABC News' Linsey Davis spoke with Washington Post journalist Jason Rezaian, once imprisoned in Iran for 544 days, about the current situation inside Iran and the prospects for peace.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the A",
+      "video_id": "HDMA4OgSwPY",
+      "link": "https://www.youtube.com/watch?v=HDMA4OgSwPY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/HDMA4OgSwPY",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-09T05:02:32+00:00",
+      "image": "https://img.youtube.com/vi/HDMA4OgSwPY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Iranians share hopes, continued fears amid fragile ceasefire",
+      "summary": "ABC News' Britt Clennett reports on the ceasefire between the U.S. and Iran as people on the ground send voice messages, revealing their worries about the future as they mourn the lives lost.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownl",
+      "video_id": "-zcndn9A_XQ",
+      "link": "https://www.youtube.com/watch?v=-zcndn9A_XQ",
+      "embed_url": "https://www.youtube-nocookie.com/embed/-zcndn9A_XQ",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-09T05:02:23+00:00",
+      "image": "https://img.youtube.com/vi/-zcndn9A_XQ/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "Pakistan\u2019s secret diplomatic weapon | DW News",
@@ -6493,117 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-01T19:38:50+00:00",
       "image": "https://img.youtube.com/vi/-x5xfsXrb-4/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Will Trump Really Leave Nato? | BBC Newscast",
-      "summary": "Today, the UK Prime Minister has given a press conference warning that things are not going to be easy as the US-Israeli war in Iran continues to put pressure on the cost of living.\n\nHis address to press in Downing Street came hours after the President gave an interview to the Telegraph, saying he\u2019s considering pulling out of Nato.\n\nAdam assembles Henry Zeffman, chief political correspondent, Lyse",
-      "video_id": "jlPP5JOQRXs",
-      "link": "https://www.youtube.com/watch?v=jlPP5JOQRXs",
-      "embed_url": "https://www.youtube-nocookie.com/embed/jlPP5JOQRXs",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-01T18:31:01+00:00",
-      "image": "https://img.youtube.com/vi/jlPP5JOQRXs/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Grappling with the Iran war energy crisis | Global News Podcast",
-      "summary": "As the US-Israel war with Iran continues to disrupt the price and supply of fuel, governments around the world are introducing measures to control demand and relieve cost pressures. \n\nSeveral Asian countries - which get the majority of their oil and gas shipped from the Gulf through the Strait of Hormuz - have introduced four-day work weeks or work-from-home rules to save gasoline. The Philippines",
-      "video_id": "p_-BAr-G4sQ",
-      "link": "https://www.youtube.com/watch?v=p_-BAr-G4sQ",
-      "embed_url": "https://www.youtube-nocookie.com/embed/p_-BAr-G4sQ",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-01T18:00:29+00:00",
-      "image": "https://img.youtube.com/vi/p_-BAr-G4sQ/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Iran retaliates against Gulf due to continued US-Israeli strikes. #Iran #US #Israel #BBCNews",
-      "summary": "",
-      "video_id": "Bq-sJpH3fFw",
-      "link": "https://www.youtube.com/watch?v=Bq-sJpH3fFw",
-      "embed_url": "https://www.youtube-nocookie.com/embed/Bq-sJpH3fFw",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-01T17:45:01+00:00",
-      "image": "https://img.youtube.com/vi/Bq-sJpH3fFw/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "How much have fuel prices gone up due to the Iran war? | BBC News",
-      "summary": "The BBC Your Voice team have been answering your questions on how the cost of living in the UK might be affected by the US-Israel war with Iran.\n \nIt comes after the global benchmark Brent crude oil price briefly hit $119 (\u00a390) per barrel on Tuesday, close to its highest since the start of the US-Israel war with Iran.\n \nIn response to the US-Israel air strikes which began on 28 February, Iran has ",
-      "video_id": "HhU2n5-tzo8",
-      "link": "https://www.youtube.com/watch?v=HhU2n5-tzo8",
-      "embed_url": "https://www.youtube-nocookie.com/embed/HhU2n5-tzo8",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-01T17:30:04+00:00",
-      "image": "https://img.youtube.com/vi/HhU2n5-tzo8/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Iranian Red Crescent worker finds ultrasound of pregnant doctor killed in US-Israeli strikes",
-      "summary": "An Iranian Red Crescent aid worker searching through the rubble in the aftermath of US-Israeli strikes discovered the ultrasound scan belonging to a pregnant doctor who was killed in the attack.\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.world/ytlive\nFacebook: http://trt.world/facebook\nX (Twitter): http://trt.world/twitter\nInstagram: http://trt.world/instagram\nTikTok: http://tik",
-      "video_id": "5pK4XgSyzt8",
-      "link": "https://www.youtube.com/watch?v=5pK4XgSyzt8",
-      "embed_url": "https://www.youtube-nocookie.com/embed/5pK4XgSyzt8",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-01T15:44:53+00:00",
-      "image": "https://img.youtube.com/vi/5pK4XgSyzt8/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "From its Nazi past to its ties to the Israeli military: VW faces backlash",
-      "summary": "From its Nazi origins to today, Volkswagen\u2019s ties to genocide are under renewed scrutiny as the German automobile company\u2019s reported plans to work with an Israeli weapons manufacturer are raising serious moral, ethical and legal questions.\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.world/ytlive\nFacebook: http://trt.world/facebook\nX (Twitter): http://trt.world/twitter\nInstagram: ",
-      "video_id": "5CcYO-xybOg",
-      "link": "https://www.youtube.com/watch?v=5CcYO-xybOg",
-      "embed_url": "https://www.youtube-nocookie.com/embed/5CcYO-xybOg",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-01T15:35:09+00:00",
-      "image": "https://img.youtube.com/vi/5CcYO-xybOg/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "UK: The offensive defence?",
-      "summary": "The UK government says allowing the US to use British bases is for \u201cdefensive\u201d operations.   But if those bases are being used by the US to launch airstrikes inside Iran - where\u2019s the line between defensive and offensive? We ask a former UK minister. \n\nClick the title to watch the full episode. \n\n\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.world/ytlive\nFacebook: http://trt.world",
-      "video_id": "7BFvts0fsbw",
-      "link": "https://www.youtube.com/watch?v=7BFvts0fsbw",
-      "embed_url": "https://www.youtube-nocookie.com/embed/7BFvts0fsbw",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-01T14:53:49+00:00",
-      "image": "https://img.youtube.com/vi/7BFvts0fsbw/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "JD Vance, Trump and the Iran war problem | The Global Story",
-      "summary": "When US President Donald Trump was re-elected on a \u2018no more wars\u2019 promise, JD Vance was his staunchest ally, criticising previous US foreign interventions, most notably in Iraq, as well as the US\u2019 recent financial support for Ukraine.  \n\nAnd yet, the vice-president, who has substantial MAGA support and is expected to run for the 2028 presidency, now finds himself among Trump\u2019s team negotiating an ",
-      "video_id": "sIvNvsE6LUU",
-      "link": "https://www.youtube.com/watch?v=sIvNvsE6LUU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/sIvNvsE6LUU",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-01T15:25:16+00:00",
-      "image": "https://img.youtube.com/vi/sIvNvsE6LUU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Moment Israeli strike hits Beirut building | DW News",
-      "summary": "Heavy Israeli attacks on Beirut\u2019s Jnah neighborhood have killed at least five people and wounded 21, according to Lebanon\u2019s health ministry. Israeli war planes have also struck a high-rise building as the UN raises concerns over civilian safety.\n\n#lebanon #israel #hezbollah #dwnews \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews",
-      "video_id": "4M8ffR5XlJ8",
-      "link": "https://www.youtube.com/watch?v=4M8ffR5XlJ8",
-      "embed_url": "https://www.youtube-nocookie.com/embed/4M8ffR5XlJ8",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-01T13:04:00+00:00",
-      "image": "https://img.youtube.com/vi/4M8ffR5XlJ8/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-08T23:52:56.728636+00:00",
+  "last_updated": "2026-04-09T06:06:12.319398+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
