@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "US and Iran hold peace talks in highest level meeting since 1979 Islamic revolution | BBC News",
+      "summary": "The US Vice-President JD Vance has been holding face to face talks with senior Iranian leaders in Islamabad.  It\u2019s the highest level direct talks between the two countries since Iran\u2019s Islamic revolution in. 1979.\n\nThere were three rounds of talks mediated by Pakistan in Islamabad, with the hope of agreeing a permanent end to the fighting in the Middle East that began with US and Israel attacking ",
+      "video_id": "LOpCw6Acv8E",
+      "link": "https://www.youtube.com/watch?v=LOpCw6Acv8E",
+      "embed_url": "https://www.youtube-nocookie.com/embed/LOpCw6Acv8E",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-04-11T22:23:56+00:00",
+      "image": "https://img.youtube.com/vi/LOpCw6Acv8E/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Islamabad talks: US\u2011Iran diplomacy faces long odds | DW News",
       "summary": "Peace talks between the United States and Iran are underway in Pakistan. According to Iranian state TV, two rounds of talks have taken place, with a third expected tonight or Sunday. \n\nThe White House has confirmed that the two sides, along with their Pakistani hosts, are meeting face-to-face in Islamabad. They aim to convert a two-week ceasefire into a more durable peace agreement. \n\nThis comes a",
       "video_id": "0TqNv6L-pR8",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-03T18:10:25+00:00",
       "image": "https://img.youtube.com/vi/f_SykPvyKwk/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "How worried are Gulf states about Iran focussing on attacking key critical infrastructure? |\u00a0DW News",
-      "summary": "There has been a defiant response from Iran to the US strikes hitting a desalination plan and refinery in Kuwait, and vowing that strikes will continue against US and Israeli water and energy assets in the region. Tehran says countries hosting US bases should make them leave.\n\n00:00 Iran responds to US strikes\n00:25 Kamran Matin, Iran expert, University of Sussex\n\nFor more news go to: http://www.d",
-      "video_id": "-iTdCuuAVEE",
-      "link": "https://www.youtube.com/watch?v=-iTdCuuAVEE",
-      "embed_url": "https://www.youtube-nocookie.com/embed/-iTdCuuAVEE",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-03T17:00:00+00:00",
-      "image": "https://img.youtube.com/vi/-iTdCuuAVEE/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-11T22:02:17.149938+00:00",
+  "last_updated": "2026-04-11T23:54:18.258484+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
