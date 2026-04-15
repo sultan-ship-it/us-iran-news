@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "War Translated",
+      "author": "@wartranslated",
+      "title": "The FT reports that Iran secretly purchased a Chinese satellite to monitor U.S. military bases in the Middle East. Accor\u2026",
+      "summary": "The FT reports that Iran secretly purchased a Chinese satellite to monitor U.S. military bases in the Middle East. According to documents released by the publication, the IRGC acquired the satellite in 2024 and received images directly as strikes were occurring. The Corps paid approximately 250 million yuan to gain control of the satellite system.",
+      "link": "https://t.me/s/wartranslated",
+      "published": "2026-04-15T12:15:28+00:00",
+      "image": "https://cdn4.telesco.pe/file/Mw9njDqkuSbcrG7qO7mF3aqWjTElawiNQbnp1yOIruunyRtLTDmxgVpozFXikFUnA9ah4OTGZveiHZlZaWTingQVVLi1Q0naN-r83FInIucrkJF_RPB3wbBnHjmzwACUzxX3LCcUjQZT5azH68hdcz7R7szHkcfqna_HYQ48XY6Ut2js9u_f-QaFijYA24ui__vzHyJ-dy3FpSS5hzajdsTIVI6CKcBZpMDgQKeeFTG0ISBUv3bkNJxbGlolM7iSwe3x6OMXaIapwIaqo_ZzofTGcRc1jPRQqp9lxnpkIpX90h5Y4rbinWD82I6co18bYSLSnd5Es2f1_2xLPt4L7Q.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/WillyNilly1997",
@@ -2989,19 +2999,57 @@
       "link": "https://www.reddit.com/r/NoFilterNews/comments/1sjuf9k/rworldnews/",
       "published": "2026-04-12T23:41:42+00:00",
       "image": null
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/Faction_Chief",
-      "title": "/r/worldnews - https://www.politico.com/news/2026/04/12/gianni-infantino-fifa-world-cup-shuttle-diplomacy-iran-00866973",
-      "summary": "/r/worldnews https://www.politico.com/news/2026/04/12/gianni-infantino-fifa-world-cup-shuttle-diplomacy-iran-00866973  &#32; submitted by &#32;  /u/Faction_Chief  &#32; to &#32;  r/NoFilterNews   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/NoFilterNews/comments/1sjuf8u/rworldnews/",
-      "published": "2026-04-12T23:41:41+00:00",
-      "image": null
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "Why Spain is opposing Israel and the US over Gaza and Iran | Explained",
+      "summary": "Spain has recognised Palestine, restricted ties with Israel and blocked US flights linked to Iran, setting it apart from its Western allies. Why is Spain taking this position?\n\nThe answer lies in its history: from the Spanish Civil War and Franco\u2019s dictatorship to the 2004 Madrid train bombings that reshaped its foreign policy and public opinion on war.\n\n\nSubscribe: http://trt.world/subscribe\nLive",
+      "video_id": "edEgTWZQW3c",
+      "link": "https://www.youtube.com/watch?v=edEgTWZQW3c",
+      "embed_url": "https://www.youtube-nocookie.com/embed/edEgTWZQW3c",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-04-15T14:24:19+00:00",
+      "image": "https://img.youtube.com/vi/edEgTWZQW3c/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump signals new peace talks with Iran",
+      "summary": "President Donald Trump is expressing optimism that the war could be close to over as concerns grow about its economic impact.\n\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and",
+      "video_id": "K34Q8anOFZI",
+      "link": "https://www.youtube.com/watch?v=K34Q8anOFZI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/K34Q8anOFZI",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-15T12:11:35+00:00",
+      "image": "https://img.youtube.com/vi/K34Q8anOFZI/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Millions of Americans in Path of Severe Weather \u2013 What You Need to Know \u2013 April 15, 2026",
+      "summary": "Severe storms hit the Midwest \u2013 including reported tornadoes; President Trump signals for more peace talks to come and says the war in Iran could end soon; Trump posting overnight criticizing Pope Leo; the growing fallout for former Congressman Eric Swalwell as a new accuser speaks out; surveillance video  shows a principal taking on a gunman in an Oklahoma school and why the Royal Ballet and Oper",
+      "video_id": "1W3JRU1Lwd4",
+      "link": "https://www.youtube.com/watch?v=1W3JRU1Lwd4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/1W3JRU1Lwd4",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-15T11:05:36+00:00",
+      "image": "https://img.youtube.com/vi/1W3JRU1Lwd4/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Paramedics in Lebanon speak to BBC after Israeli strikes | BBC News",
+      "summary": "In Lebanon, one in five people have been forced to leave their homes since fighting renewed in March.\n \nThe BBC's Middle East correspondent Hugo Bachega joined paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.\n \nIsrael say some ambulances and health facilities in Lebanon are being used by Hezbollah - but paramedics say there is no evidence of this claim.\n \nElsewh",
+      "video_id": "dfPUQGdCgyU",
+      "link": "https://www.youtube.com/watch?v=dfPUQGdCgyU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/dfPUQGdCgyU",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-04-15T11:45:17+00:00",
+      "image": "https://img.youtube.com/vi/dfPUQGdCgyU/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "Trump as Jesus: Joke or blasphemy? | DW News",
@@ -6553,57 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-06T12:38:56+00:00",
       "image": "https://img.youtube.com/vi/zLn61W3jPcI/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Jet fuel prices surge as US-Israeli war on Iran continues",
-      "summary": "The US-Israeli war on Iran is hitting the aviation industry hard. It\u2019s resulted in a global jet fuel shortage that\u2019s driving up prices, routes being cut, and flights being cancelled.\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.world/ytlive\nFacebook: http://trt.world/facebook\nX (Twitter): http://trt.world/twitter\nInstagram: http://trt.world/instagram\nTikTok: http://tiktok.com/@trt",
-      "video_id": "-39MwN4hFOg",
-      "link": "https://www.youtube.com/watch?v=-39MwN4hFOg",
-      "embed_url": "https://www.youtube-nocookie.com/embed/-39MwN4hFOg",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-06T11:39:49+00:00",
-      "image": "https://img.youtube.com/vi/-39MwN4hFOg/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump threatens Iran with Tuesday deadline to open Strait of Hormuz",
-      "summary": "President Donald Trump is threatening to target Iran\u2019s power plants and bridges unless the regime opens the Strait of Hormuz by Tuesday night.\n\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the lat",
-      "video_id": "PHMn4sGKHfE",
-      "link": "https://www.youtube.com/watch?v=PHMn4sGKHfE",
-      "embed_url": "https://www.youtube-nocookie.com/embed/PHMn4sGKHfE",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-06T13:54:46+00:00",
-      "image": "https://img.youtube.com/vi/PHMn4sGKHfE/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Inside high-stakes rescue of US airman",
-      "summary": "Hundreds of elite special operation forces saturated southwest Iran from the air, where the F-15E Strike Eagle had been shot down Friday, to rescue the Air Force colonel trapped behind enemy lines.\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming covera",
-      "video_id": "KMWBc6PvC34",
-      "link": "https://www.youtube.com/watch?v=KMWBc6PvC34",
-      "embed_url": "https://www.youtube-nocookie.com/embed/KMWBc6PvC34",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-06T12:16:05+00:00",
-      "image": "https://img.youtube.com/vi/KMWBc6PvC34/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Daring Rescue Inside Iran \u2013 What You Need to Know \u2013 Monday, April 6, 2026",
-      "summary": "The U.S. military\u2019s bold mission to rescue an Air Force colonel shot down over Iran \u2013 before enemy forces could capture him; President Trump's new ultimatum to Iran - warning he will quote \"blow up the whole country\" unless the Strait of Hormuz is opened; the historic mission to the moon \u2013 the Artemis II crew prepping for their lunar flyby; actress Melissa Gilbert speaking for the first time \u2013 on ",
-      "video_id": "A5cQ5GVUTpA",
-      "link": "https://www.youtube.com/watch?v=A5cQ5GVUTpA",
-      "embed_url": "https://www.youtube-nocookie.com/embed/A5cQ5GVUTpA",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-06T10:56:56+00:00",
-      "image": "https://img.youtube.com/vi/A5cQ5GVUTpA/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-15T10:44:02.998974+00:00",
+  "last_updated": "2026-04-15T14:57:41.857270+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
