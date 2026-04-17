@@ -3004,6 +3004,78 @@
   "videos": [
     {
       "type": "video",
+      "title": "From Ukraine to the Middle East: Are we living through a world war? | DW News",
+      "summary": "Conflicts are spreading worldwide \u2014 from Ukraine, to Gaza, Iran and Lebanon. But does that make it a world war, or is it a new cold war? With global trade disrupted and major powers increasingly involved, the question feels unavoidable: are we already living through World War 3? We asked four leading international affairs experts to weigh in. Their answer isn\u2019t what you might expect \u2014 but it expla",
+      "video_id": "H-EFeMYJlsM",
+      "link": "https://www.youtube.com/watch?v=H-EFeMYJlsM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/H-EFeMYJlsM",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-17T20:00:27+00:00",
+      "image": "https://img.youtube.com/vi/H-EFeMYJlsM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "How committed is Israel to the ceasefire with Lebanon? | DW News",
+      "summary": "A US\u2011brokered 10\u2011day truce has paused the fighting between Israel and Hezbollah in Lebanon, at least for now. But are there signs that this will last, unlike the 2024 ceasefire which was marred by repeated violations and ended in renewed violence?\n\n#DWNews\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok",
+      "video_id": "npjRk93MbqU",
+      "link": "https://www.youtube.com/watch?v=npjRk93MbqU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/npjRk93MbqU",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-17T19:30:11+00:00",
+      "image": "https://img.youtube.com/vi/npjRk93MbqU/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Lebanese return home after Israel-Lebanon ceasefire \u2014 but is it safe? | DW News",
+      "summary": "A fragile ceasefire between Israel and Lebanon appears to be holding, allowing thousands of displaced Lebanese to return to their homes in the south of the country after six weeks of war.\nThe US-brokered truce, expected to last 10 days, has largely halted fighting between Israeli forces and the Iran-backed Hezbollah militia. But the situation remains volatile. Israeli troops are still stationed in",
+      "video_id": "HENzMUCd7zY",
+      "link": "https://www.youtube.com/watch?v=HENzMUCd7zY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/HENzMUCd7zY",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-17T18:39:39+00:00",
+      "image": "https://img.youtube.com/vi/HENzMUCd7zY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "China\u2019s hidden role in the Iran war | The Security Brief",
+      "summary": "China is deeply embedded in the war between the US and Iran. It's the main purchaser of Iranian oil and has employed both military assets and diplomatic efforts to influence the conflict. \n \nThis comes as China continues to build its naval and air capability in the Indo-Pacific.\n\nThe Security Brief takes you inside China\u2019s role in the Iran war and analyses its capabilities closer to home.\n \nGot a ",
+      "video_id": "6ODPHLN91jY",
+      "link": "https://www.youtube.com/watch?v=6ODPHLN91jY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/6ODPHLN91jY",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-04-17T19:30:01+00:00",
+      "image": "https://img.youtube.com/vi/6ODPHLN91jY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Iran says Strait of Hormuz 'open' as Trump says blockade will continue until deal reached | BBC News",
+      "summary": "Iran's foreign minister said the Strait of Hormuz is \"completely open\" to commercial ships for the remainder of the ceasefire.\n \nBut US President Donald Trump said the US naval blockade of Iranian ports will continue until a peace deal is agreed.\n \nMeanwhile, oil prices have dropped after Iran's announcement.\n \nElsewhere, a 10-day ceasefire between Israel and Lebanon began, with celebrations and f",
+      "video_id": "Awip_u213kY",
+      "link": "https://www.youtube.com/watch?v=Awip_u213kY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Awip_u213kY",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-04-17T19:29:24+00:00",
+      "image": "https://img.youtube.com/vi/Awip_u213kY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "'Iran doesn't think it has lost this war'. #BBCNews",
+      "summary": "",
+      "video_id": "mLVopAPFzCo",
+      "link": "https://www.youtube.com/watch?v=mLVopAPFzCo",
+      "embed_url": "https://www.youtube-nocookie.com/embed/mLVopAPFzCo",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-04-17T17:50:22+00:00",
+      "image": "https://img.youtube.com/vi/mLVopAPFzCo/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Iran opens Strait of Hormuz after ceasefire \u2014 oil prices drop, deal 'close'? | DW News",
       "summary": "Iran has declared the Strait of Hormuz open to commercial shipping, following a ceasefire in Lebanon, raising hopes that a broader deal to end the US-Iran war could be within reach.\nThe strait \u2014 which carries around 20% of global oil and gas supply \u2014 had been effectively closed since the conflict began in late February. Oil prices dropped sharply after the announcement, as markets reacted to the p",
       "video_id": "AYC9pzwaCRs",
@@ -6529,81 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-08T13:59:32+00:00",
       "image": "https://img.youtube.com/vi/peON010Q6BU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "What does the US and Iran ceasefire consist of?",
-      "summary": "The United States and Iran have agreed to a two-week ceasefire barely an hour before President Donald Trump\u2019s deadline to obliterate Tehran was set to expire, but key issues remain unresolved.\n\nHere\u2019s what to know about the truce.\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.world/ytlive\nFacebook: http://trt.world/facebook\nX (Twitter): http://trt.world/twitter\nInstagram: http://tr",
-      "video_id": "agk06MUoGTM",
-      "link": "https://www.youtube.com/watch?v=agk06MUoGTM",
-      "embed_url": "https://www.youtube-nocookie.com/embed/agk06MUoGTM",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-08T12:54:00+00:00",
-      "image": "https://img.youtube.com/vi/agk06MUoGTM/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Protester throws red paint at German Chancellery over Iran war complicity",
-      "summary": "A 75-year-old protester from Munich, Ernst Hormann, threw red paint at the German Chancellery in Berlin on April 7 to protest against Germany\u2019s complicity in aiding the US-Israeli war on Iran. Hormann criticised the government for allowing US operations from Ramstein Air Base and accused Chancellor Merz of having \u201cblood on his hands\u201d.\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.w",
-      "video_id": "VjX-i77TRCY",
-      "link": "https://www.youtube.com/watch?v=VjX-i77TRCY",
-      "embed_url": "https://www.youtube-nocookie.com/embed/VjX-i77TRCY",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-08T11:46:28+00:00",
-      "image": "https://img.youtube.com/vi/VjX-i77TRCY/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "US-Israel ceasefire with Iran brings relief to global markets",
-      "summary": "Global markets surged after a 14-day ceasefire was announced in the US-Israel war on Iran. While only temporary, it has the potential to provide relief to global energy trade with the reopening of the Strait of Hormuz.\n\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.world/ytlive\nFacebook: http://trt.world/facebook\nX (Twitter): http://trt.world/twitter\nInstagram: http://trt.world/ins",
-      "video_id": "t2yYniRHsFw",
-      "link": "https://www.youtube.com/watch?v=t2yYniRHsFw",
-      "embed_url": "https://www.youtube-nocookie.com/embed/t2yYniRHsFw",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-08T11:32:59+00:00",
-      "image": "https://img.youtube.com/vi/t2yYniRHsFw/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Macron calls for US-Iran ceasefire to fully include Lebanon",
-      "summary": "\"Our wish in this context is to ensure that the ceasefire fully includes Lebanon\"\n\nFrench President Emmanuel Macron hailed the two-week ceasefire between the United States and Iran as \"a very good thing,\" using a Defence Council meeting at the Elysee Palace to urge that the truce be fully extended to Lebanon.\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.world/ytlive\nFacebook: http",
-      "video_id": "0kxt0bdNfL4",
-      "link": "https://www.youtube.com/watch?v=0kxt0bdNfL4",
-      "embed_url": "https://www.youtube-nocookie.com/embed/0kxt0bdNfL4",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-08T11:08:33+00:00",
-      "image": "https://img.youtube.com/vi/0kxt0bdNfL4/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump achieved 'decisive military victory' in Iran, Hegseth says",
-      "summary": "ABC News contributor Mick Mulroy discusses the briefing held by Secretary of Defense Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine.\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app for the latest headlines an",
-      "video_id": "TH9Ei68szi0",
-      "link": "https://www.youtube.com/watch?v=TH9Ei68szi0",
-      "embed_url": "https://www.youtube-nocookie.com/embed/TH9Ei68szi0",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-08T13:10:53+00:00",
-      "image": "https://img.youtube.com/vi/TH9Ei68szi0/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "President Trump achieved \u2018decisive military victory\u2019 in Iran, Secretary Hegseth says",
-      "summary": "Secretary Pete Hegseth claimed the U.S. reached a \"decisive military victory\" in Iran under President Trump at a press conference at the Pentagon on Wednesday.\n \n\"Iran begged for this ceasefire, and we all know it,\" Hegseth said.",
-      "video_id": "TdTyUxiu0ZQ",
-      "link": "https://www.youtube.com/watch?v=TdTyUxiu0ZQ",
-      "embed_url": "https://www.youtube-nocookie.com/embed/TdTyUxiu0ZQ",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-08T12:50:19+00:00",
-      "image": "https://img.youtube.com/vi/TdTyUxiu0ZQ/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-17T17:36:37.249943+00:00",
+  "last_updated": "2026-04-17T20:08:15.504469+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
