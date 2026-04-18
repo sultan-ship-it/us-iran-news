@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "War Translated",
+      "author": "@wartranslated",
+      "title": "Iran says it has opened the Strait of Hormuz for the duration of the Lebanon ceasefire. The foreign minister wrote that\u2026",
+      "summary": "Iran says it has opened the Strait of Hormuz for the duration of the Lebanon ceasefire. The foreign minister wrote that passage for all commercial ships is fully open on the agreed route for the rest of the truce.",
+      "link": "https://t.me/s/wartranslated",
+      "published": "2026-04-17T15:33:31+00:00",
+      "image": null
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/minimarketuk",
@@ -2989,19 +2999,117 @@
       "link": "https://www.reddit.com/r/AutoNewspaper/comments/1smexvm/politics_us_war_on_iran_was_a_mistake_says_reeves/",
       "published": "2026-04-15T18:42:35+00:00",
       "image": "https://external-preview.redd.it/MfxX_hnfih3UKbwNcnXa0rrNBYZcU-7fwN8H0BH1e0o.jpeg?width=640&crop=smart&auto=webp&s=8f95684e91028b33d303ba6225086c0751ce3d3d"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/worldnews",
-      "author": "u/Spare_Clean_Shorts",
-      "title": "Starmer says he's 'not going to yield' to pressure from Trump on Iran war",
-      "summary": "&#32; submitted by &#32;  /u/Spare_Clean_Shorts  &#32; to &#32;  r/LabourPartyUK   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/LabourPartyUK/comments/1smex6c/starmer_says_hes_not_going_to_yield_to_pressure/",
-      "published": "2026-04-15T18:41:55+00:00",
-      "image": "https://external-preview.redd.it/R6gXzJaDM6UzkFzd29Ztxxq39SblhKmnqjC59IzEXFQ.jpeg?width=640&crop=smart&auto=webp&s=359f69c0ec080aa50d7ae3501422c8bc94b06d65"
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "US-Iran peace talks fuel 'Meme war' between Pakistan and India | DW News",
+      "summary": ": Pakistan hosting direct US\u2013Iran talks in Islamabad recently instantly turned into meme fuel \u2014 with Pakistan cast as the \"hero\" and India sidelined. Indian social-media accounts fired back, mocking the talks as a flop and branding Pakistan a US puppet. Of course, this is deeper than memes. Here\u2019s the geopolitical backstory.\n\n#pakistan #india #iranwar #unitedstates #dwgeopolitics \n\nFor more news g",
+      "video_id": "Pj0FFt97XMg",
+      "link": "https://www.youtube.com/watch?v=Pj0FFt97XMg",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Pj0FFt97XMg",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-18T07:30:19+00:00",
+      "image": "https://img.youtube.com/vi/Pj0FFt97XMg/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "All eyes are on Iran's uranium after ceasefire deal | DW News",
+      "summary": "US President Donald Trump claims Iran has agreed to allow access to its enriched uranium, even suggesting it could be moved to the United States. Iran firmly rejects the claim and insists its nuclear program is strictly peaceful and will remain under its control. \n\n#iran #uranium #unitedstates #dwcurrentaffairs \nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: htt",
+      "video_id": "FT0QG0Gii_U",
+      "link": "https://www.youtube.com/watch?v=FT0QG0Gii_U",
+      "embed_url": "https://www.youtube-nocookie.com/embed/FT0QG0Gii_U",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-18T06:15:01+00:00",
+      "image": "https://img.youtube.com/vi/FT0QG0Gii_U/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Is the Israel-Lebanon ceasefire doomed to fail? | DW News",
+      "summary": "The US-brokered ceasefire between Israel and Lebanon \u2013 which officially does not include Hezbollah as a party to the deal \u2013 is facing substantial obstacles. Is it doomed to fail?  \n\n #dwcurrentaffairs \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.facebook.com/deuts",
+      "video_id": "uNVNx-7hN0U",
+      "link": "https://www.youtube.com/watch?v=uNVNx-7hN0U",
+      "embed_url": "https://www.youtube-nocookie.com/embed/uNVNx-7hN0U",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-18T05:15:06+00:00",
+      "image": "https://img.youtube.com/vi/uNVNx-7hN0U/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Will reopening the Strait of Hormuz end the global energy crisis? | DW News",
+      "summary": "A big sigh of relief for the world as Iran opens the Strait of Hormuz. Oil prices have fallen, and share prices have jumped. But is the opening of the waterway really a turning point? We discuss this with Olga Khakova, an energy security specialist. We also discuss the political implications with Behnam Ben Taleblu, Senior Iran Program Director at the Foundation for Defense of Democracies, a neoco",
+      "video_id": "v4fFDUzummM",
+      "link": "https://www.youtube.com/watch?v=v4fFDUzummM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/v4fFDUzummM",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-18T03:52:47+00:00",
+      "image": "https://img.youtube.com/vi/v4fFDUzummM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Why Lebanon's gov't is walking a thin line between domestic pressure and external threats | DW News",
+      "summary": "Iran says the Strait of Hormuz will remain open to commercial traffic during its ceasefire with the United States, while Lebanon is grappling with a fragile truce of its own. DW speaks with international affairs expert Thanassis Cambanis to assess the stakes in an increasingly volatile situation. \n\nChapter Breakdown:\n0:00 Iran allows commercial shipping through the Strait of Hormuz\n0:18 Netanyahu ",
+      "video_id": "FDJCukGiQoI",
+      "link": "https://www.youtube.com/watch?v=FDJCukGiQoI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/FDJCukGiQoI",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-18T00:29:48+00:00",
+      "image": "https://img.youtube.com/vi/FDJCukGiQoI/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Strait of Hormuz reopens amid fragile truce",
+      "summary": "Iran has reopened the Strait of Hormuz to commercial shipping to ease pressure on global trade as the US maintains its naval presence. France and the UK have welcomed the move, and are planning a multinational mission to secure the route. Leone Lakhani reports from Washington.",
+      "video_id": "oPeYpaLVUUk",
+      "link": "https://www.youtube.com/watch?v=oPeYpaLVUUk",
+      "embed_url": "https://www.youtube-nocookie.com/embed/oPeYpaLVUUk",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-04-18T06:32:01+00:00",
+      "image": "https://img.youtube.com/vi/oPeYpaLVUUk/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Opposition protests calling for government resignation continue in Albania",
+      "summary": "Protesters gathered in Tirane on April 17, in a demonstration called by the main opposition Democratic Party (PD), as rallies continue in Albania over recent months. Petrol bombs were used and water cannons deployed during the protest linked to a corruption probe.\n\n\nSubscribe: http://trt.world/subscribe\nLivestream: http://trt.world/ytlive\nFacebook: http://trt.world/facebook\nX (Twitter): http://trt",
+      "video_id": "fHpsIAponio",
+      "link": "https://www.youtube.com/watch?v=fHpsIAponio",
+      "embed_url": "https://www.youtube-nocookie.com/embed/fHpsIAponio",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-04-18T06:26:57+00:00",
+      "image": "https://img.youtube.com/vi/fHpsIAponio/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "ABC News Live Prime: Apr. 17, 2026",
+      "summary": "Iran denies Trump claim that Iran will give up their nuclear material; large tornadoes strike Midwest; efforts to reduce racial disparities in pregnancy care; Lisa Vanderpump talks \u201cVanderpump Villa.\u201d\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. h",
+      "video_id": "SXPZNJ_gg3c",
+      "link": "https://www.youtube.com/watch?v=SXPZNJ_gg3c",
+      "embed_url": "https://www.youtube-nocookie.com/embed/SXPZNJ_gg3c",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-18T03:23:23+00:00",
+      "image": "https://img.youtube.com/vi/SXPZNJ_gg3c/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "ABC World News Tonight with David Muir Full Broadcast - April 17, 2026",
+      "summary": "Reporting from the storm zone, Mola Lenghi has the latest on the violent and life-threatening storms striking across multiple states, And Lee Goldberg tracks the systems putting over 35 million Americans under alerts for possible tornadoes, severe thunderstorms and flash flooding; As Iran declares the Strait of Hormuz now \"completely open,\" Pres. Trump talks to ABC News\u2019 Jon Karl about the possibi",
+      "video_id": "id6IvyLwWcc",
+      "link": "https://www.youtube.com/watch?v=id6IvyLwWcc",
+      "embed_url": "https://www.youtube-nocookie.com/embed/id6IvyLwWcc",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-18T02:00:47+00:00",
+      "image": "https://img.youtube.com/vi/id6IvyLwWcc/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "Is the U.S. going into a recession?",
@@ -6493,117 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-08T15:31:29+00:00",
       "image": "https://img.youtube.com/vi/HnLUgVLQIR0/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Strait of Hormuz closed in response to Israeli attacks on Lebanon: Iran state media",
-      "summary": "Following Israel's attacks on Lebanon, oil tankers are suspended from passing through the Strait of Hormuz, Iran's semi-official Fars News Agency reported on Wednesday.\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the",
-      "video_id": "HtTZqMAxkK4",
-      "link": "https://www.youtube.com/watch?v=HtTZqMAxkK4",
-      "embed_url": "https://www.youtube-nocookie.com/embed/HtTZqMAxkK4",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-08T18:13:05+00:00",
-      "image": "https://img.youtube.com/vi/HtTZqMAxkK4/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "'Iran has agreed to open the Strait of Hormuz': White House",
-      "summary": "White House press secretary Karoline Leavitt held a press briefing discussing the Iran ceasefire deal saying the world witnessed a \"successful military triumph.\"\n\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC N",
-      "video_id": "X9wsGd-JV1Q",
-      "link": "https://www.youtube.com/watch?v=X9wsGd-JV1Q",
-      "embed_url": "https://www.youtube-nocookie.com/embed/X9wsGd-JV1Q",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-08T17:57:44+00:00",
-      "image": "https://img.youtube.com/vi/X9wsGd-JV1Q/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Good Morning America Full Broadcast - Wednesday, April 8, 2026",
-      "summary": "Trump announces 2-week ceasefire with Iran; Whitney Leavitt, Mark Ballas reunite on Broadway in 'Chicago'; Nonprofit helps find 'forever families' for foster children; and more on ABC's Good Morning America\n\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming cove",
-      "video_id": "t-_TT1ms6Qo",
-      "link": "https://www.youtube.com/watch?v=t-_TT1ms6Qo",
-      "embed_url": "https://www.youtube-nocookie.com/embed/t-_TT1ms6Qo",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-08T17:30:15+00:00",
-      "image": "https://img.youtube.com/vi/t-_TT1ms6Qo/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Strait Of Hormuz To Open: When Will Gas Prices Go Down? - What You Need To Know - April 8, 2026",
-      "summary": "A fragile U.S.-Iran ceasefire deal is raising hopes of peace but questions remain about whether it will hold; oil prices just saw their biggest single-day drop in years, driving a market reversal that could ease pain at the pump; the suspect in the Gilgo Beach serial killings has changed his plea to guilty in the decades-long case; a baseball game erupts into a bench-clearing brawl, sparking chaos",
-      "video_id": "azxA67Suc_c",
-      "link": "https://www.youtube.com/watch?v=azxA67Suc_c",
-      "embed_url": "https://www.youtube-nocookie.com/embed/azxA67Suc_c",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-08T17:29:48+00:00",
-      "image": "https://img.youtube.com/vi/azxA67Suc_c/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Did the US achieve its aims in Iran? | The Security Brief",
-      "summary": "The US president has announced a conditional two-week ceasefire between the US and Iran \u2013 but are America\u2019s claims of victory backed up by the facts?\n \nWe take a closer look at the state of play \u2013 how depleted are US military stockpiles? Does Iran have any military capability left? How are China and Russia viewing the war? \n \nThis is The Security Brief with the BBC\u2019s Christian Fraser and former Se",
-      "video_id": "H4-run-gep8",
-      "link": "https://www.youtube.com/watch?v=H4-run-gep8",
-      "embed_url": "https://www.youtube-nocookie.com/embed/H4-run-gep8",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-08T17:42:59+00:00",
-      "image": "https://img.youtube.com/vi/H4-run-gep8/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Iran accepted a conditional two-week ceasefire under \"overwhelming pressure\". #Iran #US #BBCNews",
-      "summary": "",
-      "video_id": "fXSfjJ9LvRs",
-      "link": "https://www.youtube.com/watch?v=fXSfjJ9LvRs",
-      "embed_url": "https://www.youtube-nocookie.com/embed/fXSfjJ9LvRs",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-08T15:11:34+00:00",
-      "image": "https://img.youtube.com/vi/fXSfjJ9LvRs/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Hegseth says Iran ceasefire offers 'chance at real peace' as both sides claim victory | BBC News",
-      "summary": "US Defence Secretary Pete Hegseth said \"we have a real chance at peace\" after a conditional two-week ceasefire was agreed under \"overwhelming pressure\" with Iran. \n \nBoth sides have claimed victory - Iran says it will reopen the Strait of Hormuz and that its \"victory in the field would also be consolidated\" in upcoming talks.\n \nIn a press conference, Hegseth praised US President Donald Trump for h",
-      "video_id": "2mvrsdXmbWA",
-      "link": "https://www.youtube.com/watch?v=2mvrsdXmbWA",
-      "embed_url": "https://www.youtube-nocookie.com/embed/2mvrsdXmbWA",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-08T15:06:17+00:00",
-      "image": "https://img.youtube.com/vi/2mvrsdXmbWA/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Our food comes from natural gas | DW News",
-      "summary": "Groceries could get more expensive because of the US-Israel war with Iran. That\u2019s because natural gas and fertilizers are stuck in the Strait of Hormuz, which has been blocked due to the war.\n \nThe countries in the Gulf region are major contributors to the global fertilizer trade: 34% of urea and 49% of sulfur come from the Middle East. But that\u2019s not the whole story. Natural gas exports are also ",
-      "video_id": "iVocQ0mBj1s",
-      "link": "https://www.youtube.com/watch?v=iVocQ0mBj1s",
-      "embed_url": "https://www.youtube-nocookie.com/embed/iVocQ0mBj1s",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-08T14:06:43+00:00",
-      "image": "https://img.youtube.com/vi/iVocQ0mBj1s/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Iran war: Pro\u2011government supporters in Iran protest ceasefire | DW News",
-      "summary": "Supporters of Iran's government have taken to the streets of Tehran to condemn the US and Israel following the two-week ceasefire agreement. But how long will the ceasefire hold? \n\n#iranwar #iran #ceasefire  #dwnews \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.fac",
-      "video_id": "GiiPCm6akQo",
-      "link": "https://www.youtube.com/watch?v=GiiPCm6akQo",
-      "embed_url": "https://www.youtube-nocookie.com/embed/GiiPCm6akQo",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-08T12:24:49+00:00",
-      "image": "https://img.youtube.com/vi/GiiPCm6akQo/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-18T05:54:28.932106+00:00",
+  "last_updated": "2026-04-18T08:09:03.564593+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
