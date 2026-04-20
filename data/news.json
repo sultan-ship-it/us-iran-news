@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "OSINT Defender",
+      "author": "@OSINTdefender",
+      "title": "#Iran #USA Trump has stated he would consider bombing Iran again if no agreement is reached regarding its nuclear activi\u2026",
+      "summary": "#Iran #USA Trump has stated he would consider bombing Iran again if no agreement is reached regarding its nuclear activities. He has also indicated that he dropped plans to lift sanctions on Iran amid ongoing tensions. Subscribe to @OSINTdefender Chat room",
+      "link": "https://t.me/s/OSINTdefender",
+      "published": "2026-04-18T17:46:58+00:00",
+      "image": null
+    },
+    {
+      "platform": "telegram",
+      "source": "Fars News (EN)",
+      "author": "@FarsNews_EN",
+      "title": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and\u2026",
+      "summary": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and cultural and sports gathering of the people of Bagshahr \"Teft\" was held at the same time as the first show \"Ziba Saware\" of the noble horses of Yazd province on the occasion of the half of Sha'ban and Deha Fajr today along with the flight of kites in the sky of the desert. Photo: Alireza Rajabzadegan @GalleryAksIran",
+      "link": "https://t.me/s/FarsNews_EN",
+      "published": "2026-02-05T15:47:06+00:00",
+      "image": "https://cdn4.telesco.pe/file/RqaSu7wALCO_-euL_Jm9RiIZgX9wNvSDKdQk3OLFmBVO8jViAzNouwmRtw_8-2QgyD404HrFAR2iKKd-YHj83pHSNTnPvX3NVOHIRGtiWF9Rs2Jt5GqYR8wY_NoICUq4TPqMuvi6yhbjiRbpmkNZs6B0cTz5yma81aSY8E6ELRFoyejnoBE1XfLRZIz131WeC8beUolGj_xoCpRM6a_0v6hTHOyylK6-dKBHqbEGl2mnhrzwkfD7GJQ2wT2u6RQqaZuCwQfxjocBiCCU2q7Dwm9iE4sSRGx7KqVjFr0azE3coh9_slMCGBldPESbFcy0m6dJw8t9ZSTa44rEFgQg6A.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/AutoNewsAdmin",
@@ -2979,29 +2999,33 @@
       "link": "https://www.reddit.com/r/iran/comments/1smo2v8/message_from_a_detroit_worker_to_the_people_of/",
       "published": "2026-04-16T00:32:01+00:00",
       "image": "https://external-preview.redd.it/Lra9xo1YggLnz7_mJP4khYmNPbEYXbL_vsgzp9ZP1lY.jpeg?width=320&crop=smart&auto=webp&s=987daca86e30557337dd427d172c0269ac98cdb4"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/hereswhatworks",
-      "title": "Iran military orders Indian ship to abort Strait of Hormuz passage",
-      "summary": "&#32; submitted by &#32;  /u/hereswhatworks  &#32; to &#32;  r/OilPrices   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/OilPrices/comments/1spahye/iran_military_orders_indian_ship_to_abort_strait/",
-      "published": "2026-04-18T21:49:06+00:00",
-      "image": "https://external-preview.redd.it/3MOTA6Fy25LGjczk4rBVelNnD23NZSrvjSFShWaby_A.jpeg?width=640&crop=smart&auto=webp&s=9a0c0cc8e262a05e66694a6347af56078ce07e77"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/intelligentreviews",
-      "title": "Iran fires on at least two ships near Oman after re-closing Strait of Hormuz",
-      "summary": "&#32; submitted by &#32;  /u/intelligentreviews  &#32; to &#32;  r/conservatives   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/conservatives/comments/1spagpy/iran_fires_on_at_least_two_ships_near_oman_after/",
-      "published": "2026-04-18T21:47:40+00:00",
-      "image": "https://external-preview.redd.it/x-EEwBa3KZ4lLkpMO50oVbyt3dia2C7bzvitTtxEwvE.jpeg?width=640&crop=smart&auto=webp&s=d0b4e189b045e43db65285f19db64bb5ea47cbb6"
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "US seizure of Iranian cargo ship fuels tensions, oil price surge",
+      "summary": "Tensions between the US and Iran have escalated once more after US marines seized an Iranian cargo ship in the Gulf of Oman. Washington claims the vessel tried to get past a US blockade on Iranian ports. Iran calls it an act of piracy and says it has no plans to attend any talks with US negotiators.\nDW asked Middle East analyst Laura Blumenfeld from Johns Hopkins University, how much the latest US",
+      "video_id": "GRnJHJZnjp0",
+      "link": "https://www.youtube.com/watch?v=GRnJHJZnjp0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/GRnJHJZnjp0",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-20T17:53:31+00:00",
+      "image": "https://img.youtube.com/vi/GRnJHJZnjp0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Does Iran\u2019s flip-flop on closing the Strait of Hormuz reveal a rift?",
+      "summary": "Iran's Foreign minister announced the re-opening of the Strait of Hormuz on Friday and on Saturday, the country's top military leadership rescinded that decision. So who is the final decision maker in Iran? And what does that tell us about how any upcoming ceasefire negotiations could proceed? We ask Iran researcher Farzan Sabet from the Geneva Graduate Institute.\n\n#Iran #hormuz #dwnews \n\nFor more",
+      "video_id": "kqaHu3_UJaU",
+      "link": "https://www.youtube.com/watch?v=kqaHu3_UJaU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/kqaHu3_UJaU",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-04-20T17:47:13+00:00",
+      "image": "https://img.youtube.com/vi/kqaHu3_UJaU/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "Iran says no plans yet for another round of talks with US",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-10T03:40:02+00:00",
       "image": "https://img.youtube.com/vi/rD3FBjEVOOQ/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Vance Takes the Lead on Iran | DW News",
-      "summary": "JD Vance is leading the most important US-Iran talks in decades \u2013 something usually reserved for top diplomats. Why him, and what does it say about Trump\u2019s strategy?\n\n#dwnews #jdvance #iranwar #talks \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.facebook.com/deutsc",
-      "video_id": "49W_yP2n07o",
-      "link": "https://www.youtube.com/watch?v=49W_yP2n07o",
-      "embed_url": "https://www.youtube-nocookie.com/embed/49W_yP2n07o",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-10T01:16:20+00:00",
-      "image": "https://img.youtube.com/vi/49W_yP2n07o/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "US president pushes NATO to breaking point | DW News",
-      "summary": "NATO is in transition - but to what? Secretary General Mark Rutte says the transatlantic military alliance is in a period of profound change and must move away from 'unhealthy co-dependence' to  'true partnership'. At the same time, Rutte agreed with Trump's criticism of NATO, saying allies were slow to support the US in its war against Iran.\nElizabeth Braw, senior fellow at the Atlantic Council, ",
-      "video_id": "BPYJfgu2zVk",
-      "link": "https://www.youtube.com/watch?v=BPYJfgu2zVk",
-      "embed_url": "https://www.youtube-nocookie.com/embed/BPYJfgu2zVk",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-10T01:14:08+00:00",
-      "image": "https://img.youtube.com/vi/BPYJfgu2zVk/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-20T16:20:52.721500+00:00",
+  "last_updated": "2026-04-20T20:05:01.748515+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
