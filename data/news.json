@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "OSINT Defender",
+      "author": "@OSINTdefender",
+      "title": "#Lebanon Lebanese President Joseph Aoun has expressed that he has the support of U.S. President Donald Trump in addressi\u2026",
+      "summary": "#Lebanon Lebanese President Joseph Aoun has expressed that he has the support of U.S. President Donald Trump in addressing the situation with Hezbollah, emphasizing the need for it to end. This reflects a broader alignment between U.S. and Israeli positions on the disarmament of Hezbollah. Subscribe to @OSINTdefender Chat room",
+      "link": "https://t.me/s/OSINTdefender",
+      "published": "2026-04-22T17:00:09+00:00",
+      "image": "https://cdn4.telesco.pe/file/KS_iwK_1EJEKawFsLVoJfE5w6nC42ILtNuVa-DvNUH_Br5b6U4MQjhZiKC3b2-pA97qzAQhBhnrooLmPZwmoG7iNguijOspAvbzsya0EDl2NjV3cM1NnKTjFa0TZ7EjJTkFuJupYeUBDFvUlx6Oe6nr62JEpBbd0Sk5i2H692DtLiC9ACNEWYTlbbq6oo1kZOwVS8nN4ZYNknz4pd7NKSR_aGfnaYjVnZ2ZAyHD2WLuap40biSRw3mEBNb5VaRz1zg2lx82Dl9CrZjI6w_ksCIVvAjR6jCo2uRoqWpqBlew_i77e2mSLjaABMv5S5V8sBTxHSK_i7ob2rg-KYBUH_w.jpg"
+    },
+    {
+      "platform": "telegram",
+      "source": "Fars News (EN)",
+      "author": "@FarsNews_EN",
+      "title": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and\u2026",
+      "summary": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and cultural and sports gathering of the people of Bagshahr \"Teft\" was held at the same time as the first show \"Ziba Saware\" of the noble horses of Yazd province on the occasion of the half of Sha'ban and Deha Fajr today along with the flight of kites in the sky of the desert. Photo: Alireza Rajabzadegan @GalleryAksIran",
+      "link": "https://t.me/s/FarsNews_EN",
+      "published": "2026-02-05T15:47:06+00:00",
+      "image": "https://cdn4.telesco.pe/file/j8AsVxt5eh6q1SZ8zGqpesKLrmV9VwuSi2dsG3LoxrzUrr9VahZJzvFfqJ8P1mfwuEA6q5ETOluHQqhZUr0NsibyHyvG1qa8tuVgvNcWDDWsGsQzpqZWEooyUZ0fSA4--Uu3CBLCQS_fXb40A86AXyG5ZHktxuekouegCMukGHjrE_Qtl97cduL7HqWFNzZa4-hP66ixtildvUNcktNXN9s8EV7T6zulVI8o1Co1R0GPUpCSZv_19nVERCa23MEhDmK4iV9_EREW6nHH4BKsha2nt_UAeqUSVh_ori3-cPL0EJDirrFKmmTlgJIIT51aUNHZZxWQirMn_6N0g6i7WQ.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/minimarketuk",
@@ -2979,29 +2999,21 @@
       "link": "https://www.reddit.com/r/HistoryWhatIf/comments/1stcf82/what_if_saddam_hussein_invaded_kuwait_during_the/",
       "published": "2026-04-23T08:06:33+00:00",
       "image": null
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/therealswigstein",
-      "title": "U.S. Intelligence Suggests Iran Still Has Significant Military Power Despite Trump Claiming They\u2019re \u201cDecimated\u201d",
-      "summary": "&#32; submitted by &#32;  /u/therealswigstein  &#32; to &#32;  r/Ywn   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/Ywn/comments/1stcejz/us_intelligence_suggests_iran_still_has/",
-      "published": "2026-04-23T08:05:28+00:00",
-      "image": "https://external-preview.redd.it/AzVNfSbPBwE6iCl27ClsFg5hRrPtPCl-raCm3m2N6_k.jpeg?width=640&crop=smart&auto=webp&s=26317be6b3bf013182df5a3b18e8c6205ccd6a12"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/therealswigstein",
-      "title": "Suspected Iran-Linked Group Threatens Ivanka Trump, Calls for Violence Against President Trump",
-      "summary": "&#32; submitted by &#32;  /u/therealswigstein  &#32; to &#32;  r/Ywn   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/Ywn/comments/1stcejj/suspected_iranlinked_group_threatens_ivanka_trump/",
-      "published": "2026-04-23T08:05:27+00:00",
-      "image": "https://external-preview.redd.it/aqv9UKqF3ljikJTF8nfVOTh1sqdj6EpsI_POUOdPHAU.jpeg?width=640&crop=smart&auto=webp&s=c1169e5f1d962219211ceea6ba320d5ba0f82d2b"
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "Trump says King Charles visit may help mend rift with UK over Iran war | BBC News",
+      "summary": "Donald Trump has said next week's state visit from King Charles and Queen Camilla could help repair relations with the UK.\n\nWhen asked in a phone interview with the BBC whether the visit could help, Trump said: \"Absolutely. He's fantastic. He's a fantastic man. Absolutely the answer is yes... I know him well, I've known him for years\u2026 He's a brave man, and he's a great man. They would absolutely b",
+      "video_id": "JIP0jzfOo_M",
+      "link": "https://www.youtube.com/watch?v=JIP0jzfOo_M",
+      "embed_url": "https://www.youtube-nocookie.com/embed/JIP0jzfOo_M",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-04-23T22:03:34+00:00",
+      "image": "https://img.youtube.com/vi/JIP0jzfOo_M/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "NFL Draft 2026 & other top trending stories | Searched",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-13T09:40:36+00:00",
       "image": "https://img.youtube.com/vi/o8g_IxizeqE/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Donald Trump attacks Pope over criticism of Iran war. #Trump #PopeLeo #BBCNews",
-      "summary": "Subscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BBC.com/news\n\n#BBCNews",
-      "video_id": "4VSk7ybvUag",
-      "link": "https://www.youtube.com/watch?v=4VSk7ybvUag",
-      "embed_url": "https://www.youtube-nocookie.com/embed/4VSk7ybvUag",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-13T08:37:37+00:00",
-      "image": "https://img.youtube.com/vi/4VSk7ybvUag/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-23T21:59:53.132205+00:00",
+  "last_updated": "2026-04-23T23:00:21.615132+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
