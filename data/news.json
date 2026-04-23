@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "OSINT Defender",
+      "author": "@OSINTdefender",
+      "title": "#ME Iran has not yet decided whether to agree to extend the ceasefire, as indicated by their foreign ministry spokespers\u2026",
+      "summary": "#ME Iran has not yet decided whether to agree to extend the ceasefire, as indicated by their foreign ministry spokesperson. The situation remains uncertain, with both sides still in discussions. Subscribe to @OSINTdefender Chat room",
+      "link": "https://t.me/s/OSINTdefender",
+      "published": "2026-04-22T06:10:26+00:00",
+      "image": "https://cdn4.telesco.pe/file/QJTE0yk1AjilVTfPgGeeTGvJJtTZGS9PIHuCl6sVMuxTvcepVqbnucFkLBRU0nTBuRiJkPpz-xfYBWbwkcMkvKHs7Wn8HHofuyNiFi9g5TOyuShLveHfMvnRn8mX-XJALguUBm5M3NvtBM6IlolpRXj7I6LB2FXXKGKvH_laQ7aVnuTan9SkKq5Kx-72iVK0EF2URjMzAXz8QX1ap6LUwzesv0W_OnKiZL5ZzxkB4J7Lb6Hnoglh7TKx-3nvFMqd2izvk-HL3BB8mW3kNYkBP5JMDz24AYREeT2E-3pWDYQFSBGddzorjKsP8IG8BlD7RiuGrM_S-4Q4mRmdMKZi7w.jpg"
+    },
+    {
+      "platform": "telegram",
+      "source": "Fars News (EN)",
+      "author": "@FarsNews_EN",
+      "title": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and\u2026",
+      "summary": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and cultural and sports gathering of the people of Bagshahr \"Teft\" was held at the same time as the first show \"Ziba Saware\" of the noble horses of Yazd province on the occasion of the half of Sha'ban and Deha Fajr today along with the flight of kites in the sky of the desert. Photo: Alireza Rajabzadegan @GalleryAksIran",
+      "link": "https://t.me/s/FarsNews_EN",
+      "published": "2026-02-05T15:47:06+00:00",
+      "image": "https://cdn4.telesco.pe/file/j8AsVxt5eh6q1SZ8zGqpesKLrmV9VwuSi2dsG3LoxrzUrr9VahZJzvFfqJ8P1mfwuEA6q5ETOluHQqhZUr0NsibyHyvG1qa8tuVgvNcWDDWsGsQzpqZWEooyUZ0fSA4--Uu3CBLCQS_fXb40A86AXyG5ZHktxuekouegCMukGHjrE_Qtl97cduL7HqWFNzZa4-hP66ixtildvUNcktNXN9s8EV7T6zulVI8o1Co1R0GPUpCSZv_19nVERCa23MEhDmK4iV9_EREW6nHH4BKsha2nt_UAeqUSVh_ori3-cPL0EJDirrFKmmTlgJIIT51aUNHZZxWQirMn_6N0g6i7WQ.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/guanaco55",
@@ -2979,26 +2999,6 @@
       "link": "https://www.reddit.com/r/AutoNewspaper/comments/1sr51yc/business_are_insider_traders_making_millions_from/",
       "published": "2026-04-20T22:22:42+00:00",
       "image": "https://external-preview.redd.it/79E-Qnet_1GdqryTYpFISlaENvO0CYSzGQRhYUzzuak.jpeg?width=640&crop=smart&auto=webp&s=fb561ed9e81080bebf94a17c006c3c34c5480dd6"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/conspiracy",
-      "author": "u/AmanCMN",
-      "title": "Gas Prices After War?",
-      "summary": "Trump says his energy chief is wrong and expects gas prices to drop as soon as the Iran war ends. Markets are still trying to price in whether that actually happens.  Trump says energy chief is wrong, expects lower gas prices as soon Iran war ends  &#32; submitted by &#32;  /u/AmanCMN  &#32; to &#32;  r/AmanCrypto   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/AmanCrypto/comments/1sr514d/gas_prices_after_war/",
-      "published": "2026-04-20T22:21:46+00:00",
-      "image": null
-    },
-    {
-      "platform": "reddit",
-      "source": "r/conspiracy",
-      "author": "u/MeghanClickYourHeels",
-      "title": "The Aides Keeping the President in the Dark",
-      "summary": "Donald Trump\u2019s advisers are treating him like he can\u2019t handle the reality of the war in Iran. They might be right\u2014but that fact is a danger to the constitutional order. By David A. Graham, The Atlantic. Earlier this month, top officials in the Trump administration were facing two problems\u2014one distant and acute, one near and chronic. The first was that two American airmen were missing inside Iran after their jet had been shot down. Commanders were scrambling to create and execute an operation to ",
-      "link": "https://www.reddit.com/r/atlanticdiscussions/comments/1sr4yp3/the_aides_keeping_the_president_in_the_dark/",
-      "published": "2026-04-20T22:19:02+00:00",
-      "image": "https://external-preview.redd.it/FXB7PIdG2_bxK1j1_lZq3lstxoUnYV0oCzdNViHbOog.jpeg?width=640&crop=smart&auto=webp&s=91be0e4bc3f116cc87d0834fe314226c433a646d"
     }
   ],
   "videos": [
@@ -6603,7 +6603,7 @@
       "image": "https://img.youtube.com/vi/5Sp5D9l05Vg/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-22T22:35:13.221609+00:00",
+  "last_updated": "2026-04-23T06:18:31.347985+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
