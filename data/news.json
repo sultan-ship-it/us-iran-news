@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Israel accuses Hezbollah of trying to sabotage ceasefire | BBC News",
+      "summary": "The health ministry in Lebanon said six people were killed and two more wounded in Israeli strikes in the south of the country on Friday.\n \nIsrael's military said it had struck positions used by Hezbollah militants to launch rockets across the border. Israel has accused Hezbollah of trying to sabotage a ceasefire, that's been extended for three weeks. \n \nSince March, the Lebanese Health Authority ",
+      "video_id": "X70FoGB6wws",
+      "link": "https://www.youtube.com/watch?v=X70FoGB6wws",
+      "embed_url": "https://www.youtube-nocookie.com/embed/X70FoGB6wws",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-04-25T09:45:04+00:00",
+      "image": "https://img.youtube.com/vi/X70FoGB6wws/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Can the US suspend Spain from NATO? | DW News",
       "summary": "US officials floated suspending Spain from NATO over its stance on the Iran war, Reuters reports \u2014 but NATO has no mechanism to do so. Spain's PM Pedro Sanchez brushed off the threats. DW's @rosiebirchard reports from Cyrus.\n\n#dwnews #nato #spain \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dw",
       "video_id": "dRMtwMHaxe0",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-14T13:35:20+00:00",
       "image": "https://img.youtube.com/vi/AFh-QJoNEp8/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Why is the US blockading the Strait of Hormuz? | DW News",
-      "summary": "After 6 weeks of Iran blocking the Strait of Hormuz, now it's the United States preventing ships getting through. Is Donald Trump's move designed to apply pressure to Iran or his allies in Europe? Some analysts fear what could happen next.\n\n00:00 US blockading the Strait of Hormuz\n00:29 Christopher Preble, Senior Fellow, Stimson Center\n\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on soc",
-      "video_id": "0TDeUMPkqbE",
-      "link": "https://www.youtube.com/watch?v=0TDeUMPkqbE",
-      "embed_url": "https://www.youtube-nocookie.com/embed/0TDeUMPkqbE",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-14T08:39:52+00:00",
-      "image": "https://img.youtube.com/vi/0TDeUMPkqbE/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-25T09:03:05.576313+00:00",
+  "last_updated": "2026-04-25T10:01:09.698311+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
