@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "LIVE: Secretary Hegseth testifies on 2027 Pentagon budget request",
+      "summary": "Secretary Pete Hegseth and Chairman of the Joint Chiefs of Staff Dan Caine testify on the 2027 Pentagon budget request.\n\nRead more: https://abcnews.com/Politics/hegseth-face-lawmakers-time-iran-war-started/story?id=132459382\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watc",
+      "video_id": "0Ipya_YG-LM",
+      "link": "https://www.youtube.com/watch?v=0Ipya_YG-LM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/0Ipya_YG-LM",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-04-30T14:50:23+00:00",
+      "image": "https://img.youtube.com/vi/0Ipya_YG-LM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Hegseth grilled by lawmakers as Pentagon says Iran war costs reach $25B",
       "summary": "Defense Secretary Pete Hegseth appeared before the Senate Armed Services Committee, facing questions for nearly six hours about the war with Iran.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app for the latest headlines",
       "video_id": "q9cdVQx2qd8",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-18T03:23:23+00:00",
       "image": "https://img.youtube.com/vi/SXPZNJ_gg3c/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "ABC World News Tonight with David Muir Full Broadcast - April 17, 2026",
-      "summary": "Reporting from the storm zone, Mola Lenghi has the latest on the violent and life-threatening storms striking across multiple states, And Lee Goldberg tracks the systems putting over 35 million Americans under alerts for possible tornadoes, severe thunderstorms and flash flooding; As Iran declares the Strait of Hormuz now \"completely open,\" Pres. Trump talks to ABC News\u2019 Jon Karl about the possibi",
-      "video_id": "id6IvyLwWcc",
-      "link": "https://www.youtube.com/watch?v=id6IvyLwWcc",
-      "embed_url": "https://www.youtube-nocookie.com/embed/id6IvyLwWcc",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-18T02:00:47+00:00",
-      "image": "https://img.youtube.com/vi/id6IvyLwWcc/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-04-30T14:32:55.536325+00:00",
+  "last_updated": "2026-04-30T16:08:03.098505+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
