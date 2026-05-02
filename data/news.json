@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says | BBC News",
+      "summary": "The Lebanese health ministry says at least 13 people, including four women and a child, have been killed in Israeli air strikes on southern Lebanon.\n\nElsewhere, President Trump says he's not happy with the latest peace proposals Tehran has reportedly submitted to mediators in Pakistan.\n\nSubscribe to our channel here: https://bbc.in/bbcnews\n\nFor the latest news download the BBC News app or visit BB",
+      "video_id": "g8Nv4xA3Nfo",
+      "link": "https://www.youtube.com/watch?v=g8Nv4xA3Nfo",
+      "embed_url": "https://www.youtube-nocookie.com/embed/g8Nv4xA3Nfo",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-05-02T18:35:59+00:00",
+      "image": "https://img.youtube.com/vi/g8Nv4xA3Nfo/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "What might the World Cup look like for Iran's soccer team?",
       "summary": "After FIFA President Gianni Infantino said on Thursday that Iran will participate in the 2026 World Cup, what might the team's campaign at the tournament look like this summer?\n \nABC News' Andrew Dymburt reports.",
       "video_id": "gJ8SeuG6cFU",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-20T00:15:03+00:00",
       "image": "https://img.youtube.com/vi/tHyoKIRmGig/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Iran yet to confirm joining talks with US in Pakistan | BBC News",
-      "summary": "Iran\u2019s state media has said Tehran has \"no plans for now to participate\" in the second round of negotiations with the US about the war, according to Iran's state TV news channel. Although no official has clarified Iran\u2019s position yet.\n \nUS President Donald Trump said his representatives would be in Pakistan on Monday for negotiations -  a White House official said Vice-President JD Vance will lead",
-      "video_id": "oMgrBR_yc6A",
-      "link": "https://www.youtube.com/watch?v=oMgrBR_yc6A",
-      "embed_url": "https://www.youtube-nocookie.com/embed/oMgrBR_yc6A",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-20T06:43:27+00:00",
-      "image": "https://img.youtube.com/vi/oMgrBR_yc6A/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-02T18:12:38.044490+00:00",
+  "last_updated": "2026-05-02T19:29:41.989946+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
