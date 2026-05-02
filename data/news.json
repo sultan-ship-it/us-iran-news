@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Examining the direction of the US-Iran conflict",
+      "summary": "The Atlantic contributing writer Arash Azizi shares his opinion on Donald Trump's assertion of discord amongst Iranian leadership and analyzes the most likely paths forward in the conflict.\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcn",
+      "video_id": "5CNSXSKcpiM",
+      "link": "https://www.youtube.com/watch?v=5CNSXSKcpiM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/5CNSXSKcpiM",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-02T16:15:00+00:00",
+      "image": "https://img.youtube.com/vi/5CNSXSKcpiM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Debrief: Iran Deadlock, Gaza Flotilla Intercepted Again",
       "summary": "Missed the headlines? Catch up quick, with Debrief. Between the US and Iran, a war of bombs has become a war of words, as negotiations seem to be stalled one moment and barely moving the next. Meanwhile, the stranglehold on the Strait of Hormuz has global economies rattled. And another push to reach Gaza\u2019s shores by the Global Sumud Flotilla movement is halted once again by Israel in international",
       "video_id": "jxxF2hB3VoE",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-19T22:17:44+00:00",
       "image": "https://img.youtube.com/vi/vgMTOQCgpRo/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump announces new round of Iran talks with strong warnings",
-      "summary": "President Trump announced renewed peace talks with Iran ahead of the ceasefire deadline, reiterating threats of major military action if negotiations fail.US officials defended his approach as strategic, emphasizing that behind-the-scene talks are progressing despite the escalating rhetoric. Our correspondent Andy Roesgen reports Washington DC.",
-      "video_id": "4HQ-7_ve4dc",
-      "link": "https://www.youtube.com/watch?v=4HQ-7_ve4dc",
-      "embed_url": "https://www.youtube-nocookie.com/embed/4HQ-7_ve4dc",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-19T20:40:26+00:00",
-      "image": "https://img.youtube.com/vi/4HQ-7_ve4dc/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-02T16:27:41.503528+00:00",
+  "last_updated": "2026-05-02T17:26:33.023585+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
