@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Trump to review Iran's proposal but 'doubts it'll be acceptable'",
+      "summary": "US President Donald Trump says he is reviewing Iran's latest peace proposal but doubts that he will accept it. Iran says it is up to the US to pursue the path of diplomacy or return to war. Tehran has proposed resolving all the issues between the US and Iran, and ending the war in 30 days. Kristina Simich reports.",
+      "video_id": "T0bnQJmT_Xw",
+      "link": "https://www.youtube.com/watch?v=T0bnQJmT_Xw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/T0bnQJmT_Xw",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-05-03T10:15:41+00:00",
+      "image": "https://img.youtube.com/vi/T0bnQJmT_Xw/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Israel strikes several parts of south Lebanon, killing 12 people",
       "summary": "Israeli warplanes and artillery targeted several towns across the southern parts of Lebanon. A new wave of strikes hit the Nabatiyeh and Bint Jbeil districts, killing at least 12 people on Saturday. Hezbollah says it's also launched attacks on Israeli troops, saying they were in response to ceasefire violations. Zama Luthuli reports.",
       "video_id": "q46O154OPPY",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-19T21:27:55+00:00",
       "image": "https://img.youtube.com/vi/0VTAHI-eNeM/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Second round of US-Iran talks faces uncertainty",
-      "summary": "After failed initial talks between the US and Iran, tensions escalated with a naval blockade, rising oil prices and conflict in Lebanon before a fragile ceasefire was reached. As a second round of negotiations in Islamabad draws near, hopes for a breakthrough remain low. Paul Hawkins reports.",
-      "video_id": "ZKiV6dvjk10",
-      "link": "https://www.youtube.com/watch?v=ZKiV6dvjk10",
-      "embed_url": "https://www.youtube-nocookie.com/embed/ZKiV6dvjk10",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-20T06:53:55+00:00",
-      "image": "https://img.youtube.com/vi/ZKiV6dvjk10/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-03T10:14:23.875020+00:00",
+  "last_updated": "2026-05-03T11:09:58.762464+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
