@@ -3004,6 +3004,42 @@
   "videos": [
     {
       "type": "video",
+      "title": "How FPV drones are changing the conflict between Israel and Hezbollah | DW News",
+      "summary": "More than a month into a ceasefire, Israel and the Lebanese militant group Hezbollah continue to trade strikes. While Israeli attacks have largely depleted the Iranian proxy's missile stockpiles, new first-person view (FPV) drones, which are controlled by fiber optic cables, are slipping through Israel's air defenses. The weapon is widely used in Ukraine's war effort against Russia's invasion, but",
+      "video_id": "e3msxB9rpC4",
+      "link": "https://www.youtube.com/watch?v=e3msxB9rpC4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/e3msxB9rpC4",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-05-03T17:03:12+00:00",
+      "image": "https://img.youtube.com/vi/e3msxB9rpC4/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "How the Iran war has shocked the global economy",
+      "summary": "Economists Diane Swonk and Karen Young explain the latest economic data on \u201cThis Week.\u201d",
+      "video_id": "VFICv0TYwAw",
+      "link": "https://www.youtube.com/watch?v=VFICv0TYwAw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/VFICv0TYwAw",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-03T17:04:18+00:00",
+      "image": "https://img.youtube.com/vi/VFICv0TYwAw/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Gas prices will \u2018come down immediately\u2019 when Strait of Hormuz reopens: Duffy",
+      "summary": "ABC News\u2019 Martha Raddatz interviews Transportation Secretary Sean Duffy on \u201cThis Week.\u201d",
+      "video_id": "rJkIm43DWp0",
+      "link": "https://www.youtube.com/watch?v=rJkIm43DWp0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/rJkIm43DWp0",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-03T17:02:57+00:00",
+      "image": "https://img.youtube.com/vi/rJkIm43DWp0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "How Starlink technology is being smuggled into Iran. #BBCNews",
       "summary": "",
       "video_id": "VKJgECC5ToQ",
@@ -6565,45 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-20T10:44:18+00:00",
       "image": "https://img.youtube.com/vi/OMUaoPr0cDU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Marines from USS Tripoli seized Iranian vessel, CENTCOM says",
-      "summary": "U.S. Central Command posted a video of the seizure of the Iran-flagged M/V Touska container ship, which it said was seized by helicopter-borne Marines on Sunday.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app for the l",
-      "video_id": "Oz3Z3H_Ho2A",
-      "link": "https://www.youtube.com/watch?v=Oz3Z3H_Ho2A",
-      "embed_url": "https://www.youtube-nocookie.com/embed/Oz3Z3H_Ho2A",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-20T10:02:41+00:00",
-      "image": "https://img.youtube.com/vi/Oz3Z3H_Ho2A/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "US release footage said to show Marines boarding Iranian cargo ship. #Iran #US #BBCNews",
-      "summary": "",
-      "video_id": "MxFZrpxT5dI",
-      "link": "https://www.youtube.com/watch?v=MxFZrpxT5dI",
-      "embed_url": "https://www.youtube-nocookie.com/embed/MxFZrpxT5dI",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-20T09:30:10+00:00",
-      "image": "https://img.youtube.com/vi/MxFZrpxT5dI/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Moment US navy seizes Iranian-flagged cargo ship. #Iran #US #IranWar #BBCNews",
-      "summary": "",
-      "video_id": "N5baE_wy9dk",
-      "link": "https://www.youtube.com/watch?v=N5baE_wy9dk",
-      "embed_url": "https://www.youtube-nocookie.com/embed/N5baE_wy9dk",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-20T07:05:56+00:00",
-      "image": "https://img.youtube.com/vi/N5baE_wy9dk/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-03T16:26:37.753054+00:00",
+  "last_updated": "2026-05-03T17:27:36.941144+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
