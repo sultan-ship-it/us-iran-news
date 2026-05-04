@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Iran war drives up prices, squeezes Israeli paychecks",
+      "summary": "For many Israelis, the war on Iran is no longer measured just in military terms, but also in rising prices, shrinking paychecks, and growing economic anxiety. From supermarkets and small businesses to consumers, the financial strain is deepening as inflation rises and everyday essentials become harder to afford. Mohammad al-Kassim reports.",
+      "video_id": "JB1250SwZBg",
+      "link": "https://www.youtube.com/watch?v=JB1250SwZBg",
+      "embed_url": "https://www.youtube-nocookie.com/embed/JB1250SwZBg",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-05-04T10:33:08+00:00",
+      "image": "https://img.youtube.com/vi/JB1250SwZBg/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump launches 'Project Freedom' in Strait of Hormuz",
+      "summary": "U.S. Central Command posted a statement to X on Sunday confirming that its forces will begin supporting \"Project Freedom\" in the Strait of Hormuz at the direction of President Donald Trump.\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDow",
+      "video_id": "qzf-o6Z35rg",
+      "link": "https://www.youtube.com/watch?v=qzf-o6Z35rg",
+      "embed_url": "https://www.youtube-nocookie.com/embed/qzf-o6Z35rg",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-04T10:19:33+00:00",
+      "image": "https://img.youtube.com/vi/qzf-o6Z35rg/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Airline collapse: Budget carriers hit by fuel price surge | DW News",
       "summary": "Sky-high jet fuel prices, caused by the war in Iran, have claimed their first casualty in the airline sector. The no-frills operator Spirit Airlines ceased operations on the weekend. Former industry executive John Gradek says the company will not be the last to collapse. He tells DW's Ben Fajzullin who is next in line and what is in store for travellers the world over, who had become accustomed to",
       "video_id": "21vSztkMx4g",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-20T21:30:00+00:00",
       "image": "https://img.youtube.com/vi/37wsOj3iCmU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "US attacks and seizes Iranian vessel ahead of peace talks | BBC News",
-      "summary": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.\n \nIran said it was a violation of the ceasefire and it would retaliate soon for an \"act of armed piracy\".\n \nAhead of Wednesday's ceasefire deadline, the next phase of peace talks is now uncertain.\n \nMeanwhile, a US delegation headed by Vice-President JD Vance will travel to P",
-      "video_id": "WhBll7gdcSU",
-      "link": "https://www.youtube.com/watch?v=WhBll7gdcSU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/WhBll7gdcSU",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-20T21:00:31+00:00",
-      "image": "https://img.youtube.com/vi/WhBll7gdcSU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "US seizure of Iranian cargo ship fuels tensions, oil price surge",
-      "summary": "Tensions between the US and Iran have escalated once more after US marines seized an Iranian cargo ship in the Gulf of Oman. Washington claims the vessel tried to get past a US blockade on Iranian ports. Iran calls it an act of piracy and says it has no plans to attend any talks with US negotiators.\nDW asked Middle East analyst Laura Blumenfeld from Johns Hopkins University, how much the latest US",
-      "video_id": "GRnJHJZnjp0",
-      "link": "https://www.youtube.com/watch?v=GRnJHJZnjp0",
-      "embed_url": "https://www.youtube-nocookie.com/embed/GRnJHJZnjp0",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-20T17:53:31+00:00",
-      "image": "https://img.youtube.com/vi/GRnJHJZnjp0/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-04T09:12:31.124852+00:00",
+  "last_updated": "2026-05-04T11:19:21.920812+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
