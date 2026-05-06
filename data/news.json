@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Massive fire in a Tehran mall kills eight people | DW News",
+      "summary": "A fire ripped through a shopping center in the west of Iran\u2019s capital. At least eight people were killed, dozens were injured. #dwnews \n\n#tehran #iran \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.facebook.com/deutschewellenews/\n\u25baTwitter: https://twitter.com/dwnews",
+      "video_id": "5qvRkzaDkfI",
+      "link": "https://www.youtube.com/watch?v=5qvRkzaDkfI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/5qvRkzaDkfI",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-05-06T22:48:22+00:00",
+      "image": "https://img.youtube.com/vi/5qvRkzaDkfI/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "How close are Iran and the US to striking a deal to end the war? | DW News",
       "summary": "The US and Iran appear to be inching toward an agreement to end their war, even as Donald Trump amplifies his threats against Tehran. US President Trump posted on Truth Social that if Iran accepts the latest US offer, the war will end and both sides' blockade of the Strait of Hormuz will be lifted. But he also wrote, \"If they don\u2019t agree, the bombing starts, and it will be, sadly, at a much higher",
       "video_id": "v4w2S0Hh1m4",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-23T16:21:14+00:00",
       "image": "https://img.youtube.com/vi/bl7ymm1arFE/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Iran Opposition figure Reza Pahlavi tests support in Berlin amid protests | DW News",
-      "summary": "Reza Pahlavi, the son of Iran\u2019s last Shah, has re-emerged as a prominent opposition voice. Visiting Berlin on Thursday, he accused Europe of standing by as Iran\u2019s regime represses its people with violence. His trip has been contentious: the German government declined to meet with him, he was greeted by protests both for and against him, and at one point was even targeted with tomato sauce. The div",
-      "video_id": "jPhysbi0MYw",
-      "link": "https://www.youtube.com/watch?v=jPhysbi0MYw",
-      "embed_url": "https://www.youtube-nocookie.com/embed/jPhysbi0MYw",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-23T16:08:30+00:00",
-      "image": "https://img.youtube.com/vi/jPhysbi0MYw/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-06T22:10:43.006098+00:00",
+  "last_updated": "2026-05-06T23:07:28.322199+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
