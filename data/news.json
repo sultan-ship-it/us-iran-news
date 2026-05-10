@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Iran sends its response to President Trump's latest proposal aimed at ending the war | BBC News",
+      "summary": "Iran says it has sent its response to US proposals to end the war - Pakistani mediators say it has been passed on to Washington, but did not give further details.\n\nA Qatari ship carrying liquid gas has passed through the Strait of Hormuz with Iranian permission - though drone strikes on other vessels have continued.\n\nIran demands a series of guarantees for taking part in the World Cup which begins",
+      "video_id": "qPnJBQXKLjY",
+      "link": "https://www.youtube.com/watch?v=qPnJBQXKLjY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/qPnJBQXKLjY",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-05-10T19:59:00+00:00",
+      "image": "https://img.youtube.com/vi/qPnJBQXKLjY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "This Week with George Stephanopoulos Full Broadcast - Sunday, May 10, 2026",
       "summary": "U.N. Amb. Mike Waltz joins \u2018This Week\u2019 to discuss the ongoing negotiations between the U.S. and Iran. Adm. William McRaven, former U.S. Special Operations commander, discusses what could come next for the war. ABC News\u2019 Washington Bureau Chief Rick Klein breaks down how recent court rulings on redistricting could impact the midterms.\n \n00:00 Intro\n03:38 ABC News\u2019 Maggie Rulli reports from Tenerife",
       "video_id": "YfAiEnbcN8o",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-25T19:30:51+00:00",
       "image": "https://img.youtube.com/vi/_gz2c5_Idzw/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Debrief: Trump\u2019s Ceasefire Gamble",
-      "summary": "Missed the headlines? Catch up quick, with Debrief. As the clock was set to run out on the so-called ceasefires between the US and Iran, US President Donald Trump came in with an extension without a deadline. But his positive outlook on peace comes with dire threats of annihilation, and an ongoing chokehold on global energy supplies.\n\nIn southern Lebanon, an extended ceasefire hasn\u2019t meant that mo",
-      "video_id": "UlzNch7GhN0",
-      "link": "https://www.youtube.com/watch?v=UlzNch7GhN0",
-      "embed_url": "https://www.youtube-nocookie.com/embed/UlzNch7GhN0",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-25T16:50:19+00:00",
-      "image": "https://img.youtube.com/vi/UlzNch7GhN0/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-10T19:46:26.771154+00:00",
+  "last_updated": "2026-05-10T20:33:42.922692+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
