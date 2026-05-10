@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "This Week with George Stephanopoulos Full Broadcast - Sunday, May 10, 2026",
+      "summary": "U.N. Amb. Mike Waltz joins \u2018This Week\u2019 to discuss the ongoing negotiations between the U.S. and Iran. Adm. William McRaven, former U.S. Special Operations commander, discusses what could come next for the war. ABC News\u2019 Washington Bureau Chief Rick Klein breaks down how recent court rulings on redistricting could impact the midterms.\n \n00:00 Intro\n03:38 ABC News\u2019 Maggie Rulli reports from Tenerife",
+      "video_id": "YfAiEnbcN8o",
+      "link": "https://www.youtube.com/watch?v=YfAiEnbcN8o",
+      "embed_url": "https://www.youtube-nocookie.com/embed/YfAiEnbcN8o",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-10T18:00:35+00:00",
+      "image": "https://img.youtube.com/vi/YfAiEnbcN8o/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Iran sends response to US proposal via Pakistan",
       "summary": "Iran has sent its response to a US proposal aimed at ending the war in the Middle East. It's been conveyed to Washington via Pakistani mediators although the details are yet to emerge. Iran has threatened to target US sites in the region if its tankers come under fire, and says any vessels from countries complying with US sanctions will face difficulties crossing the Strait of Hormuz. Craig Boswel",
       "video_id": "dyaoq-9AdLI",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-25T16:50:19+00:00",
       "image": "https://img.youtube.com/vi/UlzNch7GhN0/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Germany\u2019s Merz calls Iran war 'completely unnecessary,\u2019 says shockwaves also hit the US",
-      "summary": "German Chancellor Friedrich Merz described the US-Israeli war with Iran as \u201ccompletely unnecessary\u201d on April 25. Speaking after an informal EU summit in Cyprus, Merz said the conflict\u2019s geopolitical shockwaves were affecting energy markets in Europe, Asia and the United States. He stressed that only a united Europe could effectively tackle the major challenges arising from the war.\n\nSubscribe: htt",
-      "video_id": "ICPLa3nNVno",
-      "link": "https://www.youtube.com/watch?v=ICPLa3nNVno",
-      "embed_url": "https://www.youtube-nocookie.com/embed/ICPLa3nNVno",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-25T16:09:46+00:00",
-      "image": "https://img.youtube.com/vi/ICPLa3nNVno/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-10T17:37:43.820645+00:00",
+  "last_updated": "2026-05-10T18:39:34.796798+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
