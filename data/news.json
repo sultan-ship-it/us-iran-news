@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Farmers in Sudan battle rising fuel and fertiliser prices",
+      "summary": "Farmers in war-torn Khartoum are returning to their lands, only to find themselves caught in a global economic crisis. As the war on Iran chokes off vital shipping routes, the rising cost of fertiliser has turned a season of hope into one of survival. Hope Kirubi reports.",
+      "video_id": "91VhpiwhFSA",
+      "link": "https://www.youtube.com/watch?v=91VhpiwhFSA",
+      "embed_url": "https://www.youtube-nocookie.com/embed/91VhpiwhFSA",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-05-10T07:30:12+00:00",
+      "image": "https://img.youtube.com/vi/91VhpiwhFSA/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Why are major powers interested in Iraqi Kurdish regions? | DW News",
       "summary": "The region in north-eastern Iraq is at the center of geopolitical tensions. Iranian Kurdish fighters there are ready to take up the fight against the Iranian regime, while competing interests from the US, Iran, and Turkey place Iraq\u2019s Kurds in a difficult position.\n\n#dwgeopolitics #iraq #iran\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.",
       "video_id": "0nWzYp-GaB4",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-25T11:14:22+00:00",
       "image": "https://img.youtube.com/vi/8MSG2jIaerw/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "China is profiting from increased demand for renewable energy | To the point",
-      "summary": "As Washington struggles to justify its deepening involvement in Iran, China steps in as a careful power broker, pushing its agenda with precision. Is China turning this war into a strategic victory?\n\nYou can watch the entire episode here: https://youtu.be/ahwwaTEMd1U\n\n#dwcurrentaffairs #oilshock #iranwar #china\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: htt",
-      "video_id": "mlKkzGFso9A",
-      "link": "https://www.youtube.com/watch?v=mlKkzGFso9A",
-      "embed_url": "https://www.youtube-nocookie.com/embed/mlKkzGFso9A",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-25T10:01:20+00:00",
-      "image": "https://img.youtube.com/vi/mlKkzGFso9A/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-10T06:44:36.837062+00:00",
+  "last_updated": "2026-05-10T08:32:45.062421+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
