@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "DOJ investigating possible cases of insider trading",
+      "summary": "The Justice Department is investigating people cashing in on more than $2 billion in profits from suspiciously timed oil trades tied to the war with Iran, sources say.\n\n----\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app",
+      "video_id": "w5zYrHGYsmA",
+      "link": "https://www.youtube.com/watch?v=w5zYrHGYsmA",
+      "embed_url": "https://www.youtube-nocookie.com/embed/w5zYrHGYsmA",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-11T01:55:00+00:00",
+      "image": "https://img.youtube.com/vi/w5zYrHGYsmA/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Iran responds to the us proposal to end the war",
+      "summary": "The ceasefire hangs in the balance as Iran responds to the U.S proposal aimed \u200cat ending the more than two-month war and reopening the Strait of Hormuz.\n\n\n----\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app for the lates",
+      "video_id": "73DQ8DtBUng",
+      "link": "https://www.youtube.com/watch?v=73DQ8DtBUng",
+      "embed_url": "https://www.youtube-nocookie.com/embed/73DQ8DtBUng",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-11T01:50:01+00:00",
+      "image": "https://img.youtube.com/vi/73DQ8DtBUng/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump: Iran\u2019s response to peace plan \u2018totally unacceptable\u2019",
       "summary": "US President Donald Trump dismissed Iran's reply to a US peace proposal as \"totally unacceptable,\" as the month-old ceasefire wavered amid reported drone strikes across the Gulf.  \n\n#iranwar #hormuz #trump #dwnews    \n\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.f",
       "video_id": "IF_CFT_2iIk",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-26T08:55:50+00:00",
       "image": "https://img.youtube.com/vi/5qKzHBAaiMQ/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "US blockade of Hormuz piles pressure on Iranian oil exports",
-      "summary": "The US blockade of Iranian ports is putting strain on Iran's economy, with warnings the country could run out of oil storage capacity within weeks. Production cuts right now are costing the economy an estimated $435M a day. Matilda Mothoatlhaga reports.",
-      "video_id": "hMRL3DtClEg",
-      "link": "https://www.youtube.com/watch?v=hMRL3DtClEg",
-      "embed_url": "https://www.youtube-nocookie.com/embed/hMRL3DtClEg",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-26T08:02:40+00:00",
-      "image": "https://img.youtube.com/vi/hMRL3DtClEg/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump cancels Witkoff and Kushner Pakistan trip",
-      "summary": "US President Donald Trump cancelled a Saturday visit to Islamabad by Steve Witkoff and Jared Kushner for potential talks with Iran, describing the visit as unnecessary and a waste of time. Craig Boswell reports from Washington.",
-      "video_id": "Ev6Dh2PiBfI",
-      "link": "https://www.youtube.com/watch?v=Ev6Dh2PiBfI",
-      "embed_url": "https://www.youtube-nocookie.com/embed/Ev6Dh2PiBfI",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-04-26T06:21:18+00:00",
-      "image": "https://img.youtube.com/vi/Ev6Dh2PiBfI/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-11T05:40:30.747903+00:00",
+  "last_updated": "2026-05-11T08:48:28.642480+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
