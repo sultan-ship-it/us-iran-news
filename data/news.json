@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "ABC World News Tonight with David Muir Full Broadcast - May 12, 2026",
+      "summary": "Rebecca Jarvis reports on what many Americans are saying about the strain of inflation after the biggest cost-of-living jump in three years, driven by the war with Iran; As the number of hantavirus cases linked to a luxury cruise ship continues to rise, Victor Oquendo has the latest on health officials now tracking 18 people across 10 U.S. states; Jay O\u2019Brien has details on FBI Director Kash Patel",
+      "video_id": "nDBXjUatV0U",
+      "link": "https://www.youtube.com/watch?v=nDBXjUatV0U",
+      "embed_url": "https://www.youtube-nocookie.com/embed/nDBXjUatV0U",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-13T02:00:40+00:00",
+      "image": "https://img.youtube.com/vi/nDBXjUatV0U/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump travels to China for high-stakes summit with Xi",
       "summary": "It comes as Pres. Trump insists he doesn't need China's help to end the war with Iran.\n\n\u2013\u2013\u2013\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\nWatch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch?v=gN0PZCe-kwQ&amp;ab_channel=ABCNews\nWatch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist?list=PL",
       "video_id": "ZU0yLHXUolo",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-28T19:08:14+00:00",
       "image": "https://img.youtube.com/vi/fvP38JxcciY/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "BP doubles profits on day 60 of Iran War | BBC News",
-      "summary": "BP's profits for the first three months of the year have more than doubled following a surge in oil prices since the beginning of the Iran war.\n \nUS President Donald Trump claims that Iran has told the US it is in a state of \"collapse\" and would like the US to reopen the Strait of Hormuz as soon as possible.\n \nMeanwhile, a superyacht linked to one of Russian President Vladimir Putin's key allies h",
-      "video_id": "fvVKRL8lerw",
-      "link": "https://www.youtube.com/watch?v=fvVKRL8lerw",
-      "embed_url": "https://www.youtube-nocookie.com/embed/fvVKRL8lerw",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-28T19:23:30+00:00",
-      "image": "https://img.youtube.com/vi/fvVKRL8lerw/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-13T01:46:10.692647+00:00",
+  "last_updated": "2026-05-13T05:37:03.187352+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
