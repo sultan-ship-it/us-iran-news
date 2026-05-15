@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Hormuz blockade threatens global oil supplies | DW News",
+      "summary": "The Iran war and the blockade of the Strait of Hormuz are rattling global energy markets, with fears of rising fuel prices and wider economic fallout. International Energy Agency chief Fatih Birol warns the world could face a serious energy shock. Former CIA executive William Usher joins DW to assess the risks and who may be hit hardest.\n\nChapters: \n00:00 Energy crisis at historic scale  \n00:26 St",
+      "video_id": "oEUc2cFuuH8",
+      "link": "https://www.youtube.com/watch?v=oEUc2cFuuH8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/oEUc2cFuuH8",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-05-15T20:30:12+00:00",
+      "image": "https://img.youtube.com/vi/oEUc2cFuuH8/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "The rise of foreign influence in poor communities",
+      "summary": "In southern Serbia, the Roma community has long been neglected by the state and traditional institutions. An evangelical church has become their place of worship, welfare, discipline and belonging, raising bigger questions about why such movements grow where poverty and exclusion are deepest.",
+      "video_id": "tpkk3q4exY4",
+      "link": "https://www.youtube.com/watch?v=tpkk3q4exY4",
+      "embed_url": "https://www.youtube-nocookie.com/embed/tpkk3q4exY4",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-05-15T20:26:12+00:00",
+      "image": "https://img.youtube.com/vi/tpkk3q4exY4/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "No major breakthroughs after Trump-Xi talks in Beijing",
       "summary": "US President Donald Trump and Chinese President Xi Jinping held talks in Beijing focused on trade, Iran, Taiwan, and improving US-China relations. The summit highlighted efforts to reset ties between the world\u2019s two largest economies, with both leaders expected to meet again later this year. Laura Westbrook has the story.",
       "video_id": "I6cKygpoNww",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-30T19:16:20+00:00",
       "image": "https://img.youtube.com/vi/Q9dKkK0ksNo/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Did Merz push Trump too far on Iran? | Berlin Briefing Podcast",
-      "summary": "A blunt remark by German Chancellor Friedrich Merz has triggered a sharp response from US President Donald Trump \u2014 and reopened questions about the state of transatlantic relations. After Merz publicly criticized Washington\u2019s handling of Iran, saying the US s being \u201chumiliated\u201d by Iran\u2019s leadership, Trump hinted at reviewing the US troop presence in Germany, raising security and diplomatic stakes.",
-      "video_id": "K_9JBhZ2Icc",
-      "link": "https://www.youtube.com/watch?v=K_9JBhZ2Icc",
-      "embed_url": "https://www.youtube-nocookie.com/embed/K_9JBhZ2Icc",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-04-30T18:00:59+00:00",
-      "image": "https://img.youtube.com/vi/K_9JBhZ2Icc/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Hegseth grilled by senators about $25 billion price tag on Operation Epic Fury",
-      "summary": "Secretary of Defense Pete Hegseth is back on the hill for a second day facing senators in heated back and forth moments over the war with Iran.",
-      "video_id": "6FdRegT5DiM",
-      "link": "https://www.youtube.com/watch?v=6FdRegT5DiM",
-      "embed_url": "https://www.youtube-nocookie.com/embed/6FdRegT5DiM",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-04-30T18:11:59+00:00",
-      "image": "https://img.youtube.com/vi/6FdRegT5DiM/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-15T19:51:38.181583+00:00",
+  "last_updated": "2026-05-15T20:55:35.875652+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
