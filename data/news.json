@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Trump returns from China as questions linger over Iran and Taiwan",
+      "summary": "ABC News' Olivia Rubin discusses the aftermath of President Trump's trip to China and his announcement of the death of an ISIS leader in Africa.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch?v=gN0PZCe-kwQ&amp;ab_channel=ABCNews \n\nWatch full episodes of World News Tonight w",
+      "video_id": "CU7YtvFgnow",
+      "link": "https://www.youtube.com/watch?v=CU7YtvFgnow",
+      "embed_url": "https://www.youtube-nocookie.com/embed/CU7YtvFgnow",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-16T19:00:17+00:00",
+      "image": "https://img.youtube.com/vi/CU7YtvFgnow/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Debrief: Xi Said, He Said | Trump\u2019s Visit to Beijing",
       "summary": "Missed the headlines? Catch up quick, with Debrief. US President Donald Trump\u2019s trip to Beijing had him rubbing shoulders with Chinese President Xi Jinping \u2014 but is the display of friendship bad news for Iran and Taiwan? And southern Lebanon is still reeling under daily Israeli airstrikes, as the US tries to broker a deal between Tel Aviv and Beirut.\n\nAll that plus more stories from the week: Iran",
       "video_id": "qxLlr6p2MzQ",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-01T03:33:04+00:00",
       "image": "https://img.youtube.com/vi/0InTF5_ykYM/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "World Cup 2026: FIFA President says Iran will play in the US | DW News",
-      "summary": "FIFA President Gianni Infantino insisted Iran will play World Cup matches in the United States, even as the world football governing body's congress began in the absence of the Iranian delegation. \n\n#fifa #iran #usa \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.fac",
-      "video_id": "7RQ4HS6a62I",
-      "link": "https://www.youtube.com/watch?v=7RQ4HS6a62I",
-      "embed_url": "https://www.youtube-nocookie.com/embed/7RQ4HS6a62I",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-01T01:57:24+00:00",
-      "image": "https://img.youtube.com/vi/7RQ4HS6a62I/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-16T18:10:30.914015+00:00",
+  "last_updated": "2026-05-16T19:34:45.738939+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
