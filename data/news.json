@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension | BBC News",
+      "summary": "An Israeli air strike on a town in southern Lebanon has killed six people, including three paramedics, according to Lebanon's health ministry.\n \nIsrael has intensified its air and artillery strikes in recent days, particularly in southern Lebanon, saying it was targeting Hezbollah fighters and infrastructure. Lebanon's health ministry has accused Israel of targeting civilians and paramedics, which",
+      "video_id": "xZkz_YEMXqY",
+      "link": "https://www.youtube.com/watch?v=xZkz_YEMXqY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/xZkz_YEMXqY",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-05-16T20:30:06+00:00",
+      "image": "https://img.youtube.com/vi/xZkz_YEMXqY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump returns from China as questions linger over Iran and Taiwan",
       "summary": "ABC News' Olivia Rubin discusses the aftermath of President Trump's trip to China and his announcement of the death of an ISIS leader in Africa.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nWatch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch?v=gN0PZCe-kwQ&amp;ab_channel=ABCNews \n\nWatch full episodes of World News Tonight w",
       "video_id": "CU7YtvFgnow",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-01T06:03:00+00:00",
       "image": "https://img.youtube.com/vi/DfEZ_nnecdI/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Has the Iran war strengthened the regime's resolve? | DW News",
-      "summary": "Even if Tehran negotiates with the US to end the current war, its new 'weapon of mass disruption' in the Strait of Hormuz has left the regime more brazen than before, says Sina Azodi, author of the book 'Iran and the Bomb: The United States, Iran, and the Nuclear Question.'\n\n#iranwar #usa #trump #iran #nuclearweapons #straitofhormuz \n\n00:00 Trump says Iran 'choking like a stuffed pig'\n00:19 Iran s",
-      "video_id": "0InTF5_ykYM",
-      "link": "https://www.youtube.com/watch?v=0InTF5_ykYM",
-      "embed_url": "https://www.youtube-nocookie.com/embed/0InTF5_ykYM",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-01T03:33:04+00:00",
-      "image": "https://img.youtube.com/vi/0InTF5_ykYM/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-16T20:25:52.095185+00:00",
+  "last_updated": "2026-05-16T21:25:51.129917+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
