@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Residents in an Atlanta neighborhood are raising concerns over Waymo self-driving vehicles",
+      "summary": "Residents in a northwest Atlanta neighborhood are raising concerns over Waymo self-driving vehicles crowding their streets.\n\n\"It's almost every little cul-de-sac in our area, so I think it's a problem,\" a resident told WSB-TV.",
+      "video_id": "zNO8ZCsdrzw",
+      "link": "https://www.youtube.com/watch?v=zNO8ZCsdrzw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/zNO8ZCsdrzw",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-16T02:01:00+00:00",
+      "image": "https://img.youtube.com/vi/zNO8ZCsdrzw/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Donald Trump says Xi Jinping wants Strait of Hormuz opened | BBC News",
       "summary": "For weeks, we've been waiting for the US and Iran to return to the negotiating table.\n \nNeither side has been willing to compromise - but could China move things forwards?\n \nOn Air Force One on his way back to the US, President Donald Trump said his meetings with Xi Jinping went \"very well\" and that the Chinese president wanted to see the Strait of Hormuz opened.\n \nMeanwhile, Israel and Lebanon ha",
       "video_id": "RoDiW4NM19c",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-04-30T20:23:57+00:00",
       "image": "https://img.youtube.com/vi/likWRRZY33c/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "How will the UK economy be hit by Iran war? | BBC News",
-      "summary": "Today, after a week of warning\u2019s from the government over the financial impact of the war in Iran - is the reality starting to hit home?  \n\nAdam, Chris and Faisal are joined by Ailbhe Rea, Political Editor of the New Statesman, to discuss how the financial effects could be felt all over the country? It comes after the Bank of England warns interest rates could rise this year following a \u201csignifica",
-      "video_id": "wmpiGnei6RI",
-      "link": "https://www.youtube.com/watch?v=wmpiGnei6RI",
-      "embed_url": "https://www.youtube-nocookie.com/embed/wmpiGnei6RI",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-04-30T20:58:10+00:00",
-      "image": "https://img.youtube.com/vi/wmpiGnei6RI/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-16T00:07:33.593186+00:00",
+  "last_updated": "2026-05-16T04:01:06.528590+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
