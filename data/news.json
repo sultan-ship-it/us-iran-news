@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Trump says the clock is ticking for Iran and warns Tehran to move fast",
+      "summary": "Diplomatic talks between the US and Iran remain deadlocked, with Washington reportedly rejecting key Iranian demands, including war reparations and lifting the Hormuz blockade. Meanwhile, the US is keeping military options on the table as Pakistan continues mediation efforts with no breakthrough so far. Leone Lakhani reports from Washington DC.",
+      "video_id": "M68Y15dBQXI",
+      "link": "https://www.youtube.com/watch?v=M68Y15dBQXI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/M68Y15dBQXI",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-05-17T20:10:00+00:00",
+      "image": "https://img.youtube.com/vi/M68Y15dBQXI/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Hezbollah drone strike videos show evolving tactics against Israel. #Israel #Lebanon #BBCNews",
       "summary": "",
       "video_id": "mtkyom9C-ME",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-01T09:01:47+00:00",
       "image": "https://img.youtube.com/vi/84CRuj7tZX4/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Ships are paying millions to cross the Panama Canal amid the Iran War | DW News",
-      "summary": "The Panama Canal is becoming an economic chokepoint for the world economy. Since shipping traffic through the Strait of Hormuz has collapsed, global cargo ships must find alternative routes.\n\n#dwbusiness #iranwar #panamacanal #trade \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook",
-      "video_id": "k7MasojLaRA",
-      "link": "https://www.youtube.com/watch?v=k7MasojLaRA",
-      "embed_url": "https://www.youtube-nocookie.com/embed/k7MasojLaRA",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-01T07:00:45+00:00",
-      "image": "https://img.youtube.com/vi/k7MasojLaRA/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-17T19:39:58.866043+00:00",
+  "last_updated": "2026-05-17T20:33:21.132255+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
