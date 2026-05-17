@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel. #Israel #Lebanon #BBCNews",
+      "summary": "",
+      "video_id": "mtkyom9C-ME",
+      "link": "https://www.youtube.com/watch?v=mtkyom9C-ME",
+      "embed_url": "https://www.youtube-nocookie.com/embed/mtkyom9C-ME",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-05-17T13:45:08+00:00",
+      "image": "https://img.youtube.com/vi/mtkyom9C-ME/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension | BBC News",
       "summary": "An Israeli air strike on a town in southern Lebanon has killed six people, including three paramedics, according to Lebanon's health ministry.\n \nIsrael has intensified its air and artillery strikes in recent days, particularly in southern Lebanon, saying it was targeting Hezbollah fighters and infrastructure. Lebanon's health ministry has accused Israel of targeting civilians and paramedics, which",
       "video_id": "xZkz_YEMXqY",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-01T07:00:45+00:00",
       "image": "https://img.youtube.com/vi/k7MasojLaRA/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Could post\u2011Assad Syria become an ally in Israel\u2019s fight against Hezbollah? | DW News",
-      "summary": "The ceasefire between Israel and Lebanon is still officially in place, but Israeli airstrikes have not stopped. Israel continues to target what it says are Hezbollah strongholds in southern Lebanon, while Hezbollah keeps firing rockets into northern Israel. The conflict has been largely overshadowed by the war with Iran. Ahmad Sharawi of the Foundation for Defense of Democracies believes that Isra",
-      "video_id": "DfEZ_nnecdI",
-      "link": "https://www.youtube.com/watch?v=DfEZ_nnecdI",
-      "embed_url": "https://www.youtube-nocookie.com/embed/DfEZ_nnecdI",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-01T06:03:00+00:00",
-      "image": "https://img.youtube.com/vi/DfEZ_nnecdI/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-17T12:07:57.635142+00:00",
+  "last_updated": "2026-05-17T13:56:38.839487+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
