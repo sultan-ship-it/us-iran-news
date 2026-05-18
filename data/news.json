@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Ebola outbreak: CDC confirms 1 American has tested positive & other trending stories  | Searched",
+      "summary": "ABC News Live is breaking down the top stories trending today:\n \n- Ebola outbreak: Answering questions on the virus after CDC said it's preparing to restrict entry for travelers. \n- Video shows midair collision between two jets ends with pilots ejecting to safety. \n- Continued tensions between US and Iran lead to rising oil prices as Strait of Hormuz remains closed. \n- E-commerce giant Shein just ",
+      "video_id": "DAzaMagKNrY",
+      "link": "https://www.youtube.com/watch?v=DAzaMagKNrY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/DAzaMagKNrY",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-18T23:32:09+00:00",
+      "image": "https://img.youtube.com/vi/DAzaMagKNrY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump readies Iran strike amid renewed negotiations | DW News",
       "summary": "US President Donald Trump warned Iran that \"the clock is ticking,\" saying there could be \"nothing left\" if talks fail. It's the same pattern as before \u2014 big threats in public, then a step back as quiet diplomacy keeps going.\n\nChapters:\n00:00 Trump warns Iran: \"Clock is ticking\"\n01:07 Expert on Trump\u2019s familiar threat pattern\n02:22 Ongoing talks and exchanged proposals\n03:47 Nuclear dispute and neg",
       "video_id": "FNEoDIV_NLk",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-01T14:23:24+00:00",
       "image": "https://img.youtube.com/vi/nqlJravMFbM/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Why Putin\u2019s Arctic shipping route can\u2019t replace Hormuz | DW News",
-      "summary": "Major shipping routes like the Strait Hormuz are being disrupted by the Iran war. That\u2019s why Russian President Vladimir Putin is pointing to another passage: In the Arctic. But is the Northern Sea Route really the alternative he paints it to be? \n\n#DWGeopolitics\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www",
-      "video_id": "YkqKskP7mSU",
-      "link": "https://www.youtube.com/watch?v=YkqKskP7mSU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/YkqKskP7mSU",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-01T13:01:09+00:00",
-      "image": "https://img.youtube.com/vi/YkqKskP7mSU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-18T22:43:14.978419+00:00",
+  "last_updated": "2026-05-18T23:49:45.905229+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
