@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "German FM hopes US will 'carefully review' Iran's response to its proposals |\u00a0DW News",
+      "summary": "Germany's foreign minister says Turkey has the potential to exert considerable influence over the wars in both Ukraine and Iran. \n \nSpeaking alongside his Turkish counterpart, Johann Wadephul said he continues to believe that a negotiated solution to the Iran conflict is possible.\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25ba",
+      "video_id": "EXBpANXBZHI",
+      "link": "https://www.youtube.com/watch?v=EXBpANXBZHI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/EXBpANXBZHI",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-05-18T19:07:36+00:00",
+      "image": "https://img.youtube.com/vi/EXBpANXBZHI/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Ebola outbreak explained: What you need to know | BBC News",
       "summary": "The World Health Organization (WHO) has declared an Ebola outbreak in the Democratic Republic of Congo a public health emergency of international concern.\n \nBBC Health correspondent Dominic Hughes talks through some of the key questions about the virus - including how it spreads, how deadly it is, and why this outbreak is raising concern.\n \nRead more: https://www.bbc.co.uk/news/articles/cz72p75zg4",
       "video_id": "Ot_ECpbg9dM",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-01T11:24:56+00:00",
       "image": "https://img.youtube.com/vi/-FDn7exBKyY/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Some drivers cutting back as gas soars to highest prices in 4 years",
-      "summary": "With the national average for a gallon of gas hitting the highest prices in four years on Thursday, some consumers say they're finding it difficult to afford to top off their tanks.\n\nThe national average for a gallon of regular gasoline reached $4.30 on Thursday, a jump of 8 cents a gallon overnight and $1.33 a gallon since the war in Iran began on Feb. 28, according to AAA.\n\nSubscribe to ABC News",
-      "video_id": "0F6YoBmYgfo",
-      "link": "https://www.youtube.com/watch?v=0F6YoBmYgfo",
-      "embed_url": "https://www.youtube-nocookie.com/embed/0F6YoBmYgfo",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-01T10:55:00+00:00",
-      "image": "https://img.youtube.com/vi/0F6YoBmYgfo/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-18T18:50:29.145461+00:00",
+  "last_updated": "2026-05-18T20:22:27.328395+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
