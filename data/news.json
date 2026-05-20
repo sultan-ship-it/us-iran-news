@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "War Translated",
+      "author": "@wartranslated",
+      "title": "In the Chernihiv region, an elevated radiation level was detected in the wreckage of a downed Shahed drone. Radiation wa\u2026",
+      "summary": "In the Chernihiv region, an elevated radiation level was detected in the wreckage of a downed Shahed drone. Radiation was found in an R-60 missile mounted on the UAV. The missile\u2019s warhead reportedly contained damaging elements made of depleted Uranium-235 and Uranium-238. A gamma radiation level of 12 \u03bcSv/h was recorded, significantly exceeding the natural background radiation level and posing a threat to human health.",
+      "link": "https://t.me/s/wartranslated",
+      "published": "2026-05-20T09:17:51+00:00",
+      "image": "https://cdn4.telesco.pe/file/FqKjCU-9oC0dK7Iv6dZxIQosOGXVPi6MKocNo_d6iB79zltSiQDrGyF9c9N4lS1t0roflnOsDKb_FshFWaH4ZbA-LbYamv4r7kV14QdJOLrP7rjTatnrPJQ1bCTH77eLBFrsndS_yVCzBqj9MRn8DAirMrZhbMaTVfZsKtqOd6_O53dY5zz7I9WcjJ_NVOetH1zAYVOrsRvoeK2_u0062WtOXUqTt1gwyh6rGPYl4V1ydia8hg6q4eXQNw0FeXOu9D7-nnT1o7rEVnb39xuOEElM1BaEkW2wcmdR_kwxX_ihJzyF1attQ3D7G9ekqrOMB7Fz3jH06N4tHAl434y9JA.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/AutoNewsAdmin",
@@ -2989,16 +2999,6 @@
       "link": "https://www.reddit.com/r/petrodollarSIM/comments/1tg71ft/trump_issues_another_unhinged_warning_to_iran/",
       "published": "2026-05-18T00:43:20+00:00",
       "image": "https://external-preview.redd.it/FANbK6GBKP_YPey7KYX0jxDmlncLPDo697lBf0i7wu4.jpeg?width=640&crop=smart&auto=webp&s=f12a789c4bbf6c767cbd7589d59f0da3fbb7a57b"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/conspiracy",
-      "author": "u/AutoNewsAdmin",
-      "title": "[Op-Ed] - Letter: Trump distracts from Epstein with Iran war",
-      "summary": "&#32; submitted by &#32;  /u/AutoNewsAdmin  &#32; to &#32;  r/HONOLULUSAauto   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/HONOLULUSAauto/comments/1tg6yy9/oped_letter_trump_distracts_from_epstein_with/",
-      "published": "2026-05-18T00:40:08+00:00",
-      "image": "https://external-preview.redd.it/Qgb_JqfLmmcTogSCx0c6C72mHCeHRCP4gBFay9LEBRM.jpeg?width=640&crop=smart&auto=webp&s=0742528f9dcbd042f36bbe5cc45e5243bbce5801"
     }
   ],
   "videos": [
@@ -6603,7 +6603,7 @@
       "image": "https://img.youtube.com/vi/HulYOK6ATqk/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-20T08:16:57.324898+00:00",
+  "last_updated": "2026-05-20T11:23:19.347596+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
