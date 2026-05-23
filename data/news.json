@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Trump signals progress in ongoing Iran talks",
+      "summary": "The United States and Iran are discussing a draft agreement aimed at extending the ceasefire and ending the conflict, with negotiations expected to address issues including Iran\u2019s nuclear program and the Strait of Hormuz. While President Donald Trump said he may still resume attacks if necessary, Iranian officials insist the proposed memorandum must bring a complete end to the war before detailed ",
+      "video_id": "0ftsKP3Gkfc",
+      "link": "https://www.youtube.com/watch?v=0ftsKP3Gkfc",
+      "embed_url": "https://www.youtube-nocookie.com/embed/0ftsKP3Gkfc",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-05-23T21:05:13+00:00",
+      "image": "https://img.youtube.com/vi/0ftsKP3Gkfc/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Debrief: Ben Gvir Taunts Flotilla Activists, Iran Talks Drag On",
       "summary": "Missed the headlines? Catch up quick, with Debrief. Hundreds of activists with the Global Sumud Flotilla heading to Gaza saw a major escalation when they were attacked, detained, and tortured by Israeli soldiers after their ships were intercepted at sea. And while negotiations between the US and Iran are ongoing, US President Donald Trump\u2019s take on the chances for peace are somewhere between a dea",
       "video_id": "b7ZpU6wFgfU",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-05T01:00:39+00:00",
       "image": "https://img.youtube.com/vi/f0Xq2BVFRpU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Is Germany's chancellor still trying to appease US President Trump? | DW News",
-      "summary": "Merz has been under pressure since Trump criticized him over his suggestion the US was being \"humiliated\" in the Iran conflict. In a major TV interview, Merz appeared to dodge further escalation \u2014 including on questions related to the war in Iran. \n\n#dwgermanpolitics #friedrichmerz #trump \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com",
-      "video_id": "ghhu7UYina8",
-      "link": "https://www.youtube.com/watch?v=ghhu7UYina8",
-      "embed_url": "https://www.youtube-nocookie.com/embed/ghhu7UYina8",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-04T23:30:25+00:00",
-      "image": "https://img.youtube.com/vi/ghhu7UYina8/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-23T21:03:15.057238+00:00",
+  "last_updated": "2026-05-23T22:04:45.186710+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
