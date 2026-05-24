@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "India grapples with economic effects of Iran war",
+      "summary": "India's economy is feeling the ripple effects of the war in the Middle East. From leather factories and local markets to rising transport costs, weaker exports and slowing overseas demand, the impact is being felt on jobs and incomes nationwide. Rumeysa Codar reports.",
+      "video_id": "p-IMMBPsuH8",
+      "link": "https://www.youtube.com/watch?v=p-IMMBPsuH8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/p-IMMBPsuH8",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-05-24T08:27:19+00:00",
+      "image": "https://img.youtube.com/vi/p-IMMBPsuH8/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump: deal with Iran is 'largely negotiated'",
       "summary": "President Trump said Sunday evening that the nearly three-month-old war with Iran could be nearing an end, and it would include opening the Strait of Hormuz.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app for the lates",
       "video_id": "uqL8rAkHuh8",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-05T04:33:38+00:00",
       "image": "https://img.youtube.com/vi/NGQIH6jY0Wk/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "ABC News Live Prime: May 4, 2026",
-      "summary": "Iran fires on U.S. ships in Strait of Hormuz; Secret Service shootout near White House; Avelo Airlines CEO on budget carriers; the National Teacher of the Year; singers M\u00fda and Ashley McBryde.\n\n\u2013\u2013\u2013\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\nWatch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch?v=gN0PZCe-kwQ&amp;ab_channel=AB",
-      "video_id": "nDgI9sPoGm0",
-      "link": "https://www.youtube.com/watch?v=nDgI9sPoGm0",
-      "embed_url": "https://www.youtube-nocookie.com/embed/nDgI9sPoGm0",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-05T03:27:30+00:00",
-      "image": "https://img.youtube.com/vi/nDgI9sPoGm0/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-24T07:42:35.072213+00:00",
+  "last_updated": "2026-05-24T09:33:01.825732+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
