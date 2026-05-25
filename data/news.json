@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Oil prices slide on hopes of US-Iran peace deal | BBC News",
+      "summary": "Oil prices have fallen sharply and Asian stock markets have risen on hopes of a deal that could bring an end to the US-Israel war with Iran.\n\nUS Secretary of State Marco Rubio said during a visit to India that negotiators had a \"pretty solid thing on the table\" and an agreement to end the conflict might be reached on Monday.\n\nIran's foreign ministry spokesperson Esmail Baghaei said at the weekend ",
+      "video_id": "yLot6GxUmdw",
+      "link": "https://www.youtube.com/watch?v=yLot6GxUmdw",
+      "embed_url": "https://www.youtube-nocookie.com/embed/yLot6GxUmdw",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-05-25T10:45:00+00:00",
+      "image": "https://img.youtube.com/vi/yLot6GxUmdw/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "UN warns of rising Palestinian displacement in occupied West Bank",
       "summary": "The UN says Israel\u2019s home demolitions and forced displacements in the occupied West Bank, including plans to destroy an entire village, are leaving thousands of Palestinians homeless and raising fears of annexation. Zena Tahhan reports from occupied West Bank.",
       "video_id": "B9275gnlqEU",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-05T10:48:00+00:00",
       "image": "https://img.youtube.com/vi/TQhU2tWJ6p4/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Oil, war, and bottlenecks: rethinking the Strait of Hormuz | DW News",
-      "summary": "Will the current crisis encourage producers to\u202fdiversify away from the Strait of Hormuz, build alternative transport routes, reroute oil through Eurasia or other countries?\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.facebook.com/deutschewellenews/\n\u25baTwitter: https",
-      "video_id": "kgHbqYG2Ky4",
-      "link": "https://www.youtube.com/watch?v=kgHbqYG2Ky4",
-      "embed_url": "https://www.youtube-nocookie.com/embed/kgHbqYG2Ky4",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-05T10:10:24+00:00",
-      "image": "https://img.youtube.com/vi/kgHbqYG2Ky4/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-25T04:57:03.626622+00:00",
+  "last_updated": "2026-05-25T12:42:49.470837+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
