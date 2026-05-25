@@ -2,6 +2,16 @@
   "articles": [
     {
       "platform": "telegram",
+      "source": "OSINT Defender",
+      "author": "@OSINTdefender",
+      "title": "#Iran #USA Mediators are close to finalizing a deal between the US and Iran to extend the ceasefire by 60 days. This agr\u2026",
+      "summary": "#Iran #USA Mediators are close to finalizing a deal between the US and Iran to extend the ceasefire by 60 days. This agreement may include the gradual reopening of the Strait of Hormuz and sanctions relief for Iran. Subscribe to @OSINTdefender Chat room",
+      "link": "https://t.me/s/OSINTdefender",
+      "published": "2026-05-23T15:55:05+00:00",
+      "image": null
+    },
+    {
+      "platform": "telegram",
       "source": "Fars News (EN)",
       "author": "@FarsNews_EN",
       "title": "\ud83d\udcf7 family celebration and show of Yazd's magnificent horses [ \ud83d\udd39 ] (emoji/5940377947226509332) The family celebration and\u2026",
@@ -2989,19 +2999,21 @@
       "link": "https://www.reddit.com/r/DegenBets/comments/1tmhthf/iran_war_live_updates_us_and_iran_agree_in/",
       "published": "2026-05-24T17:04:21+00:00",
       "image": null
-    },
-    {
-      "platform": "reddit",
-      "source": "r/conspiracy",
-      "author": "u/nornalplacard",
-      "title": "Iran War Live Updates: U.S. and Iran Agree in Principle to Reopen Strait of Hormuz, U.S. Official Says",
-      "summary": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump  &#32; submitted by &#32;  /u/nornalplacard  &#32; to &#32;  r/goodnews   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/goodnews/comments/1tmhqvr/iran_war_live_updates_us_and_iran_agree_in/",
-      "published": "2026-05-24T17:01:47+00:00",
-      "image": null
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "Iran: Can diplomacy succeed when both sides keep hedging their positions? | DW News",
+      "summary": "After months of conflict, the United States and Iran are exploring a deal that could pause hostilities and open the door to nuclear negotiations. But threats of further escalation still accompany diplomatic language, blurring the line between negotiation and coercion. Israel, deeply sceptical of Iran\u2019s intentions, is wary of any agreement that does not decisively curb Tehran\u2019s military capabilitie",
+      "video_id": "6dQfAyopA7I",
+      "link": "https://www.youtube.com/watch?v=6dQfAyopA7I",
+      "embed_url": "https://www.youtube-nocookie.com/embed/6dQfAyopA7I",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-05-25T20:45:01+00:00",
+      "image": "https://img.youtube.com/vi/6dQfAyopA7I/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "Trump calls critics of his potential Iran deal 'losers' | BBC News",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-05T14:00:30+00:00",
       "image": "https://img.youtube.com/vi/D44OhSXFgnc/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "'The ceasefire is not over' with Iran, Hegseth says",
-      "summary": "ABC News contributor Mick Mulroy discusses the briefing held by Secretary of Defense Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine.\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app for the latest headlines an",
-      "video_id": "k4jzySDffC8",
-      "link": "https://www.youtube.com/watch?v=k4jzySDffC8",
-      "embed_url": "https://www.youtube-nocookie.com/embed/k4jzySDffC8",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-05T13:01:39+00:00",
-      "image": "https://img.youtube.com/vi/k4jzySDffC8/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-25T20:42:29.251087+00:00",
+  "last_updated": "2026-05-25T21:55:01.120495+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
