@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "UN warns of rising Palestinian displacement in occupied West Bank",
+      "summary": "The UN says Israel\u2019s home demolitions and forced displacements in the occupied West Bank, including plans to destroy an entire village, are leaving thousands of Palestinians homeless and raising fears of annexation. Zena Tahhan reports from occupied West Bank.",
+      "video_id": "B9275gnlqEU",
+      "link": "https://www.youtube.com/watch?v=B9275gnlqEU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/B9275gnlqEU",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-05-25T04:24:08+00:00",
+      "image": "https://img.youtube.com/vi/B9275gnlqEU/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "US,\u00a0Iran inch\u00a0closer to peace deal",
+      "summary": "President Donald Trump\u00a0notes that\u00a0significant differences\u00a0remain\u00a0after\u00a0saying\u00a0a deal could be near.\n\n----\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices",
+      "video_id": "g9ZI7Py4jb0",
+      "link": "https://www.youtube.com/watch?v=g9ZI7Py4jb0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/g9ZI7Py4jb0",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-25T01:30:27+00:00",
+      "image": "https://img.youtube.com/vi/g9ZI7Py4jb0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump says US will not 'rush into a deal' with Iran",
       "summary": "Trump said the US will maintain pressure on Iran until a final nuclear deal is signed, while talks continue amid ongoing regional tensions and Israeli strikes in southern Lebanon. Craig Boswell reports from Washington.",
       "video_id": "YQZt9sXO7h4",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-05T10:10:24+00:00",
       "image": "https://img.youtube.com/vi/kgHbqYG2Ky4/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump says war could stretch 3 more weeks, claims US 'already won'",
-      "summary": "President Donald Trump refused to say whether the ceasefire with Iran was over after Iran fired at the United Arab Emirates and projected that the war could continue for another two or three weeks.\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming covera",
-      "video_id": "0yTjl8qBTTg",
-      "link": "https://www.youtube.com/watch?v=0yTjl8qBTTg",
-      "embed_url": "https://www.youtube-nocookie.com/embed/0yTjl8qBTTg",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-05T10:30:00+00:00",
-      "image": "https://img.youtube.com/vi/0yTjl8qBTTg/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Cracks in the Ceasefire? What You Need to Know \u2013 May 5, 2026",
-      "summary": "Iran fires warning shots at U.S. ships \u2013 testing the fragile ceasefire; the shootout on the National Mall in Washington D.C. in an area packed with tourists - the secret service taking down the shooter - just blocks from the White House; a judge to decide if a purported suicide note from Jeffrey Epstein will be made public; California regulators sue State Farm over the way it says the company hand",
-      "video_id": "xA0gcq-Z18w",
-      "link": "https://www.youtube.com/watch?v=xA0gcq-Z18w",
-      "embed_url": "https://www.youtube-nocookie.com/embed/xA0gcq-Z18w",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-05T09:58:20+00:00",
-      "image": "https://img.youtube.com/vi/xA0gcq-Z18w/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-25T00:15:00.943988+00:00",
+  "last_updated": "2026-05-25T04:57:03.626622+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
