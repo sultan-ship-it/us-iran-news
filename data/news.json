@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "This Week with George Stephanopoulos Full Broadcast - Sunday, May 31, 2026",
+      "summary": "Democratic Sen. Cory Booker, D-N.J., joins \u201cThis Week\u201d in an exclusive interview to discuss the week in politics. NEC Director Kevin Hassett joins \u201cThis Week\u201d to discuss how the Iran war is impacting the economy. ABC News\u2019 Jonathan Karl gives a look at how celebrations for the country\u2019s 250th birthday are already becoming politicized.\n \n00:00 Intro\n01:50 Legal experts Sarah Isgur and Dan Abrams br",
+      "video_id": "JgdOV-Asa4c",
+      "link": "https://www.youtube.com/watch?v=JgdOV-Asa4c",
+      "embed_url": "https://www.youtube-nocookie.com/embed/JgdOV-Asa4c",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-05-31T18:00:30+00:00",
+      "image": "https://img.youtube.com/vi/JgdOV-Asa4c/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "'Killer fungus' destroying invasive plant in UK | BBC News",
       "summary": "A new species of \"killer fungus\" has been discovered that destroys an invasive plant in the UK, raising hopes that native habitats could be restored.\n \nThe scientist who found the moss dieback fungus and is tracking its spread across the UK took the BBC\u2019s Georgina Rannard to South Wales to see the fungus.\n \nIt leaves \"fairy rings of death\" on the heath-star moss which arrived on British soil in th",
       "video_id": "nRHzFgZD0u8",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-08T12:06:00+00:00",
       "image": "https://img.youtube.com/vi/JJ2Hj0UixwE/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump says Strait of Hormuz exchange came after Iran 'trifled with us'",
-      "summary": "President Donald Trump told reporters Thursday the U.S. military struck Iranian targets after \u201cthey trifled with us,\u201d but said the fragile ceasefire remains in place.\n\n--\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app ",
-      "video_id": "uZYkUWfcGtU",
-      "link": "https://www.youtube.com/watch?v=uZYkUWfcGtU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/uZYkUWfcGtU",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-08T10:26:20+00:00",
-      "image": "https://img.youtube.com/vi/uZYkUWfcGtU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-31T17:14:58.282293+00:00",
+  "last_updated": "2026-05-31T18:37:38.704556+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
