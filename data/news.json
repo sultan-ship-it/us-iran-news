@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "'Killer fungus' destroying invasive plant in UK | BBC News",
+      "summary": "A new species of \"killer fungus\" has been discovered that destroys an invasive plant in the UK, raising hopes that native habitats could be restored.\n \nThe scientist who found the moss dieback fungus and is tracking its spread across the UK took the BBC\u2019s Georgina Rannard to South Wales to see the fungus.\n \nIt leaves \"fairy rings of death\" on the heath-star moss which arrived on British soil in th",
+      "video_id": "nRHzFgZD0u8",
+      "link": "https://www.youtube.com/watch?v=nRHzFgZD0u8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/nRHzFgZD0u8",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-05-31T15:00:28+00:00",
+      "image": "https://img.youtube.com/vi/nRHzFgZD0u8/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Several American troops injured in Iranian attack on US base in Kuwait: Source",
       "summary": "A source tells ABC News that several troops and civilian contractors were injured when an Iranian missile strike was intercepted over a U.S. base in Kuwait on Wednesday.\n\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload t",
       "video_id": "TkKp8f7r4J0",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-08T10:26:20+00:00",
       "image": "https://img.youtube.com/vi/uZYkUWfcGtU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Hantavirus Cruise Ship; Oil Profits Surge. What You Need To Know - May 8, 2026",
-      "summary": "Spain prepares for possible evacuations as a hantavirus-affected cruise ship heads toward the Canary Islands; oil companies report major profits amid high gas prices during the war in Iran; a jet skier collides with a whale off the coast; Apple reportedly working on AirPods with built-in cameras; and a rare blue diamond of its kind heads to auction.\n\n--\n\nWatch more episodes of What You Need to Kno",
-      "video_id": "OC_xX_Z4GXA",
-      "link": "https://www.youtube.com/watch?v=OC_xX_Z4GXA",
-      "embed_url": "https://www.youtube-nocookie.com/embed/OC_xX_Z4GXA",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-08T10:11:49+00:00",
-      "image": "https://img.youtube.com/vi/OC_xX_Z4GXA/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-05-31T14:42:24.966299+00:00",
+  "last_updated": "2026-05-31T15:56:00.533712+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
