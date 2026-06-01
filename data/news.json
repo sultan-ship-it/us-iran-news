@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Israel intensifies Lebanon assault after Trump says \u201call shooting will stop\u201d | BBC News",
+      "summary": "Israel's prime minister has ordered attacks on the southern suburbs of Lebanon's capital, Beirut, as its conflict with the Iran-backed armed group Hezbollah escalates.\n\nBenjamin Netanyahu said \"terror targets\" in the Hezbollah stronghold of Dahieh would be struck in response to its rocket and drone attacks on Israeli civilians.\n\nIsrael\u2019s pledge to step up its strikes in Lebanon came hours after th",
+      "video_id": "lyUAhR5Ouw0",
+      "link": "https://www.youtube.com/watch?v=lyUAhR5Ouw0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/lyUAhR5Ouw0",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-06-01T22:51:15+00:00",
+      "image": "https://img.youtube.com/vi/lyUAhR5Ouw0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Iran suspends US talks, warns of wider escalation as Israel targets Lebanon's Tyre | DW News",
       "summary": "Iran has suspended indirect negotiations with the United States, explicitly linking future talks to developments in Lebanon, where Israeli strikes are intensifying. The move suggests Tehran is shifting from diplomacy to pressure through the battlefield, as Hezbollah and Israel exchange fire and civilians are displaced. With France calling for urgent UN talks, the decision highlights how quickly th",
       "video_id": "yVY9lknArXM",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-10T11:01:20+00:00",
       "image": "https://img.youtube.com/vi/rvPQ7vXsYNw/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Farmers in Sudan battle rising fuel and fertiliser prices",
-      "summary": "Farmers in war-torn Khartoum are returning to their lands, only to find themselves caught in a global economic crisis. As the war on Iran chokes off vital shipping routes, the rising cost of fertiliser has turned a season of hope into one of survival. Hope Kirubi reports.",
-      "video_id": "91VhpiwhFSA",
-      "link": "https://www.youtube.com/watch?v=91VhpiwhFSA",
-      "embed_url": "https://www.youtube-nocookie.com/embed/91VhpiwhFSA",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-05-10T07:30:12+00:00",
-      "image": "https://img.youtube.com/vi/91VhpiwhFSA/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-01T21:48:02.833484+00:00",
+  "last_updated": "2026-06-01T23:19:19.544997+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
