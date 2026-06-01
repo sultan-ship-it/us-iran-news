@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "ABC World News Tonight with David Muir Full Broadcast - May 31, 2026",
+      "summary": "Britt Clennett reports as two men remain missing \u2013 days after five others were rescued from a flooded cave in Laos; Andrew Dymburt reports on the bus driver being charged with involuntary manslaughter in a crash that killed five people on I-95 in Virginia; Ian Pannell reports on whether the U-S and Iran are any closer to ending the war. \n\n \n-----------------\n00:00 Intro \n02:32 Days after five men ",
+      "video_id": "Uj4sxuWRtiE",
+      "link": "https://www.youtube.com/watch?v=Uj4sxuWRtiE",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Uj4sxuWRtiE",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-06-01T02:00:07+00:00",
+      "image": "https://img.youtube.com/vi/Uj4sxuWRtiE/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Israel makes deepest advance into Lebanon in 26 years | DW News",
       "summary": "Israel has captured the strategic Beaufort Castle in southern Lebanon, marking its deepest military advance into the country since withdrawing in 2000. Israeli Prime Minister Benjamin Netanyahu says troops have crossed the Litani River and will expand operations against Hezbollah positions in southern Lebanon.\nThe move comes despite an existing ceasefire, and just days before new diplomatic talks ",
       "video_id": "K06xRtpG3WQ",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-08T19:19:30+00:00",
       "image": "https://img.youtube.com/vi/UNGFwoP6ZG8/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Iranian Nobel laureate Narges Mohammadi in critical condition | DW News",
-      "summary": "Jailed Nobel Peace Prize laureate Narges Mohammadi, one of Iran\u2019s most prominent human rights defenders, is in a critical condition after what her family says is mistreatment in prison by the Iranian authorities. \n\n#dwnews #iran #nobelprize #humanrights #nargesmohammadi \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: ht",
-      "video_id": "WMQed8w1CrU",
-      "link": "https://www.youtube.com/watch?v=WMQed8w1CrU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/WMQed8w1CrU",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-08T12:43:52+00:00",
-      "image": "https://img.youtube.com/vi/WMQed8w1CrU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-01T01:36:37.633128+00:00",
+  "last_updated": "2026-06-01T06:32:59.480535+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
