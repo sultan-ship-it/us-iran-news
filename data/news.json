@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Lebanese media says Israeli strikes on Lebanon kill at least 16",
+      "summary": "Heavy Israeli strikes targeting one of the largest cities in southern Lebanon continue. Lebanese media is reporting that at least 16 people were killed in Israeli attacks on Tuesday. That's despite an announcement by US President Donald Trump on Monday that Israel and Hezbollah have agreed to halt the fighting. Meanwhile, a fourth round of negotiations between Israeli and Lebanese officials have b",
+      "video_id": "zuE-ZPTG_58",
+      "link": "https://www.youtube.com/watch?v=zuE-ZPTG_58",
+      "embed_url": "https://www.youtube-nocookie.com/embed/zuE-ZPTG_58",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-06-02T18:41:35+00:00",
+      "image": "https://img.youtube.com/vi/zuE-ZPTG_58/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Hezbollah and Israel come to a partial, US-brokered ceasefire deal after Iran push | DW News",
       "summary": "Hezbollah and Israel have agreed to a Trump-brokered plan for \u2018all shooting\u2019 to stop. This comes after Iran linked any deal with the US to a ceasefire in Lebanon. So what does this mean for Israel\u2019s operational plans in Lebanon? And for the US-Iran negotiations? Biresh Banerjee talks to DW Middle East analyst Shani Rozanes and Dr. Siavush Randjbar-Daemi from the University of St. Andrews.\n\n#dwnews",
       "video_id": "esJVJqLf3do",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-11T01:50:01+00:00",
       "image": "https://img.youtube.com/vi/73DQ8DtBUng/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump: Iran\u2019s response to peace plan \u2018totally unacceptable\u2019",
-      "summary": "US President Donald Trump dismissed Iran's reply to a US peace proposal as \"totally unacceptable,\" as the month-old ceasefire wavered amid reported drone strikes across the Gulf.  \n\n#iranwar #hormuz #trump #dwnews    \n\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://www.tiktok.com/@dwnews\n\u25baFacebook: https://www.f",
-      "video_id": "IF_CFT_2iIk",
-      "link": "https://www.youtube.com/watch?v=IF_CFT_2iIk",
-      "embed_url": "https://www.youtube-nocookie.com/embed/IF_CFT_2iIk",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-11T00:53:00+00:00",
-      "image": "https://img.youtube.com/vi/IF_CFT_2iIk/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-02T15:08:41.413144+00:00",
+  "last_updated": "2026-06-02T18:55:02.996921+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
