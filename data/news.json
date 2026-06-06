@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "This is what Israel\u2019s renewed \u2018ceasefire\u2019 in Lebanon looks like",
+      "summary": "Despite a renewed ceasefire negotiated by the US, Lebanese state media reported fresh Israeli strikes on more than 40 locations Friday killing at least 20.\n\nIsraeli Prime Minister Benjamin Netanyahu said that there is currently no agreement with Lebanon.\n\n\u201cThe ceasefire agreement between Israel and Lebanon has not been fully formulated and is not yet complete. Hezbollah opposes it, and therefore, ",
+      "video_id": "gHCxAtZniKc",
+      "link": "https://www.youtube.com/watch?v=gHCxAtZniKc",
+      "embed_url": "https://www.youtube-nocookie.com/embed/gHCxAtZniKc",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-06-06T05:56:56+00:00",
+      "image": "https://img.youtube.com/vi/gHCxAtZniKc/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Leaked list reveals US withdrawal plans \u2014 what it means for Europe and NATO | DW News",
       "summary": "Reports about a possible US troop reduction in Europe are raising new questions about the future of NATO and transatlantic security. A leaked list, reported by the German newspaper Die Welt, suggests key military capabilities could be affected \u2014 but how serious is the situation really? In this interview, German lawmaker Christoph Schmid explains why Europe is concerned, whether NATO can fill poten",
       "video_id": "oJ42J5PekYQ",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-13T12:42:43+00:00",
       "image": "https://img.youtube.com/vi/HeeVrVS_OrE/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "China gears up for Donald Trump visit | BBC News",
-      "summary": "Donald Trump has predicted that his meeting with Xi Jinping in Beijing will be \u201cvery special\u201d - but is also likely to be fraught. \n\nBoth sides are looking to stabilise the volatile China - US relationship. The talks are likely to centre on how to balance competition in trade and technology. Trump may also be seeking President Xi\u2019s help to end the war in Iran. China will feel it has the upper hand ",
-      "video_id": "B_ggdydo0dE",
-      "link": "https://www.youtube.com/watch?v=B_ggdydo0dE",
-      "embed_url": "https://www.youtube-nocookie.com/embed/B_ggdydo0dE",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-05-13T12:43:37+00:00",
-      "image": "https://img.youtube.com/vi/B_ggdydo0dE/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-06T04:32:19.519494+00:00",
+  "last_updated": "2026-06-06T07:35:48.269194+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
