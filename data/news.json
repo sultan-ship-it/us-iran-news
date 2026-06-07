@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "platform": "telegram",
+      "source": "War Translated",
+      "author": "@wartranslated",
+      "title": "Iran has launched missiles at Israel, Clash Report reports.",
+      "summary": "Iran has launched missiles at Israel, Clash Report reports.",
+      "link": "https://t.me/s/wartranslated",
+      "published": "2026-06-07T19:13:39+00:00",
+      "image": "https://cdn4.telesco.pe/file/nYWuTnSmppCuo75Dce205X-j6SxbyFhg5Dk2A5-S_r8mVd5iNTOq3yPUzD3vdbghQLIm-iPFLTng1KeXkrbREBirRu9p-erwWUmQg_bgRbnrxaCzJNjDa2aHC197x4MSPeTXnX7g2XDpAqf8yyPjAcF1bnBrUAIwA88dvvv_a0YJ4gOHZaeH6bRdy4ZWyFUxmzpuOpWtUcpo8oYv_brIF6gJx-rrj3zKRRD1FjDd36Bm4IIEJbu6iGbLf8TUvUFLaJsOghK9hk9ev-4Y47U_8XneuOf8khkQ65SZl4uvR_bLTxp623CrQulnath8G3MF7Zg1H7epd4P2_7yC9bL-eA.jpg"
+    },
+    {
       "platform": "reddit",
       "source": "r/worldnews",
       "author": "u/intelligentreviews",
@@ -2989,19 +2999,21 @@
       "link": "https://www.reddit.com/r/iran/comments/1tu3289/fm_araghchi_violation_of_the_ceasefire_between/",
       "published": "2026-06-01T19:31:13+00:00",
       "image": "https://preview.redd.it/92xivg163q4h1.png?width=320&crop=smart&auto=webp&s=4fc4a89f2776e568210f6120f7366aabdeb5f036"
-    },
-    {
-      "platform": "reddit",
-      "source": "r/OSINT",
-      "author": "u/GloomySide3265",
-      "title": "If Iran can justify bombing Kuwaiti civilians because Kuwait hosts U.S. military bases, then why do you criticize Israel for using the same logic to justify bombing Hamas targets in Gaza?",
-      "summary": "&#32; submitted by &#32;  /u/GloomySide3265  &#32; to &#32;  r/AskReddit   [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/AskReddit/comments/1tx496g/if_iran_can_justify_bombing_kuwaiti_civilians/",
-      "published": "2026-06-04T23:34:19+00:00",
-      "image": null
     }
   ],
   "videos": [
+    {
+      "type": "video",
+      "title": "Trump said it would end fast. 100 days later, the war goes on | DW News",
+      "summary": "One hundred days after the United States and Israel launched strikes on Iran, the conflict shows little sign of ending.\nUS President Donald Trump initially predicted the war would be short, but Iran has continued to strike American and US-linked targets across the Gulf while tensions remain high over the Strait of Hormuz and regional security.\nKamran Matin, Associate Professor of International Rel",
+      "video_id": "XMQHkzsFu_U",
+      "link": "https://www.youtube.com/watch?v=XMQHkzsFu_U",
+      "embed_url": "https://www.youtube-nocookie.com/embed/XMQHkzsFu_U",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-06-07T19:15:27+00:00",
+      "image": "https://img.youtube.com/vi/XMQHkzsFu_U/hqdefault.jpg"
+    },
     {
       "type": "video",
       "title": "Ceasefire in jeopardy? Israel hits Beirut after Hezbollah fire | DW News",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-14T12:06:45+00:00",
       "image": "https://img.youtube.com/vi/FydIS6aNmOo/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump Meets Xi; Alex Murdaugh\u2019s Murder Conviction Overturned:  What You Need to Know \u2013 May 14, 2026",
-      "summary": "China\u2019s President Xi hosts President Trump in Beijing \u2013 the superpower leaders to talk trade, tariffs, Taiwan and the war in Iran; prosecutors vow to retry Alex Murdaugh for the murders of his wife and son after South Carolina\u2019s Supreme Court overturns his conviction; the American doctor who contracted Hantavirus now tests negative - as the CDC works to contain the outbreak; Kouri Richins is sente",
-      "video_id": "3goMjdsg2vU",
-      "link": "https://www.youtube.com/watch?v=3goMjdsg2vU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/3goMjdsg2vU",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-14T10:09:02+00:00",
-      "image": "https://img.youtube.com/vi/3goMjdsg2vU/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-07T18:19:51.725283+00:00",
+  "last_updated": "2026-06-07T19:52:52.578692+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
