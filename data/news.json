@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Israel strikes Beirut days after ceasefire | DW News",
+      "summary": "Israel\u2019s military has carried out strikes on Beirut\u2019s southern suburbs, targeting what it says was Hezbollah \u201ccommand centers\u201d in the area. The strikes come just days after a renewed US-brokered ceasefire deal between Israel and Lebanon came into effect.\n\n#dwnews \n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: https://w",
+      "video_id": "XIhTTcH7QXs",
+      "link": "https://www.youtube.com/watch?v=XIhTTcH7QXs",
+      "embed_url": "https://www.youtube-nocookie.com/embed/XIhTTcH7QXs",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-06-07T15:56:11+00:00",
+      "image": "https://img.youtube.com/vi/XIhTTcH7QXs/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "How the war on Iran became an 'entirely predictable' regional conflict | DW News",
       "summary": "The US-Israel war on Iran has reached 100 days. What US President Donald Trump initially described as a 'little excursion' in Iran has evolved into a broader regional crisis with ripple effects across the globe. \n\n00:00 100 days of US-Iran war: where do we stand?\n00:49 Expert analysis: was this escalation predictable?\n02:15 Iran strikes US bases in Kuwait and Bahrain\n03:13 How Gulf states are resp",
       "video_id": "5GxtJxLOTRs",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-14T08:22:51+00:00",
       "image": "https://img.youtube.com/vi/sKMx8RyX2LU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump arrives in China for high-stakes summit with Xi Jinping",
-      "summary": "US President Donald Trump is in Beijing for a two-day visit. The Iran war, trade between the two superpowers, and US arms sales to Taiwan are expected to top the agenda. Washington also hopes Beijing will follow through with agreements to buy US goods, from beef and soybeans to Boeing aircraft. Leone Lakhani reports.",
-      "video_id": "U7rOLhhubf0",
-      "link": "https://www.youtube.com/watch?v=U7rOLhhubf0",
-      "embed_url": "https://www.youtube-nocookie.com/embed/U7rOLhhubf0",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-05-14T05:30:12+00:00",
-      "image": "https://img.youtube.com/vi/U7rOLhhubf0/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-07T15:51:27.891486+00:00",
+  "last_updated": "2026-06-07T17:08:43.373601+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
