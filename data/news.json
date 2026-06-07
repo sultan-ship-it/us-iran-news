@@ -3004,6 +3004,42 @@
   "videos": [
     {
       "type": "video",
+      "title": "Iranians face financial pain after 100 days of war",
+      "summary": "The US-Israeli war on Iran is now into its 100th day, and everyday Iranians are feeling the impact, as rising costs and a faltering currency put more pressure on their daily budgets. Reza Hatami reports from Tehran.",
+      "video_id": "hw4cJD4e41U",
+      "link": "https://www.youtube.com/watch?v=hw4cJD4e41U",
+      "embed_url": "https://www.youtube-nocookie.com/embed/hw4cJD4e41U",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-06-07T10:36:10+00:00",
+      "image": "https://img.youtube.com/vi/hw4cJD4e41U/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump faces backlash as Iran war drags into fourth month",
+      "summary": "Donald Trump had promised the American people the war with Iran would be quick and decisive. But as the conflict drags on, opposition continues to grow, as rising fuel costs and economic pressure shape public opinion. TRT World's North America Correspondent Jon Brain reports.",
+      "video_id": "J3t9mkPhwHk",
+      "link": "https://www.youtube.com/watch?v=J3t9mkPhwHk",
+      "embed_url": "https://www.youtube-nocookie.com/embed/J3t9mkPhwHk",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-06-07T09:19:19+00:00",
+      "image": "https://img.youtube.com/vi/J3t9mkPhwHk/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Pakistan's interior minister in Tehran to mediate US-Iran talks",
+      "summary": "US President Donald Trump insists the war with Iran will soon end, and he will get a deal one way or another. Pakistan's interior minister is back in Tehran for more talks, but differences between Israel and the US appear to be holding up progress. Our correspondent Craig Boswell reports from Washington.",
+      "video_id": "Ttm64zhAprQ",
+      "link": "https://www.youtube.com/watch?v=Ttm64zhAprQ",
+      "embed_url": "https://www.youtube-nocookie.com/embed/Ttm64zhAprQ",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-06-07T09:08:35+00:00",
+      "image": "https://img.youtube.com/vi/Ttm64zhAprQ/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Iranian missiles and drones head for Gulf neighbors | DW News",
       "summary": "Kuwait and Bahrain say that they have again been targetted by Iranian drones and ballistic missiles. Images show strikes being intercepted over Kuwait City. Bahrain says it shot down all missiles and drones and called on Iran to cease attacks. Iran's Revolutionary Guard said they were targeting a Kuwaiti air base hosting US forces. The Iranian airstrikes came hours after the US carried out attacks",
       "video_id": "o5Tmnnu-TiU",
@@ -6565,45 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-13T22:15:00+00:00",
       "image": "https://img.youtube.com/vi/-B7AOSKCuA0/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump in China for high-stakes summit with President Xi | BBC News",
-      "summary": "President Trump has been greeted in Beijing with pomp and pageantry on a two day visit to China. \n\nHe\u2019s due to hold a high-stakes summit with his Chinese counterpart, Xi Jinping.  The leaders of the global superpowers are expected to discuss tariffs, competition over technology, the war in Iran, and America's relationship with Taiwan.\n\nThe trip had originally been scheduled for March but was postp",
-      "video_id": "iCg-tOwIgNs",
-      "link": "https://www.youtube.com/watch?v=iCg-tOwIgNs",
-      "embed_url": "https://www.youtube-nocookie.com/embed/iCg-tOwIgNs",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-05-13T21:47:06+00:00",
-      "image": "https://img.youtube.com/vi/iCg-tOwIgNs/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Can Iran control the flow of data like they control the flow of oil? | DW News",
-      "summary": "Tehran's toll booth already taxes oil traffic on top of the water, now the want to charge the data traffic under the water. Even if they can't charge for the 'service', is the threat against these cables enough to change they way big-tech firms invest in the gulf nations?\n\nFor more news go to: http://www.dw.com/en/\n\nFollow DW on social media:\n\u25baInstagram: https://www.instagram.com/dwnews\n\u25baTikTok: h",
-      "video_id": "v7PL1PSnI_0",
-      "link": "https://www.youtube.com/watch?v=v7PL1PSnI_0",
-      "embed_url": "https://www.youtube-nocookie.com/embed/v7PL1PSnI_0",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-13T21:00:53+00:00",
-      "image": "https://img.youtube.com/vi/v7PL1PSnI_0/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Could Trump compromise support for Taipeh in return for China's help with the Iran war? | DW News",
-      "summary": "President Donald Trump is in Beijing for a high-stakes summit with President Xi Jinping. Flanked by a retinue of American CEOs and tech titans, Trump is hunting for headline-grabbing deals. But the escalating war with Iran is casting a shadow over the talks. Fears are growing that Trump - desperate for a Middle East peace deal - may be willing to compromise on US support for Taiwan, which China co",
-      "video_id": "y7Niza5uFxw",
-      "link": "https://www.youtube.com/watch?v=y7Niza5uFxw",
-      "embed_url": "https://www.youtube-nocookie.com/embed/y7Niza5uFxw",
-      "source": "DW News",
-      "platform": "youtube",
-      "published": "2026-05-13T19:01:02+00:00",
-      "image": "https://img.youtube.com/vi/y7Niza5uFxw/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-07T08:27:59.482092+00:00",
+  "last_updated": "2026-06-07T10:53:15.972444+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
