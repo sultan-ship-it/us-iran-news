@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Iran fires at Israel in response to IDF Beirut attacks | DW News",
+      "summary": "Iran has launched missiles at Israel, marking the first such bombardment since a ceasefire in April. The attack comes after Israeli strikes on Hezbollah targets in Lebanon, with Iran's Revolutionary Guard warning Israel to halt its operations in the neighboring country.\n\nChapters: \n00:00 Iran launches new wave of missiles against Israel\n00:28 DW correspondent Tania Kr\u00e4mer reports from Jerusalem\n01",
+      "video_id": "5zwvKMFKH0A",
+      "link": "https://www.youtube.com/watch?v=5zwvKMFKH0A",
+      "embed_url": "https://www.youtube-nocookie.com/embed/5zwvKMFKH0A",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-06-07T20:34:48+00:00",
+      "image": "https://img.youtube.com/vi/5zwvKMFKH0A/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump said it would end fast. 100 days later, the war goes on | DW News",
       "summary": "One hundred days after the United States and Israel launched strikes on Iran, the conflict shows little sign of ending.\nUS President Donald Trump initially predicted the war would be short, but Iran has continued to strike American and US-linked targets across the Gulf while tensions remain high over the Strait of Hormuz and regional security.\nKamran Matin, Associate Professor of International Rel",
       "video_id": "XMQHkzsFu_U",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-14T13:29:36+00:00",
       "image": "https://img.youtube.com/vi/Zmb9Wv5ILFc/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump meets Xi Jinping in high-stakes Beijing summit",
-      "summary": "President Donald Trump met with Chinese President Xi Jinping in Beijing as Iran loomed large over the talks, with no deal to end the war currently in sight.\n\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News a",
-      "video_id": "FydIS6aNmOo",
-      "link": "https://www.youtube.com/watch?v=FydIS6aNmOo",
-      "embed_url": "https://www.youtube-nocookie.com/embed/FydIS6aNmOo",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-14T12:06:45+00:00",
-      "image": "https://img.youtube.com/vi/FydIS6aNmOo/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-07T19:52:52.578692+00:00",
+  "last_updated": "2026-06-07T21:10:07.618275+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
