@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Iran fires missiles towards Israel | DW News",
+      "summary": "ran has launched missiles at Israel for the first time since a ceasefire with the US and Israel took effect in April. Iran's Revolutionary Guards called the attack a \"warning\" after Israel launched strikes against Beirut. Israel said its attacks in southern Beirut were targeting Hezbollah militants in response to fire toward Israeli territory. Israel has called the Iranian attacks a ''grave mistak",
+      "video_id": "5jRAcwIxJJY",
+      "link": "https://www.youtube.com/watch?v=5jRAcwIxJJY",
+      "embed_url": "https://www.youtube-nocookie.com/embed/5jRAcwIxJJY",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-06-08T00:00:04+00:00",
+      "image": "https://img.youtube.com/vi/5jRAcwIxJJY/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Iran fires multiple missiles at Israel in new threat to ceasefire | BBC News",
       "summary": "Iran has fired multiple waves of missiles at northern Israel, for the first time since the ceasefire was agreed in April.\n\nIran's Islamic Revolutionary Guard Corps (IRGC) says it was the beginning of a week of continuous strikes.\n\nMost of the missiles appear to have been intercepted, and Israelis have now been told they can leave shelter. There are no immediate reports of injuries.\n\nA military spo",
       "video_id": "WRwd5gUjGe0",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-14T19:15:01+00:00",
       "image": "https://img.youtube.com/vi/FeUPAAzpFiQ/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump and Xi hold high-stakes talks in Beijing",
-      "summary": "Chinese President Xi Jinping and US President Donald Trump met in Beijing to strengthen ties between the world\u2019s two largest economies, highlighting cooperation despite growing global tensions. While both leaders praised their relationship and economic partnership, key issues including Taiwan, trade, and the war on Iran remained at the centre of discussions. Laura Westbrook reports from Hong Kong.",
-      "video_id": "ZMwLxFcCsSs",
-      "link": "https://www.youtube.com/watch?v=ZMwLxFcCsSs",
-      "embed_url": "https://www.youtube-nocookie.com/embed/ZMwLxFcCsSs",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-05-14T19:24:44+00:00",
-      "image": "https://img.youtube.com/vi/ZMwLxFcCsSs/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-07T23:33:33.580666+00:00",
+  "last_updated": "2026-06-08T01:57:34.069907+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
