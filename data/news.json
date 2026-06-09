@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Tensions rise amid new strikes in Middle East",
+      "summary": "Israel and Iran exchanged new attacks as President Donald Trump struggles to preserve a fragile ceasefire.\n\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://ab",
+      "video_id": "ef7BpQvBoBU",
+      "link": "https://www.youtube.com/watch?v=ef7BpQvBoBU",
+      "embed_url": "https://www.youtube-nocookie.com/embed/ef7BpQvBoBU",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-06-09T12:43:13+00:00",
+      "image": "https://img.youtube.com/vi/ef7BpQvBoBU/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "US Army helicopter crashes near Strait of Hormuz",
+      "summary": "ABC News' Martha Raddatz tracks the latest developments in the Middle East.\n\n\u2013\u2013\u2013\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\n\nABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. https://abcnews.com\n\nDownload the ABC News app for the latest headlines and alerts: https://abcnews.com/devices\n\nConnect with",
+      "video_id": "lXWPIC4siFM",
+      "link": "https://www.youtube.com/watch?v=lXWPIC4siFM",
+      "embed_url": "https://www.youtube-nocookie.com/embed/lXWPIC4siFM",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-06-09T12:02:53+00:00",
+      "image": "https://img.youtube.com/vi/lXWPIC4siFM/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Israeli strikes on Iran show growing rift with US",
       "summary": "Tensions between Tel Aviv and Washington have spilled into public view, as Israel's latest attacks on Iran and Lebanon threaten to derail Trump\u2019s attempts to end the war. Craig Boswell reports.",
       "video_id": "HJ1lPGzDjF0",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-18T10:01:04+00:00",
       "image": "https://img.youtube.com/vi/fDDhRuhbQHU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Drone strike reported near Abu Dhabi nuclear plant | BBC News",
-      "summary": "The UAE has condemned a drone attack on a nuclear power plant in Abu Dhabi, calling it a dangerous escalation. Officials are investigating the source of the strike.\u00a0\n\nMeanwhile Israel continues strikes on Lebanon, targeting the south of the country, despite there being a ceasefire. Hezbollah has also been carrying out attacks using drones.\u00a0\u00a0\n\nGet the latest updates in this edition of the Iran War ",
-      "video_id": "oDNnt5iPeuU",
-      "link": "https://www.youtube.com/watch?v=oDNnt5iPeuU",
-      "embed_url": "https://www.youtube-nocookie.com/embed/oDNnt5iPeuU",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-05-17T20:21:56+00:00",
-      "image": "https://img.youtube.com/vi/oDNnt5iPeuU/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Trump says the clock is ticking for Iran and warns Tehran to move fast",
-      "summary": "Diplomatic talks between the US and Iran remain deadlocked, with Washington reportedly rejecting key Iranian demands, including war reparations and lifting the Hormuz blockade. Meanwhile, the US is keeping military options on the table as Pakistan continues mediation efforts with no breakthrough so far. Leone Lakhani reports from Washington DC.",
-      "video_id": "M68Y15dBQXI",
-      "link": "https://www.youtube.com/watch?v=M68Y15dBQXI",
-      "embed_url": "https://www.youtube-nocookie.com/embed/M68Y15dBQXI",
-      "source": "TRT World",
-      "platform": "youtube",
-      "published": "2026-05-17T20:10:00+00:00",
-      "image": "https://img.youtube.com/vi/M68Y15dBQXI/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-09T11:27:03.918506+00:00",
+  "last_updated": "2026-06-09T14:01:03.169651+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
