@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "Israeli strikes on Iran show growing rift with US",
+      "summary": "Tensions between Tel Aviv and Washington have spilled into public view, as Israel's latest attacks on Iran and Lebanon threaten to derail Trump\u2019s attempts to end the war. Craig Boswell reports.",
+      "video_id": "HJ1lPGzDjF0",
+      "link": "https://www.youtube.com/watch?v=HJ1lPGzDjF0",
+      "embed_url": "https://www.youtube-nocookie.com/embed/HJ1lPGzDjF0",
+      "source": "TRT World",
+      "platform": "youtube",
+      "published": "2026-06-09T07:45:36+00:00",
+      "image": "https://img.youtube.com/vi/HJ1lPGzDjF0/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump Booed Attending NBA Finals; U.S. Chopper Crashes in Iran. What You Need to Know - June 9",
+      "summary": "President Trump received a frosty reception at Madison Square Garden where the New York Knicks host Game 3 of the NBA Finals against the San Antonio Spurs; New York Times report a U.S. Military Helicopter went down near the Strait of Hormuz; Reality Star Spencer Pratt will not advance to the Los Angeles Mayor runoff election set for November; Somali soccer referee Omar Artan was denied entry in th",
+      "video_id": "N8Fi_zJLU30",
+      "link": "https://www.youtube.com/watch?v=N8Fi_zJLU30",
+      "embed_url": "https://www.youtube-nocookie.com/embed/N8Fi_zJLU30",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-06-09T09:57:51+00:00",
+      "image": "https://img.youtube.com/vi/N8Fi_zJLU30/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Will Iran-Israel flare\u2011ups become the new norm? | DW News",
       "summary": "Israel and Iran have stepped back from the brink of all-out war \u2014 for now. After an exchange of fire both sides have agreed to pause military operations, but each is warning it will strike again if provoked. The explosive exchange, and rapid deescalation, raises new questions about whether controlled flare\u2011ups could become the new pattern of conflict. \n\n#dwnews #iranisraelconflict #trump \n\nChapter",
       "video_id": "lxoSLaFV4_A",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-17T20:10:00+00:00",
       "image": "https://img.youtube.com/vi/M68Y15dBQXI/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Hezbollah drone strike videos show evolving tactics against Israel. #Israel #Lebanon #BBCNews",
-      "summary": "",
-      "video_id": "mtkyom9C-ME",
-      "link": "https://www.youtube.com/watch?v=mtkyom9C-ME",
-      "embed_url": "https://www.youtube-nocookie.com/embed/mtkyom9C-ME",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-05-17T13:45:08+00:00",
-      "image": "https://img.youtube.com/vi/mtkyom9C-ME/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension | BBC News",
-      "summary": "An Israeli air strike on a town in southern Lebanon has killed six people, including three paramedics, according to Lebanon's health ministry.\n \nIsrael has intensified its air and artillery strikes in recent days, particularly in southern Lebanon, saying it was targeting Hezbollah fighters and infrastructure. Lebanon's health ministry has accused Israel of targeting civilians and paramedics, which",
-      "video_id": "xZkz_YEMXqY",
-      "link": "https://www.youtube.com/watch?v=xZkz_YEMXqY",
-      "embed_url": "https://www.youtube-nocookie.com/embed/xZkz_YEMXqY",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-05-16T20:30:06+00:00",
-      "image": "https://img.youtube.com/vi/xZkz_YEMXqY/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-09T07:58:54.371565+00:00",
+  "last_updated": "2026-06-09T11:27:03.918506+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
