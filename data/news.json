@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "ABC World News Tonight with David Muir Full Broadcast - June 9, 2026",
+      "summary": "Martha Raddatz has the latest on the U.S. launching retaliatory strikes against Iran for the downing of an Army Apache helicopter near the Strait of Hormuz and the first-of-its-kind rescue for two crew members in the dark of night, as Jon Karl speaks with Pres. Trump shortly after the U.S. counterstrikes; John Quinones reports on a Texas jury\u2019s verdict for Karmelo Anthony, 19,found guilty of murde",
+      "video_id": "K8w9za8RDeE",
+      "link": "https://www.youtube.com/watch?v=K8w9za8RDeE",
+      "embed_url": "https://www.youtube-nocookie.com/embed/K8w9za8RDeE",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-06-10T02:15:32+00:00",
+      "image": "https://img.youtube.com/vi/K8w9za8RDeE/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Israeli strikes on Tyre throw Lebanon ceasefire into doubt | DW News",
       "summary": "Smoke over Tyre, evacuation orders, and a ceasefire in tatters. One day after Israel and Iran agreed to halt their attacks, Israel has struck Lebanon's fifth largest city. We report from southern Lebanon, and we speak to Middle East analysts about what comes next.\n\nChapters:\n0:00 8 reported killed in Tyre by Israel\n2:43 Makram Rabah, American University of Beirut\n4:26 What is Israel's Lebanon plan",
       "video_id": "VttpkTRRW4w",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-19T04:30:15+00:00",
       "image": "https://img.youtube.com/vi/9_ABIpltxtE/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Mosque Shooting investigation; Mark Fuhrman Dies. What You Need to Know - May 19, 2026",
-      "summary": "San Diego mosque attack investigated as a hate crime and new details on the security guard killed helping others; an American in the Congo tests positive for Ebola amid fears of a growing outbreak; President Trump says he is calling off plans to resume attacks on Iran for now; a man sentenced after nearly 200 pounds of cocaine were found in a shipment tied to Kim Kardashian\u2019s underwear line; Spain",
-      "video_id": "qKEeSRP8SPs",
-      "link": "https://www.youtube.com/watch?v=qKEeSRP8SPs",
-      "embed_url": "https://www.youtube-nocookie.com/embed/qKEeSRP8SPs",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-19T10:02:30+00:00",
-      "image": "https://img.youtube.com/vi/qKEeSRP8SPs/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-10T00:02:01.204662+00:00",
+  "last_updated": "2026-06-10T04:41:53.089638+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
