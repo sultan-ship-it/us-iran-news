@@ -3004,6 +3004,18 @@
   "videos": [
     {
       "type": "video",
+      "title": "Israeli strikes on Tyre throw Lebanon ceasefire into doubt | DW News",
+      "summary": "Smoke over Tyre, evacuation orders, and a ceasefire in tatters. One day after Israel and Iran agreed to halt their attacks, Israel has struck Lebanon's fifth largest city. We report from southern Lebanon, and we speak to Middle East analysts about what comes next.\n\nChapters:\n0:00 8 reported killed in Tyre by Israel\n2:43 Makram Rabah, American University of Beirut\n4:26 What is Israel's Lebanon plan",
+      "video_id": "VttpkTRRW4w",
+      "link": "https://www.youtube.com/watch?v=VttpkTRRW4w",
+      "embed_url": "https://www.youtube-nocookie.com/embed/VttpkTRRW4w",
+      "source": "DW News",
+      "platform": "youtube",
+      "published": "2026-06-09T22:47:56+00:00",
+      "image": "https://img.youtube.com/vi/VttpkTRRW4w/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "U.S. launches 'self-defense' strikes against Iran, U.S. Central Command says",
       "summary": "U.S. forces have begun launching \"self-defense\" strikes in response to Iran's attack on a U.S. Army Apache helicopter, U.S. Central Command said.\n\nSubscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G\nABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage.\n\nDownload the ABC News app for the latest headlines a",
       "video_id": "dmACgcWcUqM",
@@ -6589,21 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-19T10:02:30+00:00",
       "image": "https://img.youtube.com/vi/qKEeSRP8SPs/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "China uses renewable energy to offset Iran war energy shock",
-      "summary": "China has been able to offset some of the energy shock caused by the Iran war because of its investment in renewable energy. Britt Clennett reports from a solar thermal plant in the country.",
-      "video_id": "IYE8unDF71c",
-      "link": "https://www.youtube.com/watch?v=IYE8unDF71c",
-      "embed_url": "https://www.youtube-nocookie.com/embed/IYE8unDF71c",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-19T09:43:59+00:00",
-      "image": "https://img.youtube.com/vi/IYE8unDF71c/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-09T22:47:14.575348+00:00",
+  "last_updated": "2026-06-10T00:02:01.204662+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
