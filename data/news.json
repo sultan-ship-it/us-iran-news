@@ -3004,6 +3004,30 @@
   "videos": [
     {
       "type": "video",
+      "title": "President Trump answered ABC News' Rachel Scott when pressed about a peace deal",
+      "summary": "President Trump answered ABC News' Rachel Scott when pressed about a peace deal, saying a \"memorandum of understanding\" is being formed between the U.S. and Iran.",
+      "video_id": "hcXpbtHdzx8",
+      "link": "https://www.youtube.com/watch?v=hcXpbtHdzx8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/hcXpbtHdzx8",
+      "source": "ABC News",
+      "platform": "youtube",
+      "published": "2026-06-11T23:23:49+00:00",
+      "image": "https://img.youtube.com/vi/hcXpbtHdzx8/hqdefault.jpg"
+    },
+    {
+      "type": "video",
+      "title": "Trump vowed to hit Iran 'very hard', but later said the strikes were 'cancelled'. #BBCNews",
+      "summary": "",
+      "video_id": "YByBm73wXu8",
+      "link": "https://www.youtube.com/watch?v=YByBm73wXu8",
+      "embed_url": "https://www.youtube-nocookie.com/embed/YByBm73wXu8",
+      "source": "BBC News",
+      "platform": "youtube",
+      "published": "2026-06-11T22:30:31+00:00",
+      "image": "https://img.youtube.com/vi/YByBm73wXu8/hqdefault.jpg"
+    },
+    {
+      "type": "video",
       "title": "Trump cancels planned attacks saying deal to be 'signed shortly'",
       "summary": "Donald Trump called off military strikes on Iran, just hours after threatening to bomb the country \"very hard\" on Thursday night. In a Truth Social post, he said the decision followed high-level talks with Iranian leaders. He also suggested the final points of a peace deal have been approved. Tehran did not confirmed the claims. DW correspondent Misha Komadovsky and Benjamin Radd from the UCLA Bur",
       "video_id": "N76seT6gW5A",
@@ -6577,33 +6601,9 @@
       "platform": "youtube",
       "published": "2026-05-21T23:30:01+00:00",
       "image": "https://img.youtube.com/vi/4To2cdDhwrE/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "President Trump says he'll try to make Don Jr.'s wedding but it's not 'good timing'",
-      "summary": "President Trump said he will \u201ctry\u201d and make his son Don Jr.\u2019s wedding this weekend, which is reportedly taking place in the Bahamas, though he said the affair is \u201cnot good timing\u201d for him given his responsibilities surrounding the war in Iran.",
-      "video_id": "2ZISc-2TXXA",
-      "link": "https://www.youtube.com/watch?v=2ZISc-2TXXA",
-      "embed_url": "https://www.youtube-nocookie.com/embed/2ZISc-2TXXA",
-      "source": "ABC News",
-      "platform": "youtube",
-      "published": "2026-05-21T23:02:28+00:00",
-      "image": "https://img.youtube.com/vi/2ZISc-2TXXA/hqdefault.jpg"
-    },
-    {
-      "type": "video",
-      "title": "Donald Trump vows to recover Iran's uranium | BBC News",
-      "summary": "Tehran and Washington have demonstrated how central Iran's nuclear issue is to both the war and any future peace between them.\n \nUS President Donald Trump vowed Iran's stockpile of highly enriched uranium will be recovered, while reports emerged that Supreme Leader Ayatollah Mojtaba Khamenei issued a directive that his country's uranium should not be sent abroad. \n \nMeanwhile, Pakistan is continui",
-      "video_id": "vWDHd5B4PSQ",
-      "link": "https://www.youtube.com/watch?v=vWDHd5B4PSQ",
-      "embed_url": "https://www.youtube-nocookie.com/embed/vWDHd5B4PSQ",
-      "source": "BBC News",
-      "platform": "youtube",
-      "published": "2026-05-21T21:15:10+00:00",
-      "image": "https://img.youtube.com/vi/vWDHd5B4PSQ/hqdefault.jpg"
     }
   ],
-  "last_updated": "2026-06-11T22:29:30.853725+00:00",
+  "last_updated": "2026-06-12T00:07:20.165490+00:00",
   "total_articles": 300,
   "total_videos": 300
 }
